@@ -30,7 +30,9 @@ the smallest possible 4-byte starting sequence (interpreted as an integer) one
 of our payloads could have, in order to determine what the smallest possible
 ambiguity is.
 
-So the first case is the empty dictionary, in msgpack this is serialized as::
+So the first case is the empty dictionary, in msgpack this is serialized as:
+
+.. sourcecode:: pycon
 
     >>> msgpack.packb({})
     '\x80'
@@ -43,19 +45,25 @@ and that the keys are alphanumeric or underscores. Looking at the
 that could exist is ``"0"``, since ``"0"`` has the lowest ASCII value of any
 letter, number, or underscore. Further, from the `msgpack spec`_ we know that
 the number ``0`` serializes as a single byte, so that will be the key's value.
-Let's see where this gets us::
+Let's see where this gets us:
+
+.. sourcecode:: pycon
 
     >>> msgpack.packb({"0": 0})
     '\x81\xa10\x00'
 
 A 4 byte result, perfect, this is the smallest prefix we can generate, let's
-see how many bytes this would be::
+see how many bytes this would be:
+
+.. sourcecode:: pycon
 
     >>> struct.unpack('<l', '\x81\xa10\x00')
     (3187073,)
 
 3187073 bytes, or a little over 3 MB. To be honest I'm not sure we have a key
-that starts with a number, let's try with the key ``"a"``::
+that starts with a number, let's try with the key ``"a"``:
+
+.. sourcecode:: pycon
 
     >>> msgpack.packb({"a": 0})
     '\x81\xa1a\x00'
@@ -66,7 +74,9 @@ A little over 6 MB. Since I know that none of the payloads we store are
 anywhere close to this large, we can safely store either serialization format,
 and be able to interpret the result unambiguously as one or the other.
 
-So our final detection code looks like::
+So our final detection code looks like:
+
+.. sourcecode:: python
 
     def deserialize(s):
         if len(s) >= 4 and struct.unpack('<l', s[:4])[0] == len(s):
