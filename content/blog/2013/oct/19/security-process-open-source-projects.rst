@@ -65,7 +65,8 @@ things that need to happen:
    how Django handles this in `our documentation`_.
 #. You issue a release, and publicize the heck out of it.
 
-**Obtaining a CVE**
+Obtaining a CVE
+~~~~~~~~~~~~~~~
 
 In short, follow `these instructions`_ from Red Hat.
 
@@ -83,7 +84,8 @@ Your release announcement needs to have several things:
    to be able to apply the patches easily too).
 #. Credit to the reporter who discovered the issue.
 
-**Why complete disclosure?**
+Why complete disclosure?
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 I've recommended that you completely disclose what the issue was. Why is that?
 A lot of people's first instinct is to want to keep that information secret, to
