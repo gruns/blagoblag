@@ -1,0 +1,17 @@
+
+US Interventionism and its Fallout
+==================================
+
+:tags: war-in-afghanistan
+
+Though the first foreign policy promulgated by the United States was that of non-interventionism, George Washington's warning to avoid foreign entanglements.  However, shortly there after, and ever since, following the Monroe Doctrine US foreign policy has actively tended towards interventionism.  The results of this, however, have been almost universally disastrous, particularly in cases where we've acted against our own principles our of convenience.  This same fate can be seen in the US's support of local warlords in the current war in Afghanistan, as those who ignore history are doomed to repeat it.
+
+The first example of this was the US support for the Iranian Shah in the 1970s.  Despite the increasingly despotic position the Shah took US support for him didn't waver, and as a result when the Iranian Revolution began in 1978, the US embassy shortly found themselves with their backs to the walls.  The US supported a despotic regime, because it was willing to ally itself, politically with us, and then ignored the fact that as it aggravated the local populace it was being hated as well.
+
+The next example of this is the US support, both fiscal and military, for the Afghan Mujahadeen.  To the US it was politically expedient to arm anyone opposing the Soviets, so we supplied them with tons of arms, and then when the Soviets finally left Afghanistan we essentially abandoned the region, paying no mind as it descended into chaos.  This fermented, in the minds of the locals, that the US would only intervene to our benefit, not on any moral principle.
+
+In 1970 the US supported an attempted coup against the democratically elected Allende government in Chile, and then in 1973 following Pinochet's successful coup the US supported his fascist government.  However, as inevitably happens when you support someone who takes power by overthrowing a democracy, in 1998 Pinochet was arrested on charges of human rights violations, further in 2005 the US government uncovered the fact that Pinochet had been laundering millions of dollars.
+
+In the 1980s the US provided Saddam Hussein and the Iraqi government with material support, for us against the Iranians in the Iran-Iraq war.  Though the war effectively ended in a stalemate, it allowed the Iraqi army to expand, solidifying Saddam Hussein's seat as dictator.  This position was ultimately used as a justification for the 2003 US invasion of Iraq.  Further, though the UN has never identified nuclear weapons (or "yellow cake uranium") in Iraq, the book `Spider's Web <http://www.amazon.com/Spiders-Web-Secret-History-Illegally/dp/0553096508>`_ presents evidence that the US attempted to provide Iraq with nuclear weapons under the Reagan administration.
+
+As seen in all of these instances, for the last half a century the US has been willing to support the most unsavory of governments in efforts to advance various political goals, but there has always been a massive blow-back both from political opponents who eventually took power, and from the very people we supported, once we came to ignore the scenario after our interests were no longer at stake.  Similarly, if the US continues to pursue strategies in Iraq and Afghanistan that are centered around paying off various warlords and local militias, in exchange for temporary peace in the region, we'll find that as soon as our money stops flowing we'll be returned to the very state we started, except our enemies will now be richer.

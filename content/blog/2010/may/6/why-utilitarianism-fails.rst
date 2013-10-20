@@ -1,0 +1,15 @@
+
+Why Utilitarianism Fails 
+=========================
+
+:tags: ethics, utilitarianism
+
+This semester I've been taking a course in ethics, and while it hasn't changed my perspective on any issues, it has allowed me to form some opinions about ethical systems.  In particular, I've found that utilitarianism is an awful ethical system, with almost no merit.  The major problems with it being that it is conditional, and that it's impossible to attempt to apply.
+
+The first problem with utilitarianism is that it is conditional.  Utilitarianism is a teleological system that says, "seek to maximize utility", different thinkers have put for different answers to what that that utility is.  This makes utilitarianism a conditional system, it only applies so long as the actor agrees with the identified activity, or property that provides utility.  If one seeks to maximize pleasure, as Bentham suggests, that's fine, except if I don't want to maximize pleasure the entire system is useless to me.  This is a major problem, as an ethical system shouldn't be entirely contingent on an assumption, that happiness is the correct thing to attempt to maximize.  David Hume calls this the `is ought-problem <http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem>`_.
+
+The second, arguably larger issue, is that it's impossible to apply for two reasons.  Because utilitarianism attempts to maximize something we must have a way to quantify it, or at least compare two different items to see which is greater.  Except how does one quantify pleasure or pain?  Bentham proposes a `"pleasure calculus" <http://en.wikipedia.org/wiki/Felicific_calculus>`_ based on 7 attributes of pleasures or pains, but this is really just moving the goal post, how do you compare the intensity of pleasure, of the fecundity of pain?  These are impossible, John Stuart Mill suggests there are two types of pleasures, higher and lower, but this is just a further attempt to both ignore the impossibility of comparing pleasures and pains as well create artificial distinctions, grounded not in reason, but in individual intuition.  If we can't tell which actions are better, we can't actually make any decisions from our ethical system.
+
+The other issue in the application of utilitarianism is that, even if we could compare pleasures and pains, they're often impossible to predict in advance, or even years later.  For example, was the accident at Three Mile Island good or bad?  It obviously had devastating effects, but it also was a catalyst for changing nuclear power policy in the US, and even now, 30 years later, we probably can't say whether the benefits in safety policy outweigh the obvious costs.
+
+Because utilitarianism is both logically unsound (it relies on an unproven assumption) and impossibly to realistically implement it is a bad ethical system.   I have no understanding of how people try to follow a utilitarian ideology in light of these indisputable flaws.  In a future post I'll cover my issues with some deontological ethical systems.

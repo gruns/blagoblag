@@ -1,0 +1,11 @@
+
+Symptoms and Diseases
+=====================
+
+:tags: war-in-afghanistan
+
+When you have a cold you treat the symptoms you deal with the runny nose, the fever, and the cough independently (each with chicken soup) because there's nothing you can do about the cold.  When you have lung cancer you treat the disease, because if all you do is treat the cough you have you're going to die of cancer very quickly.  When your country has the occasional random terrorist attack you deal with it with the appropriate security measures, when you have a series of system terror attempts by an organized group you should probably start thinking about doing something about the root cause: whatever you're doing to piss them off, because no security is 100%.
+
+So what's the root cause of the attacks on the US?  President Bush was fond of saying we're fighting them there so they can't fight us here, however that's not really an accurate statement.  Most of the attacks US troops in Afghanistan deal with are not Al Qaeda (who are reported as having under 100 members), who legitimately would attempt to strike us domestically (more on this later), but rather the Taliban, who are mad at us because we deposed their government and are mucking about in their country's affairs.  And why are we there in the first place?  Because 19 guys crashed four airplanes.  Why would they do that?  Because they were mad at the US for our intervention in Saudi Arabia and the Israeli/Palestinian conflict, and that's ignoring the fact that 30 years ago many of them were on the US payroll when they were mad at the *other* guys who invaded their country.
+
+It is true that a sovereign government has a right to maintain diplomatic relationships with other countries, and that there is no moral justification for murder, however this doesn't necessarily mean it is expedient for the US to continue acting in a way that antagonizes people.  For example, it wouldn't kill us to ease up on the sale of arms (and other things) to Saudi Arabia, the country of origin for 18 of the 19 9/11 hijackers.

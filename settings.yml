@@ -1,0 +1,31 @@
+site:
+    name: Alex Gaynor's Blagoblag
+    url: http://alexgaynor.net
+
+config:
+    source: content/blog/
+    permalink: "{{date.year}}/{{date.month}}/{{date.day}}/{{filename}}/"
+    relate_url: false
+    perpage: 50
+    feedcount: 20
+
+author:
+    default: alex_gaynor
+
+reader:
+    active:
+        - liquidluck.readers.restructuredtext.RestructuredTextReader
+
+writer:
+    active:
+        - liquidluck.writers.core.PostWriter
+        - liquidluck.writers.core.PageWriter
+        - liquidluck.writers.core.ArchiveWriter
+        - liquidluck.writers.core.ArchiveFeedWriter
+        - liquidluck.writers.core.FileWriter
+        - liquidluck.writers.core.StaticWriter
+        - liquidluck.writers.core.YearWriter
+        - liquidluck.writers.core.TagWriter
+
+# theme:
+#     name: blagoblag

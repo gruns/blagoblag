@@ -1,0 +1,13 @@
+
+The Pakistan Problem
+====================
+
+:tags: war-in-afghanistan
+
+Since the US began military operations in Afghanistan in 2001 Pakistan has been a crucial ally.  Pakistan has provided both a supply route for supplies arriving at Karachi (the nearest major seaport) as well providing logistic support against insurgents operating on the Afghanistan/Pakistan border.  Despite this support there are a number of fundamental issues with the US-Pakistan relationship that make the long term relationship a dicey proposition.
+
+The greatest issue is that until recently Pakistan was ruled by a military dictatorship, and a great many individuals in their military (particular the ISI, their intelligence apparatus) still hold loyalty to their military leadership, not the civilian government.  Indeed the ISI has been implicated in any number of undemocratic ventures, including assassinating one of Benazir Bhutto's brothers.  Further, there have been numerous accusations that the ISI has been supporting al-Qaeda and Talian activities in Afghanistan.  The Pakistani military represents their primary counter-terrorism force, which makes all of this an issue.  Under US doctrine domestic counter-terrorism is strictly a police matter, however in Pakistan it is the task of their army, an organization which in addition to only recently being removed from power is actively accused of supporting the groups the US is leaning on them to oppose.  Indeed the US "use" for their military exacerbates their position domestically, which flies in the face of the attempted democratization.
+
+The next major problem is that in Pakistan the US is widely regarded as having bought Pakistani support.  The US gives Pakistan over one billion dollars annually, making them one of the largest recipients of foreign aid.  Since the US depends on Pakistan both for a safe passageway of materials as well as an active partner in anti-insurgent operations it is a practical requirement to have support "on the ground", a perception the government is corrupt at the behest of the US does not support this.
+
+Finally, the greatest issue facing US-Pakistani relations is that Pakistan is a nuclear-state, which means the US will be unwilling to push for any of the reforms necessary to resolve other issues.  Any encouragement by the US for radically different policies has the possibility of being destabilizing, which is unacceptable for a nuclear state, especially one in a region with a terrorism problem.  As a result Pakistan is unlikely to see strong democratic or economic reforms, either from internal or external pressure.
