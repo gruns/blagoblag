@@ -5,7 +5,7 @@ About me
 
 Hi, you've reached my website. I'm Alex Gaynor. Here's some facts about me:
 
-* I'm a software engineer at Rackspace
+* I'm a software engineer at Rackspace.
 * I write a lot of Python open source code.
 * I live in San Francisco, but I'm originally from Chicago.
 
