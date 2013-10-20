@@ -3,7 +3,7 @@ site:
     url: http://alexgaynor.net
 
 config:
-    source: content/blog/
+    source: content/
     permalink: "{{date.year}}/{{month_name}}/{{date.day}}/{{filename}}/"
     relate_url: false
     perpage: 50

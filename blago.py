@@ -22,7 +22,10 @@ class DateFromPathPost(Post):
 
     @property
     def date(self):
-        _, _, year, month_name, day, _ = self.filepath.split("/", 5)
+        if "blog" not in self.filepath:
+            # Posts don't have a date
+            return None
+        _, _, year, month_name, day, _ = self.filepath.split("/", 6)
         month = self.MONTHS_BY_NAME[month_name]
         return datetime.date(int(year), int(month), int(day))
 
