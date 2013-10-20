@@ -14,7 +14,7 @@ author:
 
 reader:
     active:
-        - liquidluck.readers.restructuredtext.RestructuredTextReader
+        - blago.DateFromPathRestructuredTextReader
 
 writer:
     active:
