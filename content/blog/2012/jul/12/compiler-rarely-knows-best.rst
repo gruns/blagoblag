@@ -2,7 +2,6 @@
 The compiler rarely knows best 
 ===============================
 
-:tags: pypy, python, response
 
 **This is a response to http://pwang.wordpress.com/2012/07/11/does-the-compiler-know-best/ if you haven't read it yet, start there.**
 

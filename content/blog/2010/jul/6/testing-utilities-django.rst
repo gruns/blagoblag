@@ -2,7 +2,6 @@
 Testing Utilities in Django
 ===========================
 
-:tags: django, fixtures, python, testing, tests
 
 Lately I've had the opportunity to do some `test-driven development <http://en.wikipedia.org/wiki/Test-driven_development>`_ with Django, which a) is awesome, I love testing, and b) means I've been working up a box full of testing utilities, and I figured I'd share them.
 

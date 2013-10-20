@@ -2,7 +2,6 @@
 Cool New django-taggit API
 ==========================
 
-:tags: applications, django, python
 
 A little while ago `I wrote <http://alexgaynor.net/2010/mar/28/towards-application-objects-django/>`_ about some of the issues with the reusable application paradigm in Django.  Yesterday `Carl Meyer <http://twitter.com/carljm>`_ pinged me about an issue in django-taggit, it uses an ``IntegerField`` for the ``GenericForeignKey``, which is great.  Except for when you have a model with a ``CharField``, ``TextField``, or anything else for a primary key.  The easy solution is to change the ``GenericForeignKey`` to be something else.  But that's lame, a pain in the ass, and a hack (more of a hack than a ``GenericForeignKey`` in the first place).
 

@@ -2,7 +2,6 @@
 The perils of polyglot programming
 ==================================
 
-:tags: djangocon, programming, programming-languages
 
 Polyglot programming (the practice of knowing and using many programming
 languages) seems to be all the rage these days. Its adherents claim two

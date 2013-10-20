@@ -2,7 +2,6 @@
 Languages Don't Have Speeds, Or Do They? 
 =========================================
 
-:tags: compiler, programming-languages, psyco, pypy, python
 
 Everyone knows languages don't have speeds, implementations do.  Python isn't slow; CPython is.  Javascript isn't fast; V8, Squirrelfish, and Tracemonkey are.  But what if a language was designed in such a way that it appeared that it was impossible to be implemented efficiently?  Would it be fair to say that language is slow, or would we still have to speak in terms of implementations?  For a long time I followed the conventional wisdom, that languages didn't have speeds, but lately I've come to believe that we can learn something by thinking about what the limits on how fast a language could possibly be, given a perfect implementation.
 

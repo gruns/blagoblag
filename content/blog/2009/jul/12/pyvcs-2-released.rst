@@ -2,7 +2,6 @@
 pyvcs .2 released
 =================
 
-:tags: python, release, vcs
 
 Hot on the heels of our .1 release (it's only been a week!) I'm pleased to announce the .2 release of pyvcs.  This release brings with it lots of new goodies.  Most prominent among these are the newly-added Subversion and Bazaar backends.  There are also several bug fixes to the code browsing features of the Mercurial backend.  This release can be found at:
  * PyPi: `http://pypi.python.org/pypi/pyvcs <http://pypi.python.org/pypi/pyvcs>`_

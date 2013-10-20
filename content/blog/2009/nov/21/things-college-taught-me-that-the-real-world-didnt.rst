@@ -2,7 +2,6 @@
 Things College Taught me that the "Real World" Didn't
 =====================================================
 
-:tags: c++, college, compile, compiler, django, lex, parse, ply, programming-languages, pypy, python, response, unladen-swallow, yacc
 
 A while ago Eric Holscher blogged about `things he didn't learn in college. <http://ericholscher.com/blog/2009/nov/10/what-they-didnt-teach-me-college/>`_  I'm going to take a different spin on it, looking at both things that I did learn in school that I wouldn't have learned else where (henceforth defined as my job, or open source programming), as well as thinks I learned else where instead of at college.
 

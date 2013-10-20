@@ -2,7 +2,6 @@
 Towards Application Objects in Django 
 ======================================
 
-:tags: applications, django, python, reusable
 
 Django's application paradigm (and the accompanying reusable application environment) have served it exceptionally well, however there are a few well known problems with it.  Chief among these is pain in extendability (as exemplified by the ``User`` model), and abuse of ``GenericForeignKeys`` where a true ``ForeignKey`` would suffice (in the name of being generic), there are also smaller issues, such as wanting to install the same application multiple times, or having applications with the same "label" (in Django parlance this means the ``path.split(".")[-1]``).  Lately I've been thinking that the solution to these problems is a more holistic approach to application construction.
 

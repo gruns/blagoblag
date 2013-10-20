@@ -2,7 +2,6 @@
 What software do I use? 
 ========================
 
-:tags: django, gtk, python, ubuntu
 
 Taking a page from `Brain Rosner's <http://oebfare.com/>`_ book, today I'm going to overview the software I use day to day. I'm only going to cover stuff I use under Ubuntu, I keep Windows XP on my system for gaming, but I'm not going to cover it here.
 

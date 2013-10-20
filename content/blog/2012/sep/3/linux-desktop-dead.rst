@@ -2,7 +2,6 @@
 Linux on the Desktop Dead 
 ==========================
 
-:tags: open-source
 
 At 10:40 AM this morning Linux on the desktop was pronounced dead by Dr.
 Randall Gnu at GPL Memorial Hospital in Portland, Oregon. The cause of death

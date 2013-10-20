@@ -2,7 +2,6 @@
 Why personal funding 
 =====================
 
-:tags: open-source
 
 First, I have to apologize, because this post is incredibly self-serving, I believe everything I write here applies to myself, and if you do what I suggest, it will be to my benefit. I believe every single word I'm writing, but you have no way of knowing that, except trusting me. I can only hope I've written persuasively enough.
 

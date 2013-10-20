@@ -2,7 +2,6 @@
 Why I don't use easy_install
 ============================
 
-:tags: easy_install, python, ubuntu
 
 First things first, this post is not meant as a flame, nor should it indicate to you that you shouldn't use it, unless of course you're priorities are perfectly aligned with my own.  That being said, here are the reasons why I don't use easy_install, and how I'd fix them.
  * No easy_uninstall.  Zed mentioned this in his PyCon '08 lightning talk, and it's still true.  Yes I can simply remove these files, and yeah I could write a script to do it for me.  But I shouldn't have to, if I can install packages, I should be able to uninstall packages, without doing any work.

@@ -2,7 +2,6 @@
 Building a Read Only Field in Django
 ====================================
 
-:tags: django, forms
 
 One commonly requested feature in Django is to have a field on a form(or in the admin), that is read only.  Such a thing is going may be a Django 1.1 feature for the admin, exclusively, since this is the level that it makes sense at, a form is by definition for inputing data, not displaying data.  However, it is still possible to do this with Django now, and it doesn't even take very much code.  As I've said, doing it in this manner(as a form field) isn't particularly intuitive or sensible, however it is possible.
 

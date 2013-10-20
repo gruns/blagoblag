@@ -2,7 +2,6 @@
 How the Heck do Django Models Work
 ==================================
 
-:tags: django, metaclass, models, python
 
 Anyone who has used Django for just about any length of time has probably used a Django model, and possibly wondered how it works. The key to the whole thing is what's known as a metaclass, a metaclass is essentially a class that defines how a class is created. All the code for this occurs is `here <http://code.djangoproject.com/browser/django/trunk/django/db/models/base.py#L25>`_. And without further ado, let's see what this does.
 

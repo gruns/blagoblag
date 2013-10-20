@@ -2,7 +2,6 @@
 Running the Django Test Suite
 =============================
 
-:tags: django, tests
 
 This question came up in IRC yesterday, so I figured I'd run through it today.  Django has a very extensive test suite that tests all of the components of Django itself.  If you've ever written a patch for Django you probably know that tests are a requirement, for both new features and bug fixes.  I'm going to try to run down how to setup your own testing envrioment.
 

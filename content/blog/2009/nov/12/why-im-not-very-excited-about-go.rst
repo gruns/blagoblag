@@ -2,7 +2,6 @@
 Why I'm not very excited about Go
 =================================
 
-:tags: c++, compiler, go, programming-languages
 
 When I first heard Rob Pike and Ken Thompson had created a new programming language my first instinct is, "I'm sure it'll be cool, these are brilliant guys!"  Unfortunately that is not the case, mostly because I think they made some bad design choices, and because the "cool new things" aren't actually that new, or cool.
 

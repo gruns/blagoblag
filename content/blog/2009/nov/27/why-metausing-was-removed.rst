@@ -2,7 +2,6 @@
 Why Meta.using was removed
 ==========================
 
-:tags: django, gsoc, models, orm, python
 
 Recently Russell Keith-Magee and I decided that the Meta.using option needed to be removed from the multiple-db work on Django, and so we did.  Yesterday someone tweeted that this change caught them off guard, so I wanted to provide a bit of explanation as to why we made that change.
 

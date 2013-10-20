@@ -25,4 +25,3 @@ writer:
         - liquidluck.writers.core.FileWriter
         - liquidluck.writers.core.StaticWriter
         - liquidluck.writers.core.YearWriter
-        - liquidluck.writers.core.TagWriter

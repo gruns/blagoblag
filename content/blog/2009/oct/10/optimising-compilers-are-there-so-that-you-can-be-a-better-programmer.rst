@@ -2,7 +2,6 @@
 Optimising compilers are there so that you can be a better programmer
 =====================================================================
 
-:tags: compiler, django, pypy, python, unladen-swallow
 
 In a discussion on the Django developers mailing list I recently commented that the performance impact of having logging infrastructure, in the case where the user doesn't want the logging, could essentially be disregarded because Unladen Swallow (and PyPy) are bringing us a proper optimising (Just in Time) compiler that would essentially remove that consideration.  Shortly thereafter someone asked me if I really thought it was the job of the interpreter/compiler to make us not think about performance.  And my answer is: the job of a compiler is to let me program with best practices and not suffer performance consequences for doing things the right way.
 

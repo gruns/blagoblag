@@ -2,7 +2,6 @@
 An open letter to the security community
 ========================================
 
-:tags: programming, security
 
 Your community appears to be a disaster. I've already read about the following
 happening in your community/conferences:

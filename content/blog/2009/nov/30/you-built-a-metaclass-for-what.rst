@@ -2,7 +2,6 @@
 You Built a Metaclass for *what*?
 =================================
 
-:tags: c++, django, metaclass, python
 
 Recently I had a bit of an interesting problem, I needed to define a way to represent a C++ API in Python.  So, I figured the best way to represent that was one class in Python for each class in C++, with a functions dictionary to track each of the methods on each class.  Seems simple enough right, do something like this:
 

@@ -2,7 +2,6 @@
 PyPy is the Future of Python 
 =============================
 
-:tags: pypy, python
 
 Currently the most common implementation of Python is known as CPython, and it's the version of Python you get at `python.org <http://python.org>`_, probably 99.9% of Python developers are using it.  However, I think over the next couple of years we're going to see a move away from this towards PyPy, Python written in Python.  This is going to happen because PyPy offers better speed, more flexibility, and is a better platform for Python's growth, and the most important thing is you can make this transition happen.
 

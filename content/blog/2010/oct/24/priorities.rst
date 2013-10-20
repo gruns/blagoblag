@@ -2,7 +2,6 @@
 Priorities
 ==========
 
-:tags: django, open-source, programming, python
 
 When you work on something as large and multi-faceted as Django you need a way to prioritize what you work on, without a system how do I decide if I should work on a new feature for the template system, a bugfix in the ORM, a performance improvement to the localization features, or better docs for ``contrib.auth``?  There's tons of places to jump in and work on something in Django, and if you aren't a committer you'll eventually need one to commit your work to Django.  So if you ever need me to commit something, here's how I prioritize my time on Django:
 

@@ -2,7 +2,6 @@
 Building a Magic Manager
 ========================
 
-:tags: django, models, orm, python
 
 A very common pattern in Django is to create methods on a manager to abstract some usage of ones data.  Some people take a second step and actually create a custom QuerySet subclass with these methods and have their manager proxy these methods to the QuerySet, this pattern is seen in Eric Florenzano's `Django From the Ground Up <http://thisweekindjango.com/screencasts/episode/11/django-ground-episode-3/>`_ screencast.  However, this requires a lot of repetition, it would be far less verbose if we could just define our methods once and have them available to us on both our managers and QuerySets.
 

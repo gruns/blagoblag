@@ -2,7 +2,6 @@
 You don't have to be a jerk to code review
 ==========================================
 
-:tags: open-source
 
 By this point it's likely you've read about the discussion Sarah Sharp started
 on the Linux Kernel Mailing List (LKML) about the abusive nature of some of the

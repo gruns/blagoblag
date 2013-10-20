@@ -2,7 +2,6 @@
 Hot Django on WSGI Action (announcing django-wsgi)
 ==================================================
 
-:tags: django, python, release, wsgi
 
 For a long time it's been possible to deploy a Django project under a WSGI server, and in the run up to Django's 1.0 release a number of bugs were fixed to make Django's WSGI handler as compliant to the `standard <http://www.python.org/dev/peps/pep-0333/>`_ as possible.  However, Django's support for interacting with the world of WSGI application, middleware, and frameworks has been less than stellar.  However, I recently got inspired to improve this situation.
 

@@ -2,7 +2,6 @@
 Dive into Python 3 Review 
 ==========================
 
-:tags: book, python, review
 
 Disclosure: I received a free review copy of Dive into Python 3 from Apress.
 

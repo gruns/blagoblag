@@ -2,7 +2,6 @@
 More Laziness with Foreign Keys
 ===============================
 
-:tags: django, foreignkey, models, orm
 
 Yesterday we looked at building a form field to make the process of getting a ForeignKey to the User model more simple, and to provide us with some useful tools, like the manager.  But this process can be generalized, and made more robust.  First we want to have a lazy ForeignKey field for all models(be careful not to confuse the term lazy, here I use it to refer to the fact that I am a lazy person, not the fact that foreign keys are lazy loaded).
 

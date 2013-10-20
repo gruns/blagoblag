@@ -2,7 +2,6 @@
 Uncoupled code is good, but doesn't exist
 =========================================
 
-:tags: django, models, orm, python, turbogears
 
 Code should try to be as decoupled from the code it depends as possible, I want me C++ to work with any compiler, I want my web framework to work with any ORM, I want my ORM to work with any database.  While all of these are achievable goals, some of the decoupling people are searching for is simply not possible.  At DjangoCon 2008 Mark Ramm made the argument that the Django community was too segregated from the Python community, both in terms of the community itself, and the code, Django for example doesn't take enough advantage of WSGI level middlewear, and has and ORM unto itself.  I believe some of these claims to be true, but I ultiamtely thing the level of uncoupling some people want is simply impossible.
 

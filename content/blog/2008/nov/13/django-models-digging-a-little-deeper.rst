@@ -2,7 +2,6 @@
 Django Models - Digging a Little Deeper
 =======================================
 
-:tags: django, foreignkey, metaclass, models, orm, python
 
 For those of you who read my last post on Django models you probably noticed that I skirted over a few details, specifically for quite a few items I said we, "added them to the new class".  But what exactly does that entail?  Here I'm going to look at the add_to_class method that's present on the ModelBase metaclass we look at earlier, and the contribute_to_class method that's present on a number of classes throughout Django.
 

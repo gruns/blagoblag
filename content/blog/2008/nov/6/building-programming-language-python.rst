@@ -2,7 +2,6 @@
 Building a Programming Language with Python
 ===========================================
 
-:tags: compile, ply, python
 
 One of my side projects of late has been building a programming language in Python, using the PLY library.  PLY is essentially a Python implementation of the classic Lex and Yacc tools.  The language, at present, has a syntax almost exactly the same as Python's (the notable difference, in so far as features that have been implemented, is that you are not allowed to have multiple statements on the same line, or to put anything following a colon on the same line).  The language(currently called 'Al' although that's more of a working name), is a dynamic language that builds up an syntax tree for the code, and than executes it.  However, the long term goal is to have it actually be a compiled language, similar to Lisp or C.  Essentially the mechanism for doing this will be the same as how a C++ compiler handles multiple dispatch, which is dynamically at run time.
 

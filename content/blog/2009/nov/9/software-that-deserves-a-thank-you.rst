@@ -2,7 +2,6 @@
 Software that deserves a thank you
 ==================================
 
-:tags: software
 
 Today's post was originally supposed to be about my work on multiple database support for Django, but I'm exceptionally tired so that's been bumped to tomorrow, sorry.  Instead I'm going to use today's post to give a thank you to some software I use that doesn't get enough press, and that surely deserves a thanks.  I'm not going to be listing any libraries or programming languages just the desktop software I run day to day:
 

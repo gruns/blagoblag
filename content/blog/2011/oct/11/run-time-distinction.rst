@@ -2,7 +2,6 @@
 The run-time distinction 
 =========================
 
-:tags: programming, programming-languages, python
 
 At `PyCodeConf`_ I had a very interesting discussion with `Nick Coghlan`_ which
 helped me understand something that had long frustrated me with programming

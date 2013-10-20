@@ -2,7 +2,6 @@
 Getting Started With PLY - Part 2
 =================================
 
-:tags: ply, python, yacc
 
 Yesterday we created our tokens, and using these we can parse our language (which right now is a calculator) into some tokens. Unfortunately this isn't very useful. So today we are going to start writing a grammar, and building an interpreter around it.
 

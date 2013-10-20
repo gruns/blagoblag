@@ -2,7 +2,6 @@
 Effective Code Review
 =====================
 
-:tags: community, django, open-source, openstack, python
 
 Maybe you practice code review, either as a part of your open source project or
 as a part of your team at work, maybe you don't yet. But if you're working on a

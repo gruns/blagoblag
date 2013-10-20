@@ -2,7 +2,6 @@
 Programming Languages Terminology
 =================================
 
-:tags: programming, programming-languages
 
 This semester I've been taking a course titled "Programming Languages".  Since I'm a big languages and compilers nerd this should be wonderful.  Unfortunately every time I'm in this class I'm reminded of just what a cluster-fuck programming language terminology is.  What follows are my definitions of a number of terms:
 

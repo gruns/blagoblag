@@ -2,7 +2,6 @@
 Disambiguating BSON and msgpack
 ===============================
 
-:tags: programming, python
 
 I had a fairly fun project at work recently, so I thought I'd write about it.
 We currently store `BSON`_ blobs of data in many places. This is unfortunate,

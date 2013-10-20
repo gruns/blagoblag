@@ -2,7 +2,6 @@
 2010 in Review
 ==============
 
-:tags: blogging, meta
 
 Now that the decades almost over (or maybe not, if the millennium started in 2001 did the decade start then as well?), it's time for a little year in review:
 

@@ -2,7 +2,6 @@
 Prohibition doesn't Work
 ========================
 
-:tags: war-in-afghanistan
 
 Since the 2001 US and allied invasion of Afghanistan one of the major international efforts has been to reduce the output of opium from Afghanistan.  Nonetheless, since 2001 the output has been increasingly, however the September 2010 report from the UN indicates there has been a nearly 50% reduction in the potential production of opium for all of Afghanistan, however it also notes a 38% increase in the total farm-gate value of opium production; that is the total value of the opium produced nearly doubled despite halving the output.  This is representative of the generally failed US and international policy with respect to opium (and illicit drugs in general).
 

@@ -2,7 +2,6 @@
 A Second Look at Inheritance and Polymorphism with Django
 =========================================================
 
-:tags: django, internals, metaclass, models, orm, python
 
 Previously I wrote about ways to handle polymorphism with inheritance in Django's ORM in a way that didn't require any changes to your model at all(besides adding in a mixin), today we're going to look at a way to do this that is a little more invasive and involved, but also can provide much better performance.  As we saw previously with no other information we could get the correct subclass for a given object in O(k) queries, where k is the number of subclasses.  This means for a queryset with n items, we would need to do O(nk) queries, not great performance, for a queryset with 10 items, and 3 subclasses we'd need to do 30 queries, which isn't really acceptable for most websites.  The major problem here is that for each object we simply guess as to which subclass a given object is.  However, that's a piece of information we could know concretely if we cached it for later usage, so let's start off there, we're going to be building a mixin class just like we did last time:
 

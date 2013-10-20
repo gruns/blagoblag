@@ -2,7 +2,6 @@
 Being negative
 ==============
 
-:tags: community, thinking
 
 From time to time I joke that Bob Knight stole the title of my autobiography
 with his, which is titled "The Power of Negativity". I've never read the book,

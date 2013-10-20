@@ -2,7 +2,6 @@
 Another Unladen Swallow Optimization
 ====================================
 
-:tags: internals, python, unladen-swallow
 
 This past week I described a few optimizations that the Unladen Swallow team have done in order to speed up CPython.  In particular one of the optimizations I described was to emit direct calls to C functions that took either zero or one argument.  This improves the speed of Python when calling functions like len() or repr(), who only take one argument.  However, there are plenty of builtin functions that take a fixed number of arguments that is greater than one.  This is the source of the latest optimization.
 

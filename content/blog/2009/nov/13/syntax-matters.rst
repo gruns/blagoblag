@@ -2,7 +2,6 @@
 Syntax Matters
 ==============
 
-:tags: go, programming-languages, response
 
 Yesterday I wrote about why I wasn't very interested in Go.  Two of my three major complaints were about the syntax of Go, and based on the comments I got here and on Hacker News a lot of people didn't seem to mind the syntax, or at least didn't think it was worth talking about.  However, the opposite is true, for me the syntax is among the single most important things about a programming language.
 

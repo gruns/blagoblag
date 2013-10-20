@@ -2,7 +2,6 @@
 Getting Started With PLY - Part 3
 =================================
 
-:tags: lex, ply, python, yacc
 
 As promised, today we'll be looking at implementing additional arithmetic operations, dealing with order of operations, and adding variables to our languages, so without further ado, let's jump into the code.
 

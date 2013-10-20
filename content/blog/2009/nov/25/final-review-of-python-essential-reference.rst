@@ -2,7 +2,6 @@
 Final Review of Python Essential Reference
 ==========================================
 
-:tags: book, python, review
 
 Disclosure: I received a free review copy of the book.
 

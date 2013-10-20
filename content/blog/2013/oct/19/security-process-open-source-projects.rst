@@ -1,7 +1,6 @@
 Security process for Open Source Projects
 =========================================
 
-:tags: community, django, open-source, python
 
 
 This post is intended to describe how open source projects should handle

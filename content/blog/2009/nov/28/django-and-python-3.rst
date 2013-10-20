@@ -2,7 +2,6 @@
 Django and Python 3
 ===================
 
-:tags: django, python
 
 Today I'm starting off doing some of the posts people want to see, and the number one item on that list is Django and Python 3.  Python 3 has been out for about a year at this point, and so far Django hasn't really started to move towards it (at least at a first glance).  However, Django has already begun the long process towards moving to Python 3, this post is going to recap exactly what Django's migration strategy is (most of this post is a recap of a message `James Bennett <http://www.b-list.org/>`_ sent to the django-developers mailing list after the 1.0 release, available `here <http://groups.google.com/group/django-developers/msg/0888b1c8f2518059>`_).
 

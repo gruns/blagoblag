@@ -2,7 +2,6 @@
 PyCon '09, Here I come!
 =======================
 
-:tags: alchemy, django, gae, object, orm, sql, sql, web2py
 
 This past year I attended PyCon 2008 in Chicago, which was a tremendous conference.  I had a chance to meet people I knew from the community, listen to some amazing talks, meet new people, and get to sprint.  As a result of this tremendous experience I decided for this year to submit a talk proposal.  I found out just a few minutes ago that my proposal has been accepted.
 

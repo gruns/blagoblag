@@ -2,7 +2,6 @@
 Introduction to Unladen Swallow
 ===============================
 
-:tags: compile, compiler, internals, python, unladen-swallow
 
 Unless you've been living under a rock for the past year (or have zero interest in either Python or dynamic languages, it which case why are you here?) you've probably heard of Unladen Swallow.  Unladen Swallow is a Google funded branch of the CPython interpreter, with a goal of making CPython significantly faster while retaining both API and ABI compatibility.  In this post I'm going to try to explain what it is Unladen Swallow is doing to bring a new burst of speed to the Python world.
 

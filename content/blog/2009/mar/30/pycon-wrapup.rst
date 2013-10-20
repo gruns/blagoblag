@@ -2,7 +2,6 @@
 PyCon Wrapup
 ============
 
-:tags: django, pycon, python
 
 With PyCon now over for me(and the sprints just begining for those still there) I figured I'd recap it for those who couldn't be there, and compare notes for those who were.  I'll be doing a separate post to cover my panel, since I have quite a brain dump there.
 

@@ -2,7 +2,6 @@
 Lazy User Foreign Keys
 ======================
 
-:tags: django, foreignkey, models, orm
 
 A *very* common pattern in Django is for models to have a foreign key to django.contrib.auth.User for the owner(or submitter, or whatever other relation with User) and then to have views that filter this down to the related objects for a specific user(often the currently logged in user).  If we think ahead, we can make a manager with a method to filter down to a specific user.  But since we are really lazy we are going to make a field that automatically generates the foreign key to User, and gives us a manager, automatically, to filter for a specific User, and we can reuse this for all types of models.
 

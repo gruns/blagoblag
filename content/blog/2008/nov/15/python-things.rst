@@ -2,7 +2,6 @@
 Python Things
 =============
 
-:tags: python, tips
 
 I wasn't really sure what to name today's post, but it's basically going to be nifty things you can do in Python, and general tips.
 

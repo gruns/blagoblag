@@ -2,7 +2,6 @@
 ORM Panel Recap
 ===============
 
-:tags: alchemy, django, gae, object, orm, pycon, python, sql, sql, web2py
 
 Having now completed what I thought was a quite successful panel I thought it would be nice to do a review of some of the decisions I made, that some people had been asking about.  For those who missed it you can find a live blog of the event by James Bennett at `his blog <http://www.b-list.org/weblog/2009/mar/28/pycon-orm-panel/>`_, and a video should hopefully be going up sometime soon.
 

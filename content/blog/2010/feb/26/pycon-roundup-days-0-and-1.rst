@@ -2,7 +2,6 @@
 PyCon Roundup - Days 0 and 1 
 =============================
 
-:tags: pycon, unladen-swallow
 
 This year's PyCon was completely and utterly awesome, to the point where anything I point in writing won't do it justice.  But I'm going to try to anyways.
 

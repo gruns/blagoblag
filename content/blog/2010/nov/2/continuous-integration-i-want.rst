@@ -2,7 +2,6 @@
 The continuous integration I want
 =================================
 
-:tags: django, open-source, python, testing, tests
 
 Testing is important, I've been a big advocate of writing tests for a while, however when you've got tests you need to run them.  This is a big problem in open source, Django works on something like six versions of Python (2.4, 2.5, 2.6, 2.7, Jython, and PyPy), 4 databases (SQLite, PostgreSQL, MySQL, Oracle, plus the GIS backends, and external backends), and I don't even know how many operating systems (at least the various Linuxes, OS X, and Windows).  If I tried to run the tests in all those configurations for every commit I'd go crazy.  Reusable applications have it even worse, ideally they should be tested under all those configurations, **with each version of Django they support**.  For a Django application that wants to work on Django 1.1, 1.2, and all of those interpreters, databases, and operating systems you've got over 100 configurations.  Crazy.  John Resig faced a similar problem with jQuery (5 major browsers, multiple versions, mobile and desktop, different OSs), and the result was `Test Swarm <http://ejohn.org/blog/test-swarm-alpha-open/>`_ (note that at this time it doesn't appear to be up), an automated way for people to volunteer their machines to run tests.  We need something like that for Python.
 

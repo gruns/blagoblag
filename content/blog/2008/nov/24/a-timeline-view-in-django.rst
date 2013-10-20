@@ -2,7 +2,6 @@
 A timeline view in Django
 =========================
 
-:tags: django, models, orm, python, tips
 
 One thing a lot of people want to do in Django is to have a timeline view, that shows all the objects of a given set of models ordered by a common key.  Unfortunately the Django ORM doesn't have a way of representing this type of query.  There are a few techniques people use to solve this.  One is to have all of the models inherit from a common baseclass that stores all the common information, and has a method to get the actual object.  The problem with this is that it could execute either O(N) or O(N*k) queries, where N is the number of items and k is the number of models.  It's N if your baseclass has the subtype it is stored on it, in which case you can directly grab it, else it's N*k since you have to try each type.  Another approach is to use a generic relation, this will also need O(N) queries since you need to get the related object for each generic one.  However, there's a better solution.
 

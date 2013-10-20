@@ -2,7 +2,6 @@
 Towards a Better Template Tag Definition Syntax
 ===============================================
 
-:tags: django, python, template
 
 `Eric Holscher <http://ericholscher.com/>`_ has blogged a `few <http://ericholscher.com/blog/2009/nov/3/class-based-template-tags/>`_ `times <http://ericholscher.com/blog/2009/nov/3/making-template-parsing-easier/>`_ this month about various template tag definition syntax ideas.  In particular he's looked at a system based on `Surlex <http://github.com/codysoyland/surlex>`_ (which is essentially an alternate syntax for certain parts of regular expressions), and a system based on keywords.  I highly recommend giving his posts a read as they explain the ideas he's looked at in far better detail than I could.  However, I wasn't particularly satisfied with either of these solution, I love Django's use of regular expressions for URL resolving, however, for whatever reason I don't really like the look of using regular expressions (or an alternate syntax like Surlex) for template tag parsing.  Instead I've been thinking about an object based parsing syntax, similar to `PyParsing <http://pyparsing.wikispaces.com/>`_.
 

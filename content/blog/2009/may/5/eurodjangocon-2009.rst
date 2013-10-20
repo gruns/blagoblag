@@ -2,7 +2,6 @@
 EuroDjangoCon 2009
 ==================
 
-:tags: django, forms, python, talk
 
 EuroDjangoCon 2009 is still going strong, but I wanted to share the materials from my talk as quickly as possible.  My slides are on Slide Share:
 

@@ -2,7 +2,6 @@
 When Django Fails? (A response)
 ===============================
 
-:tags: django, python, rails, response
 
 I saw `an article <http://zef.me/2308/when-rails-fails>`_ on reddit (or was in hacker news?) that asked the question: what happens when newbies make typos following the Rails tutorial, and how good of a job does Rails do at giving useful error messages?  I decided it would be interesting to apply this same question to Django, and see what the results are.  I didn't have the time to review the entire Django tutorial, so instead I'm going to make the same mistakes the author of that article did and see what the results are, I've only done the first few where the analogs in Django were clear.
 

@@ -2,7 +2,6 @@
 Afghani Elections
 =================
 
-:tags: war-in-afghanistan
 
 The following is in response to an `Associated Press article <http://www.msnbc.msn.com/id/39265568/ns/world_news-south_and_central_asia>`_ today.
 

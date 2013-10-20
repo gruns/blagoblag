@@ -2,7 +2,6 @@
 Announcing VCS Translator
 =========================
 
-:tags: django, open-source, programming, python, software, vcs
 
 For the past month or so I've been using a combination of Google, Stackoverflow, and bugging people on IRC to muddle my way through using various VCS that I'm not very familiar with.  And all too often my queries are of the form of "how do I do git foobar -q in mercurial?".  A while ago I tweeted that someone should write a VCS translator website.  Nobody else did, so when I woke up far too early today I decided I was going to get something online to solve this problem, today!  About 6 hours later `I tweeted <http://twitter.com/#!/alex_gaynor/status/28514110215815168>`_ the launch of `VCS translator <http://vcs-translator.ep.io/>`_.
 

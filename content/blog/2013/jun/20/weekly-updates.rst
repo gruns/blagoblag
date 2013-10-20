@@ -2,7 +2,6 @@
 Weekly Updates
 ==============
 
-:tags: rackspace
 
 One of the great luxuries of my new job at Rackspace is that basically everything I work on is open source, which means I also have the ability to write and talk about almost everything I do! Since a large chunk of my time is dedicated to working on open source projects of my choice, I wanted to start writing regularly about what I'm doing with that time. To that end I'm going to try to write regularly (hopefully every Monday) about my goals for the week. Since today is a Thursday, I'll tell you about what I've done thus far this week:
 

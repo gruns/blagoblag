@@ -2,7 +2,6 @@
 US Interventionism and its Fallout
 ==================================
 
-:tags: war-in-afghanistan
 
 Though the first foreign policy promulgated by the United States was that of non-interventionism, George Washington's warning to avoid foreign entanglements.  However, shortly there after, and ever since, following the Monroe Doctrine US foreign policy has actively tended towards interventionism.  The results of this, however, have been almost universally disastrous, particularly in cases where we've acted against our own principles our of convenience.  This same fate can be seen in the US's support of local warlords in the current war in Afghanistan, as those who ignore history are doomed to repeat it.
 

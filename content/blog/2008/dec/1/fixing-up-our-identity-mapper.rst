@@ -2,7 +2,6 @@
 Fixing up our identity mapper
 =============================
 
-:tags: django, foreignkey, internals, models, orm
 
 The past two days we've been looking at building an identity mapper in Django.  Today we're going to implement some of the improvements I mentioned yesterday.
 

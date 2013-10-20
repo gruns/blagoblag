@@ -2,7 +2,6 @@
 Getting the most out of tox 
 ============================
 
-:tags: django, programming, python, taggit, testing
 
 tox_ is a recent Python testing tool, by Holger Krekel.  It's stated purpose is to make testing Python projects against multiple versions of Python (or different interpreters, like PyPy and Jython) much easier.  However, it can be used for so much more.  Yesterday I set it up for `django-taggit`_, and it's an absolute dream, it automates testing against four different versions of Python, two different versions of Django, and it automates building the docs and checking for any warnings from Sphinx.  I'll try to give a run through on what exactly you need to do to set this up with your project.
 

@@ -2,7 +2,6 @@
 RCOS NumPy Talk
 ===============
 
-:tags: numpy, pypy, rcos
 
 I just delivered a talk at RCOS (the open source center on campus) on some of
 the work I've been doing this semester on PyPy's implementation of NumPy. You

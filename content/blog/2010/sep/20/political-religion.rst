@@ -2,7 +2,6 @@
 Political Religion
 ==================
 
-:tags: war-in-afghanistan
 
 For the vast majority of human history religion has been a centerpiece of any government, the notion of a separation between church and state is a relatively recent notion, by and large dating back to Thomas Jefferson (ignoring Jesus of Nazareth's dictum to, "render unto Caesar that which is Caeser's and unto God that which is god's", which was mostly ignored for the two millennium that followed).  However, recently this notion has been almost completely rejected by both radical American conservatives, and fanatic Muslims, an exceptionally odd parallel.
 

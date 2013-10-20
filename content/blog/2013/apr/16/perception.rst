@@ -2,7 +2,6 @@
 Perception
 ==========
 
-:tags: thinking
 
 I've been reading Sheryl Sandberg's "Lean In". It's a good book and I recommend
 it. One passage recently caught my attention. Writing about her first day at a

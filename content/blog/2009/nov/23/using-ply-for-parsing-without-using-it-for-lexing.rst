@@ -2,7 +2,6 @@
 Using PLY for Parsing Without Using it for Lexing
 =================================================
 
-:tags: lex, parse, ply, python, yacc
 
 Over the past week or so I've been struggling with attempting to write my own parser (or parser generator) by hand.  A few days ago I finally decided to give up on this notion (after all the parser isn't my end goal) as it was draining my time from the interesting work to be done.  However, I wanted to keep my existing lexer.  I wrote the lexer by hand in the method I described in a previous post, it's fast, easy to read, and I rather like my handiwork, so I wanted to keep it if possible.  I've used PLY before (as I described last year) so I set out to see if it would be possible to use it for parsing without using it for lexing.
 

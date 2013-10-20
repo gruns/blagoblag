@@ -2,7 +2,6 @@
 And now for the disclaimer
 ==========================
 
-:tags: disclaimer, django, internals, python
 
 I've been discussing portions of how the Django internals work, and this is powerful knowledge for a Django user.  However, it's also internals, and unless they are documented internals are not guaranteed to continue to work.  That doesn't mean they break very frequently, they don't, but you should be aware that it has no guarantee of compatibility going forward.
 

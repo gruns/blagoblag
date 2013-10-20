@@ -2,7 +2,6 @@
 Thoughts on HipHop PHP 
 =======================
 
-:tags: c++, compile, compiler, php, programming-languages, python, unladen-swallow
 
 This morning Facebook announced, as had been rumored for several weeks, a new, faster, implementation of PHP.  To someone, like me, who loves dynamic languages and virtual machines this type of announcement is pretty exciting, after all, if they have some new techniques for optimizing dynamic languages they can almost certainly be ported to a language I care about.  However, because of everything I've read (and learned about PHP, the language) since the announcement I'm not particularly excited about HipHop.
 

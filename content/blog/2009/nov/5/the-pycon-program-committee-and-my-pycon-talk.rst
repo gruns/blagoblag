@@ -2,7 +2,6 @@
 The Pycon Program Committee and my PyCon Talk
 =============================================
 
-:tags: pc, pycon, python, talk
 
 Last year I presented at a conference for the first time in my life at PyCon, I moderated a panel on ORMs and I enjoyed it a ton (and based on the feedback I've gotten at least a few people enjoyed attending it).  Above and beyond that the two PyCons I've attended have both been amazing conferences, tons of awesome talks, great people to hang out with, and an awesome environment for maximizing both.  For both of the last two years I've hung around the PyCon organizers mailing list since the conference was in Chicago and I lived there, however this year I really wanted to increase my contributions to such a great conference.  Therefore, I joined the Pycon program committee.  This committee is responsible for reviewing all talk submissions and selecting the talks that will ultimately appear at PyCon.
 

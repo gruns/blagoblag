@@ -2,7 +2,6 @@
 Why jQuery shouldn't be in the admin
 ====================================
 
-:tags: admin, django, gsoc, jquery, python
 
 This summer as a part of the Google Summer of Code program Zain Memon worked on improving the UI for Django's admin, specifically he integrated jQuery for various interface improvements.  I am opposed to including jQuery in Django's admin, as far as I know I'm the only one.  I should note that on a personal level I love jQuery, however I don't think that means it should be included in Django proper.  I'm going to try to explain why I think it's a bad idea and possibly even convince you.
 

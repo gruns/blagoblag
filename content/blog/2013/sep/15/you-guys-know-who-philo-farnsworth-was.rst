@@ -2,7 +2,6 @@
 You guys know who Philo Farnsworth was?
 =======================================
 
-:tags: community, django, open-source, python
 
 Friends of mine will know I'm a very big fan of the TV show `Sports Night`_
 (really any of Aaron Sorkin's writing, but Sports Night in particular). Before

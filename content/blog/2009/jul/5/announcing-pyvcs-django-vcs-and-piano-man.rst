@@ -2,7 +2,6 @@
 Announcing pyvcs, django-vcs, and piano-man
 ===========================================
 
-:tags: django, python, release, vcs
 
 `Justin Lilly <http://www.justinlilly.com/>`_ and I have just released pyvcs, a lightweight abstraction layer on top of multiple version control systems, and django-vcs, a Django application leveraging pyvcs in order to provide a web interface to version control systems.  At this point pyvcs exists exclusively to serve the needs of django-vcs, although it is separate and completely usable on its own.  Django-vcs has a robust feature set, including listing recent commits, pretty diff rendering of commits, and code browsing.  It also supports multiple projects.  Both pyvcs and django-vcs currently support Git and Mercurial, although adding support for a new backend is as simple as implementing four methods and we'd love to be able to support additional VCS like Subversion or Bazaar.  Django-vcs comes with some starter templates (as well as CSS to support the pretty diff rendering).
 

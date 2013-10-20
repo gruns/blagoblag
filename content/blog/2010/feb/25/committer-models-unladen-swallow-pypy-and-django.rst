@@ -2,7 +2,6 @@
 Committer Models of Unladen Swallow, PyPy, and Django 
 ======================================================
 
-:tags: django, open-source, pypy, python, unladen-swallow
 
 During this year's PyCon I became a committer on both PyPy and Unladen Swallow, in addition I've been a contributer to Django for quite a long time (as well as having commit privileges to my branch during the Google Summer of Code).  One of the things I've observed is the very different models these projects have for granting commit privileges, and what the expectations and responsibilities are for committers.
 

@@ -2,7 +2,6 @@
 Other ORM Goodies
 =================
 
-:tags: django, models, orm
 
 In addition to the aggregate work, the GSOC student had time to finish `ticket 7210 <http://code.djangoproject.com/ticket/7210>`_, which adds support for expressions to filter() and update().  This means you'll be able to execute queries in the form of:
 

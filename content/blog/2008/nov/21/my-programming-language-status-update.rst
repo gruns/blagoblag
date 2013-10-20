@@ -2,7 +2,6 @@
 My Programming Language - Status Update
 =======================================
 
-:tags: al, c++, compile, python
 
 Over the past few weeks I've been working on compiling my programming language.  At present it works by translating the source into C++, and then you compile that with your compiler of choice.  It's garbage collected, using the excellent Boehm GC library.  At present it can only compile a limited subset of what it can actually parse, or what the interpreter supports.  As of today thought it can compile and run a factorial function, however it can't calculate any factorial greater than 12, due to integer overflow issues.  To solve this I'm either going to use GMP or roll my own Bignum library, and I'm not sure which yet.  On the whole though, progress is good.  The generated C++ is about as good as it could be considering the limitations inherent in turning an interpreted language into a compiled one.  I haven't started benchmarking it yet, that was originally going to be the point of today's post before I ran into the integer overflow issues, however this is an example of the C++ code that is generated.
 

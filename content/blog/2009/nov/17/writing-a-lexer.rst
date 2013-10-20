@@ -2,7 +2,6 @@
 Writing a Lexer
 ===============
 
-:tags: compile, lex, parse, programming-languages, python
 
 People who have been reading this blog since last year (good lord) may recall that once upon a time I did a short series of posts on lexing and parsing using PLY.  Back then I was working on a language named Al.  This past week or so I've started working on another personal project (not public yet) and I've once again had the need to lex things, but this time I wrote my lexer by hand, instead of using any sort of generator.  This has been an exceptional learning experience, so I'd like to pass some of that on to you.
 

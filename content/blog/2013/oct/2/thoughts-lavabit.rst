@@ -2,7 +2,6 @@
 Thoughts on Lavabit
 ===================
 
-:tags: ethics, politics, security
 
 If you haven't already, you should start by reading `Wired's article on this`_.
 

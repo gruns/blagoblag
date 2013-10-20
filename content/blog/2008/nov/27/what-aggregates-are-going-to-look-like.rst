@@ -2,7 +2,6 @@
 What aggregates are going to look like
 ======================================
 
-:tags: django, models, orm
 
 Prior to Django 1.0 there was a lot of discussion of what the syntax for doing aggregate queries would like.  Eventually a syntax was more or less agreed upon, and over the summer Nicolas Lara implemented this for the Google Summer of Code project, mentored by Russell Keith-Magee.  This feature is considered a blocker for Django 1.1, so I'm going to outline what the syntax for these aggregates will be.
 

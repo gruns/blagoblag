@@ -2,7 +2,6 @@
 Why Open Source Works 
 ======================
 
-:tags: open-source, thinking
 
 Open source works for a lot of reasons, but there is one that stands out.  Open source is basically an application of democracy to a programming community, in fact it's the most perfect implementation of democracy yet.
 

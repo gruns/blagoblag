@@ -2,7 +2,6 @@
 Playing with Polymorphism in Django
 ===================================
 
-:tags: django, internals, models, orm, python
 
 One of the most common requests of people using inheritance in Django, is to have the a queryset from the baseclass return instances of the derives model, instead of those of the baseclass, as you might see with polymorphism in other languages.  This is a leaky abstraction of the fact that our Python classes are actually representing rows in separate tables in a database.  Django itself doesn't do this, because it would require expensive joins across all derived tables, which the user probably doesn't want in all situations.  For now, however, we can create a function that given an instance of the baseclass returns an instance of the appropriate subclass, be aware that this will preform up to k queries, where k is the number of subclasses we have.
 

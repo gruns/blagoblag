@@ -2,7 +2,6 @@
 Thinking about netbooks
 =======================
 
-:tags: eee, laptop, netbook, pc
 
 At present I use a fairly powerful laptop as my all in one machine, it's my development environment, it's my gaming machine, and I use it for class.  Before I came to college I used my desktop machine for everything.  However, I'm beginning to think neither of these is the best solution.  My laptop can do everything my desktop used to do, however it isn't as a good at being super portable as a laptop could be, nor does it have the potential to be a powerhouse like a desktop machine can be.  Even though my laptop is a relatively balanced machine with a 15 inch screen I still feel like I'm making compromises on both ends, and I'm wondering if there's a better solution.
 

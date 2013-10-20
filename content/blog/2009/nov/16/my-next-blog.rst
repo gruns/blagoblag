@@ -2,7 +2,6 @@
 My Next Blog
 ============
 
-:tags: blogging, django
 
 I've been using this Blogspot powered blog for over a year now, and it is starting to get a little long in the tooth.  Therefore I've been planning on moving to a new, shinny, blog of my own in the coming months.  Specifically it's going to be my goal to get myself 100% migrated over my winter break.  Therefore I've started building myself a list of features I want:
 

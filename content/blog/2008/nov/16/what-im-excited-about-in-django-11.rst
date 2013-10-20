@@ -2,7 +2,6 @@
 What I'm excited about in Django 1.1
 ====================================
 
-:tags: django
 
 This past week, Jacob Kaplan-Moss put together the list of all of the features proposed for Django 1.1, and began to solicit comments on them.  This is going to be a list of features I'm excited about.
  * Making admin URLs reversable.  Currently the Django Admin uses a bit of a convulted scheme to route URLs.  The proposal is to have them work using the current URL scheme.  This is something I've been working on for a while, and hoping to see it to completion.

@@ -2,7 +2,6 @@
 Doing a release is too hard
 ===========================
 
-:tags: django, open-source, openstack, python
 
 I just shipped a new release of `alchimia`_. Here are the steps I went through:
 

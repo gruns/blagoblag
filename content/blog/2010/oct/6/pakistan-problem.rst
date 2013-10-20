@@ -2,7 +2,6 @@
 The Pakistan Problem
 ====================
 
-:tags: war-in-afghanistan
 
 Since the US began military operations in Afghanistan in 2001 Pakistan has been a crucial ally.  Pakistan has provided both a supply route for supplies arriving at Karachi (the nearest major seaport) as well providing logistic support against insurgents operating on the Afghanistan/Pakistan border.  Despite this support there are a number of fundamental issues with the US-Pakistan relationship that make the long term relationship a dicey proposition.
 

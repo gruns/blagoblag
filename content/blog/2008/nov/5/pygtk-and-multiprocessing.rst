@@ -2,7 +2,6 @@
 PyGTK and Multiprocessing
 =========================
 
-:tags: gtk, multiprocessing, pygtk, python
 
 Yesterday was election day, and for many people that meant long nights following the results, waiting to see who would be declared the next president of the United States of America.  Politics is a game of numbers, and it's nice to offload the crunching to our computers.  I had written up a simple application for projecting win likelihood for the candidates based on the likelihood of a win in an individual state.  If you are interested in the application itself you can see it `here <http://github.com/alex/election-sim/tree/master>`_.  However this post is going to look at the new multiprocessing library, and how I used it with PyGTK.
 

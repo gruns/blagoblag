@@ -2,7 +2,6 @@
 Building a Function Templatetag
 ===============================
 
-:tags: django, template
 
 One of the complaints often lobbied against Django's templating system is that there is no way to create functions.  This is intentional, Django's template language is not meant to be a full programming language.  However, if one wants to it is entirely possible to build a templatetag to allow a user to create, and call functions in the template language.
 

@@ -2,7 +2,6 @@
 The State of MultiDB (in Django)
 ================================
 
-:tags: django, gsoc, internals, models, orm, python
 
 As you, the reader, may know this summer I worked for the Django Software Foundation via the Google Summer of Code program.  My task was to implement multiple database support for Django.  Assisting me in this task were my mentors Russell Keith-Magee and Nicolas Lara (you may recognize them as the people responsible for aggregates in Django).  By the standards of the Google Summer of Code project my work was considered a success, however, it's not yet merged into Django's trunk, so I'm going to outline what happened, and what needs to happen before this work is considered complete.
 

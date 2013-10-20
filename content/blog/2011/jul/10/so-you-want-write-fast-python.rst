@@ -2,7 +2,6 @@
 So you want to write a fast Python? 
 ====================================
 
-:tags: programming, pypy, python
 
 Thinking about writing your own Python implementation? Congrats, there are
 plenty out there [#]_, but perhaps you have something new to bring to the

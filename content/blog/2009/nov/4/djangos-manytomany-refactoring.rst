@@ -2,7 +2,6 @@
 Django's ManyToMany Refactoring
 ===============================
 
-:tags: django, gsoc, internals, models, orm, python
 
 If you follow Django's development, or caught next week's DjangoDose Tracking Trunk episode (what?  that's not how time flows you say?  too bad) you've seen the recent ManyToManyField refactoring that Russell Keith-Magee committed.  This refactoring was one of the results of my work as a Google Summer of Code student this summer.  The aim of that work was to bring multiple database support to Django's ORM, however, along the way I ran into refactor the way ManyToManyField's were handled, the exact changes I made are the subject of tonight's post.
 

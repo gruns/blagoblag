@@ -2,7 +2,6 @@
 Democracy in Colonial Areas
 ===========================
 
-:tags: war-in-afghanistan
 
 
 Throughout the second millennium one of the defining realities of international relations was colonialism.  European powers did everything they could do spread their influence around the globe, leading to realities like, "the sun never set on the British empire".  It was through such colonies that the United States came to being, becoming the world's first modern democracy.  As many other colonies divorced themselves from their parent nations some adopted democratic governments, however others merely moved themselves to autocratic rule by natives.

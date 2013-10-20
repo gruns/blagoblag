@@ -2,7 +2,6 @@
 Getting Started with Testing in Django
 ======================================
 
-:tags: django, python, tests
 
 Following yesterday's post another hotly requested topic was testing in Django.  Today I wanted to give a simple overview on how to get started writing tests for your Django applications.  Since Django 1.1, Django has automatically provided a tests.py file when you create a new application, that's where we'll start.
 

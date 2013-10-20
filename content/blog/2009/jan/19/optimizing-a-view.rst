@@ -2,7 +2,6 @@
 Optimizing a View
 =================
 
-:tags: compile, django, models, orm, python
 
 Lately I've been playing with a bit of a fun side project.  I have about a year and half worth of my own chatlogs with friends(and 65,000 messages total) and I've been playing around with them to find interesting statistics.  One facet of my communication with my friends is that we link each other lots of things, and we can always tell when someone is linking something that we've already seen.  So I decided an interesting bit of information would be to see who is the worst offender.
 

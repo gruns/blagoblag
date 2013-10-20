@@ -2,7 +2,6 @@
 Why del defaultdict()[k] should raise an error 
 ===============================================
 
-:tags: programming, python
 
 Raymond Hettinger recently asked on twitter what people thought
 ``del defaultdict()[k]`` did for a ``k`` that didn't exist in the ``dict``. 

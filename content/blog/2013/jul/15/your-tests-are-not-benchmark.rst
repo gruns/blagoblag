@@ -2,7 +2,6 @@
 Your tests are not a benchmark
 ==============================
 
-:tags: python
 
 I get a lot of feedback about people's experiences with PyPy. And a lot of it
 is really great stuff for example, "We used to leave the simulation running

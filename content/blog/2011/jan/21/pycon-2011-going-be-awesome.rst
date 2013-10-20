@@ -2,7 +2,6 @@
 PyCon 2011 is going to be Awesome
 =================================
 
-:tags: pycon, python
 
 If you hang out with Pythonistas you've probably already heard, but if you haven't, come to PyCon!  It's going to be awesome.  Here are just a few reasons why:
 

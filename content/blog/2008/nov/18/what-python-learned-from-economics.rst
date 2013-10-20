@@ -2,7 +2,6 @@
 What Python learned from economics
 ==================================
 
-:tags: django, economics, python
 
 I find economics to be a fairly interesting subject, mind you I'm bored out of my mind about hearing about the stock markets, derivatives, and whatever else is on CNBC, but I find what guys like Steven Levitt and Steve E. Landsburg do to be fascinating.  A lot of what they write about is why people do what they do, and how to incentivise people to do the right thing.  Yesterday I was reading through David Goodger's `Code Like a Pythonista <http://python.net/%7Egoodger/projects/pycon/2007/idiomatic/>`_ when I got to this portion:
 

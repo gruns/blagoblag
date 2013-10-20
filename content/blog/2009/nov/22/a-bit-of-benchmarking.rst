@@ -2,7 +2,6 @@
 A Bit of Benchmarking
 =====================
 
-:tags: compiler, django, programming-languages, pypy, python
 
 PyPy recently posted some `interesting benchmarks <http://morepypy.blogspot.com/2009/11/some-benchmarking.html>`_ from the computer language shootout, and in my last post about Unladen Swallow I described a patch that would hopefully be landing soon.  I decided it would be interesting to benchmarks something with this patch.  For this I used James Tauber's `Mandelbulb <http://github.com/jtauber/mandelbulb>`_ application, at both 100x100 and 200x200.  I tested CPython, Unladen Swallow Trunk, Unladen Swallow Trunk with the patch, and a recent PyPy trunk (compiled with the JIT).  My results were as follows:
 

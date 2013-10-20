@@ -2,7 +2,6 @@
 PyCon Roundup - Days 2-4 
 =========================
 
-:tags: pycon, pypy, unladen-swallow
 
 As I said in my `last post <http://alexgaynor.net/2010/feb/26/pycon-roundup-days-0-and-1/>`_ PyCon was completely and utterly awesome, but it was also a bit of a blur.  Here's my attempt at summarizing everything that happened during the conference itself.
 

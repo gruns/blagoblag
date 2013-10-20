@@ -2,7 +2,6 @@
 Making Django and PyPy Play Nice (Part 1) 
 ==========================================
 
-:tags: django, pypy, python
 
 If you track Django's commits aggressivly (ok so just me...), you may have noticed that there have been a number of commits to improve the compatibility of Django and PyPy in the last couple of days.  In the run up to Django 1.0 there were a ton of commits to make sure Django didn't have too many assumptions that it was running on CPython, and that it could work with systems like Jython and PyPy.  Unfortunately, since then, our support has laxed a little, and a number of tests have begun to fail.  In the past couple of days I've been working to correct this.  Here are some of the things that were wrong
 

@@ -2,7 +2,6 @@
 Another Pair of Unladen Swallow Optimizations
 =============================================
 
-:tags: django, programming-languages, pypy, python, unladen-swallow
 
 Today a `patch of mine <http://code.google.com/p/unladen-swallow/source/detail?r=904>`_ was committed to Unladen Swallow.  In the past weeks I've described some of the optimizations that have gone into Unladen Swallow, in specific I looked at removing the allocation of an argument tuple for C functions.  One of the "on the horizon" things I mentioned was extending this to functions with a variable arity (that is the number of arguments they take can change).  This has been implemented for functions that take a finite range of argument numbers (that is, they don't take \*args, they just have a few arguments with defaults).  This support was used to optimize a number of builtin functions (dict.get, list.pop, getattr for example).
 

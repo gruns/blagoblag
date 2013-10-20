@@ -2,7 +2,6 @@
 Initial Review: Python Essential Reference
 ==========================================
 
-:tags: book, python, review
 
 Disclosure: I received a free review copy of Python Essential Reference, Fourth Edition.
 

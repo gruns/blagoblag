@@ -2,7 +2,6 @@
 Symptoms and Diseases
 =====================
 
-:tags: war-in-afghanistan
 
 When you have a cold you treat the symptoms you deal with the runny nose, the fever, and the cough independently (each with chicken soup) because there's nothing you can do about the cold.  When you have lung cancer you treat the disease, because if all you do is treat the cough you have you're going to die of cancer very quickly.  When your country has the occasional random terrorist attack you deal with it with the appropriate security measures, when you have a series of system terror attempts by an organized group you should probably start thinking about doing something about the root cause: whatever you're doing to piss them off, because no security is 100%.
 

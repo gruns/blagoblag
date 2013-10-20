@@ -2,7 +2,6 @@
 Getting Started With PLY
 ========================
 
-:tags: lex, ply, python
 
 The other day I mentioned I was using PLY in my post about building a language, so today I'm going to describe getting started with PLY, specifically the tokenization phase. For those who don't know much about parsing a language, the tokenization phase is where we take the source file, and turn it into a series of tokens. For example, turning a = 3 + 4 into, NAME EQUALS 3 PLUS 4. As you can see that simple assignment becomes 5 tokens, each number is a token, both numbers are tokens, and a is a NAME token. So how do we do this in PLY?
 

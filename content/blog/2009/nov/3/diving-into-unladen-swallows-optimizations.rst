@@ -2,7 +2,6 @@
 Diving into Unladen Swallow's Optimizations
 ===========================================
 
-:tags: compile, compiler, internals, python, unladen-swallow
 
 Yesterday I described the general architecture of Unladen Swallow, and I said that just by switching to a JIT compiler and removing the interpretation overhead Unladen Swallow was able to get a performance gain.  However, that gain is nowhere near what the engineers at Google are hoping to accomplish, and as such they've been working on building various optimizations into their JIT.  Here I'm going to describe two particularly interesting ones they implemented during the 3rd quarter (they're doing quarterly releases).
 

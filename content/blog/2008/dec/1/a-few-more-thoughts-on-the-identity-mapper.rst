@@ -2,7 +2,6 @@
 A Few More Thoughts on the Identity Mapper
 ==========================================
 
-:tags: django, foreignkey, internals, models, orm
 
 It's late, and I've my flight was delayed for several hours so today is going to be another quick post.  With that note here are a few thoughts on the identity mapper:
  * We can optimize it to actually execute fewer queries by having it run the query as usual, and then use the primary key to check the cache, else cache the instance we already have.

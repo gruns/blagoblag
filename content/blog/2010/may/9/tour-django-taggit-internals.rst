@@ -2,7 +2,6 @@
 A Tour of the django-taggit Internals 
 ======================================
 
-:tags: django, python, taggit
 
 In `a previous post <http://alexgaynor.net/2010/may/04/cool-new-django-taggit-api/>`_ I talked about a cool new customization API that ``django-taggit`` has.  Now I'm going to dive into the internals.
 

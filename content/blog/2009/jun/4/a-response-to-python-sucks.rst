@@ -2,7 +2,6 @@
 A response to "Python sucks"
 ============================
 
-:tags: python, response
 
 I recently saw an article on Programming Reddit, titled, "Python sucks: Why Python is not my favourite programming language".  I personally like Python quite a lot (see my blog title), but I figured I might read an interesting critique, probably from a very different point of view from mine.  Unfortunately that is the opposite of what I found.  The post was, at best, a horribly misinformed inaccurate critique, and at worst an intentionally dishonest, misleading, farce.  The post can be found `here <http://call-cc.blogspot.com/2009/06/2-rarely-cited-reasons-why-python-sucks.html>`_.  I felt the need to respond to it precisely because it is so lacking in facts, and reading it one can get impressions that are completely incorrect, and I am hoping I can correct some of these.
 

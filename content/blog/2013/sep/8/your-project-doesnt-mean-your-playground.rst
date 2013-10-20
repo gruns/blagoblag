@@ -2,7 +2,6 @@
 Your project doesn't mean your playground
 =========================================
 
-:tags: community, django, python
 
 Having your own open source project is awesome. You get to build a thing you
 like, obviously. But you also get to have your own little playground, a chance

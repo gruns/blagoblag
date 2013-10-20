@@ -2,7 +2,6 @@
 My Workflow
 ===========
 
-:tags: easy_install, pip, python, virtualenv, virtualenvwrapper
 
 About a year ago I blogged about how I didn't like easy_install, and I alluded to the fact that I didn't really like any programming language specific package managers.  I'm happy to say I've changed my tune quite drastically in the past 2 months.  Since I started working with Eldarion I've dived head first into the `pip <http://pip.openplans.org/>`_ and `virtualenv <http://pypi.python.org/pypi/virtualenv>`_ system and I'm happy to say it works brilliantly.  The nature of the work is that we have lots of different projects all at once, often using wildly different versions of packages in all sorts of incompatible ways.  The only way to stay sane is to have isolated environments for each of them.  Enter virtualenv stage left.
 

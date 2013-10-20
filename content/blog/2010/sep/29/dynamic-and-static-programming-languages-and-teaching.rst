@@ -2,7 +2,6 @@
 Dynamic and Static Programming Languages and Teaching
 =====================================================
 
-:tags: education, programming, programming-languages
 
 Lately I've seen the sentiment, "Why do all teachers need to prepare their own lesson plans" in a few different places, and it strikes me as representative of a particular mindset about education and teaching.  To me, it seems like a fundamental question about pedagogical philosophy that's akin to the great programming debate between which is better dynamic or static languages (although it might be more apt to say compiled versus interpreted).
 

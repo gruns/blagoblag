@@ -2,7 +2,6 @@
 Cui Bono
 ========
 
-:tags: war-in-afghanistan
 
 Cui bono is Latin, meaning "to whose benefit".  It is typically used as a mode of thought for judicial inquiry, by Occam's razor a perpetrator who stands to gain something from a crime is more likely to have committed it than one with no standing.  However, it can similarly be used as a mode of thought to analyze the motives and practical realities of international relations.  Specifically, it calls our attention to the inherent dichotomy of the US mission in Afghanistan to combat terrorism (clearly the proximate cause for the US invasion following 9/11) and the mission to establish a democracy (the oft trodden out political justification).
 

@@ -2,7 +2,6 @@
 Filing a Good Ticket
 ====================
 
-:tags: django, python, software
 
 I read just about every single ticket that's filed in Django's trac, and at this point I'e gotten a pretty good sense of what (subjectively) makes a useful ticket.  Specifically there are a few things that can make your ticket no better than spam, and a few that can instantly bump your ticket to the top of my "TODO" list.  Hopefully, these will be helpful in both filing ticket's for Django as well as other open source projects.
 

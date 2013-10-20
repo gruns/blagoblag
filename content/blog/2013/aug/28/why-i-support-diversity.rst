@@ -2,7 +2,6 @@
 Why I support diversity
 =======================
 
-:tags: community, diversity, django, programming, python
 
 I get asked from time to time why I care about diversity in the communities I'm
 a part of, particularly the Django, Python, and the broader software

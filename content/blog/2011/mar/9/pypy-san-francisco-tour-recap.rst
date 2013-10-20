@@ -2,7 +2,6 @@
 PyPy San Francisco Tour Recap
 =============================
 
-:tags: pypy, python
 
 Yesterday was the last day of my (our) tour of the Bay Area, so I figured I'd post a recap of all the cool stuff that happened.
 

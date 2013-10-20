@@ -2,7 +2,6 @@
 My experience with the computer language shootout
 =================================================
 
-:tags: programming, programming-languages, pypy, python
 
 For a long time we, the `PyPy <http://pypy.org/>`_ developers, have known the Python implementations on the `Computer Language Shootout <http://shootout.alioth.debian.org/>`_ were not optimal under PyPy, and in fact had been ruthlessly microoptimized for CPython, to the detriment of PyPy.  But we didn't really care or do anything about it, because we figured those weren't really representative of what people like to do with Python, and who really cares what it says, CPython is over 30 times slower than C, and people use it just the same.  However, I've recently have a number of discussions about language implementation speed and people tend to cite the language shootout as the definitive source for cross-language comparisons.  So I decided to see what I could do about making it faster.
 

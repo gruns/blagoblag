@@ -2,7 +2,6 @@
 Building a simple identity map in Django
 ========================================
 
-:tags: django, models, orm
 
 In Django's ticket tracker lies `ticket 17 <http://code.djangoproject.com/ticket/17>`_, the second oldest open ticket, this proposes an optimisation to have instances of the same database object be represented by the same object in Python, essentially that means for this code:
 

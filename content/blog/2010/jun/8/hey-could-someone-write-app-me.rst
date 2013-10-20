@@ -2,7 +2,6 @@
 Hey, could someone write this app for me 
 =========================================
 
-:tags: applications, django, fixtures, python, reusable, testing
 
 While doing some work today I realized that generating fixtures in Django is way too much of a pain in the ass, and I suspect it's a pain in the ass for a lot of other people as well.  I also came up with an API I'd kind of like to see for it, unfortunately I don't really have the time to write the whole thing, however I'm hoping someone else does.
 

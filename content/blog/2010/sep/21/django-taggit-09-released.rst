@@ -2,7 +2,6 @@
 django-taggit 0.9 Released
 ==========================
 
-:tags: application, django, python, release, taggit
 
 It's been a long time coming, since taggit 0.8 was released in June, however 0.9 is finally here, and it brings a ton of cool bug fixes, improvements, and cleanups.  If you don't already know, django-taggit is an application for django to make tagging simple and awesome.  The biggest changes in this release are:
 

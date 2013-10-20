@@ -2,7 +2,6 @@
 I Have Talent
 =============
 
-:tags: thinking
 
 I read a blog post the other day titled `"I Have No Talent" <http://railstips.org/blog/archives/2010/01/12/i-have-no-talent/>`_, and I found it to be pretty interesting, and what the author says probably resonates with a lot of people.  But not with me.  I disagree with the article on a basic premises, that perseverance is less of an innate ability than talent.
 

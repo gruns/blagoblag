@@ -2,7 +2,6 @@
 Software Design: 80/20 libraries
 ================================
 
-:tags: software
 
 I'm trying a new format for content, instead of writing I've recorded some audio, I think this will be a better format for my to share ideas. You can find the audio `here <https://soundcloud.com/alex_gaynor/software-design-80-20>`_.
 

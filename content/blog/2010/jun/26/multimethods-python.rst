@@ -2,7 +2,6 @@
 MultiMethods for Python 
 ========================
 
-:tags: c++, python
 
 Every once and a while the topic of multimethods (also known as generic dispatch) comes up in the Python world (see `here <http://www.python.org/dev/peps/pep-3124/>`_, `and here <http://mike.axiak.net/blog/2010/06/25/python-generic-dispatch/>`_, `here too <http://www.artima.com/weblogs/viewpost.jsp?thread=101605>`_, `and finally here <http://twitter.com/gutworth/status/9750313767>`_, and probably others).  For those of you who aren't familiar with the concept, the idea is that you declare a bunch of functions with the same name, but that take different arguments and the language routes your calls to that function to the correct implementation, based on what types you're calling it with.  For example here's a C++ example:
 

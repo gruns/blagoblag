@@ -2,7 +2,6 @@
 A statically typed language I'd actually want to use
 ====================================================
 
-:tags: programming, programming-languages
 
 Nearly a year ago I tweeted, and released on `github <https://github.com/alex/shore>`_ a project I'd been working.  It's called shore, and it's the start of a compiler for a statically typed language I'd actually like to use.  Programming is, for me, most fun when I can work at the level that suits the problem I have: when I'm building a website I don't like to think about how my file system library is implemented.  That means a language needs to support certain abstractions, and it also needs to be sufficiently concise that I'd actually want to write things in.  A good example is "give me the square of all the items in this sequence who are divisible by 3", in Python:
 

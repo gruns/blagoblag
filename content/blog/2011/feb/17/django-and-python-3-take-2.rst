@@ -2,7 +2,6 @@
 Django and Python 3 (Take 2)
 ============================
 
-:tags: django, python, python3
 
 About 18 months ago I blogged about Django and Python 3, I gave the official roadmap.  Not a lot has changed since then unfortunately, we've dropped 2.3 entirely, 2.4 is on it's way out, but there's no 3.X support in core.  One fun thing has changed though: I get to help set the roadmap, which is a) cool, b) means the fact that I care about Python 3 counts for something.  I'm not going to get into "Why Py3k", because that's been done to death, but it's a better language, that I'd rather program in, so the only question is how do we get there.
 

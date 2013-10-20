@@ -2,7 +2,6 @@
 Thoughts on OpenStack
 =====================
 
-:tags: openstack, python, rackspace
 
 Since I joined Rackspace a little over a month ago, I've gotten involved
 with OpenStack, learning the APIs, getting involved in discussions, and

@@ -2,7 +2,6 @@
 5 years, 2 months, and 28 days
 ==============================
 
-:tags: college
 
 5 years, 2 months, and 28 days ago I dropped out of high school, and in a few
 hours I'm going to graduate from college.  This journey has been surreal, and

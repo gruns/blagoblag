@@ -2,7 +2,6 @@
 Why Utilitarianism Fails 
 =========================
 
-:tags: ethics, utilitarianism
 
 This semester I've been taking a course in ethics, and while it hasn't changed my perspective on any issues, it has allowed me to form some opinions about ethical systems.  In particular, I've found that utilitarianism is an awful ethical system, with almost no merit.  The major problems with it being that it is conditional, and that it's impossible to attempt to apply.
 

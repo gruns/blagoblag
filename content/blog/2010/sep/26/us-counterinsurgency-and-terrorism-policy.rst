@@ -2,7 +2,6 @@
 US Counterinsurgency and Terrorism Policy
 =========================================
 
-:tags: war-in-afghanistan
 
 Over the course of the last nine years the United States has attempted to implement a number of policies to combat terrorism, and to engage in a counter insurgency, the formal on a global scale, and the latter primarily in Iraq and Afghanistan.  However, viewed in a broader historical context current policies represent a nearly 180 degree shift.
 

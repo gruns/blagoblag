@@ -2,7 +2,6 @@
 Designer Developer Relations 
 =============================
 
-:tags: design, django, html
 
 Lately I've been working with quite a few designers so I've been thinking about what exactly constitutes the ideal working relationship.  Here are some of the models I've seen, in order of best to worst.
 
