@@ -25,3 +25,18 @@ writer:
         - liquidluck.writers.core.FileWriter
         - liquidluck.writers.core.StaticWriter
         - liquidluck.writers.core.YearWriter
+
+theme:
+    name: default
+
+    vars:
+        analytics: UA-1735273-7
+        navigation:
+            - name: Home
+              link: /
+            - name: Quotes
+              link: /quotes/
+            - name: About
+              link: /about/
+            - name: Contact
+              link: /contact/
