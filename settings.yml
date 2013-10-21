@@ -24,7 +24,7 @@ writer:
         - liquidluck.writers.core.ArchiveFeedWriter
         - liquidluck.writers.core.FileWriter
         - liquidluck.writers.core.StaticWriter
-        - liquidluck.writers.core.YearWriter
+        - blago.DirectoryYearWriter
 
 theme:
     name: default

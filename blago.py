@@ -93,3 +93,29 @@ class DirectoryArchiveWriter(core.ArchiveWriter):
                     'page/%s/index.html' % page
                 )
             self.render({'pagination': pagination}, self._template, dest)
+
+
+class DirectoryYearWriter(core.YearWriter):
+    def _write_posts(self, year):
+        posts = self._posts[year]
+        pagination = Pagination(posts, 1, self.perpage)
+        pagination.title = year
+        pagination.root = self.prefix_dest(year)
+
+        dest = os.path.join(g.output_directory, pagination.root, 'index.html')
+        self.render({'pagination': pagination}, self._template, dest)
+
+        if pagination.pages < 2:
+            return
+
+        for page in range(1, pagination.pages + 1):
+            pagination = Pagination(posts, page, self.perpage)
+            pagination.title = year
+            pagination.root = self.prefix_dest(year)
+
+            dest = os.path.join(
+                g.output_directory,
+                pagination.root,
+                'page/%s/index.html' % page
+            )
+            self.render({'pagination': pagination}, self._template, dest)
