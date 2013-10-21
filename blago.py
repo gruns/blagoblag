@@ -5,7 +5,7 @@ from liquidluck.options import settings, g
 from liquidluck.readers.base import Post
 from liquidluck.readers.restructuredtext import RestructuredTextReader
 from liquidluck.writers import core
-from liquidluck.writers.base import get_post_slug
+from liquidluck.writers.base import Pagination, get_post_slug
 
 
 class DateFromPathPost(Post):
@@ -67,3 +67,29 @@ class DirectoryPageWriter(core.PageWriter):
             filename = os.path.splitext(post.filepath[l:])[0] + '/index.html'
             dest = os.path.join(g.output_directory, filename)
             self.render({'post': post}, template, dest)
+
+
+class DirectoryArchiveWriter(core.ArchiveWriter):
+    def start(self):
+        pagination = Pagination(g.public_posts, 1, self.perpage)
+        pagination.title = self._title
+        pagination.root = self.prefix_dest('')
+
+        dest = os.path.join(g.output_directory, self._output)
+        self.render({'pagination': pagination}, self._template, dest)
+
+        if pagination.pages < 2:
+            return
+
+        for page in range(1, pagination.pages + 1):
+            pagination = Pagination(g.public_posts, page, self.perpage)
+            pagination.title = self._title
+            pagination.root = self.prefix_dest('')
+            dest = os.path.join(g.output_directory, 'page/%s/index.html' % page)
+            if pagination.root:
+                dest = os.path.join(
+                    g.output_directory,
+                    pagination.root,
+                    'page/%s/index.html' % page
+                )
+            self.render({'pagination': pagination}, self._template, dest)

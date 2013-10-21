@@ -20,7 +20,7 @@ writer:
     active:
         - blago.DirectoryPostWriter
         - blago.DirectoryPageWriter
-        - liquidluck.writers.core.ArchiveWriter
+        - blago.DirectoryArchiveWriter
         - liquidluck.writers.core.ArchiveFeedWriter
         - liquidluck.writers.core.FileWriter
         - liquidluck.writers.core.StaticWriter
