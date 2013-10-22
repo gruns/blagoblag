@@ -1,4 +1,3 @@
-
 Thoughts on Lavabit
 ===================
 
@@ -26,7 +25,7 @@ operates a specialized service. Immediately upon receipt of mail, it's
 encrypted with a user's public key. After that it's technically impossible for
 the service to read the plaintext of a user's email. This relationship creates
 a strong expectation of privacy, and the Fourth Amendment very explicitly
-requires a warrant supported by probably cause at this point.
+requires a warrant supported by probable cause at this point.
 
 But let's ignore this first order. Lavabit has, in past, complied with lawful
 search warrants, and there's no reason to believe they would not have been able
