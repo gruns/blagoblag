@@ -40,7 +40,7 @@ searched, and what they're looking for.
 Access to Lavabit's private key would allow someone with the raw internet
 traffic (which presumably the FBI, had access to) to decrypt and read *any*
 user's emails before they reached Lavabit's servers. Simply put, this was a
-warrant issued in flagrant violation of the United State Constitution.
+warrant issued in flagrant violation of the United States Constitution.
 
 The fact that Lavabit refused to cooperate with the government's original order
 in no way gave them the right to apply (or be granted) the follow up order.
