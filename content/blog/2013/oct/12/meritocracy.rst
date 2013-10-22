@@ -1,4 +1,3 @@
-
 Meritocracy
 ===========
 
@@ -45,16 +44,16 @@ respected? I can't test if a society is meritocratic.
 
 It's unhealthy when we consider or groups, or cultures,
 or our societies as being meritocratic. It makes us ignore questions about who
-our leaders are, how they got there who isn't represented. The best we can say
+our leaders are, how they got there, who isn't represented. The best we can say
 is that maybe our organizations are (perceptions of subjective merit)-ocracies,
 which is profoundly different from what we mean when we say meritocracy.
 
 I'd like to encourage groups that self-identify as being meritocratic (such as
 `The Gnome Foundation`_, `The Apache Software Foundation`_, `Mozilla`_, `The
 Document Foundation`_, and `The Django Software Foundation`_) to reconsider
-this. Aspiring to meritocracy is a reasonable, it makes sense to want for the
-people who are best capable of doing so to lead us, but it's not something we
-can ever say we've achieved.
+this. Aspiring to meritocracy is a reasonable goal, it makes sense to want for
+the people who are best capable of doing so to lead us, but it's not something
+we can ever say we've achieved.
 
 .. _`The Gnome Foundation`: https://wiki.gnome.org/Foundation/Charter
 .. _`The Apache Software Foundation`: https://www.apache.org/foundation/how-it-works.html
