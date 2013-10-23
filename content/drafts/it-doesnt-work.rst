@@ -16,7 +16,8 @@ tool. Tools which are so impossible to build things with that no one actually
 does tend not to ever get popular enough that you can find two people who know
 enough about them to have a conversation.
 
-So please, don't tell me Heroku uses PostgreSQL, Facebook uses PHP, Google uses Python, and Twitter uses MySQL. It doesn't mean anything.
+So please, don't tell me Heroku uses PostgreSQL, Facebook uses PHP, Google uses
+Python, and Twitter uses MySQL. It doesn't mean anything.
 
 Instead, tell me how a tool enables you to build something better, to ship
 fewer mistakes, to get features to your customers faster, or maybe even to
