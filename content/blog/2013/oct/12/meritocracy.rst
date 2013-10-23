@@ -1,7 +1,5 @@
-
 Meritocracy
 ===========
-
 
 Let's start with a definition, a meritocracy is a group where leadership or
 authority is derived from merit (merit being skills or ability), and
