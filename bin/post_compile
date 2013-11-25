@@ -1,0 +1,13 @@
+#!/bin/bash
+
+indent() {
+    RE="s/^/ /"
+    sed $SED_FLAG "$RE"
+}
+
+function puts-step (){
+    echo "-----> $@"
+}
+
+puts-step "Running liquidluck"
+liquidluck build -v | indent
