@@ -32,8 +32,6 @@ theme:
     vars:
         analytics: UA-1735273-7
         navigation:
-            - name: Home
-              link: /
             - name: Quotes
               link: /quotes/
             - name: About
