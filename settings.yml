@@ -27,7 +27,7 @@ writer:
         - blago.DirectoryYearWriter
 
 theme:
-    name: default
+    name: alex-gaynor-blog-design
 
     vars:
         analytics: UA-1735273-7
