@@ -7,7 +7,7 @@ I'd like to refer to a hypothetical person in my documentation
 Try something like this:
 
     When a user visits the website, they will be assigned a session ID, and it
-    will be transmitted to them in the HTTP response and stored their browser.
+    will be transmitted to them in the HTTP response and stored in their browser.
 
 But not like this!
 
@@ -32,7 +32,7 @@ documentation cover to cover, so they won't be able to see your good intentions.
 Instead they'll be linked somewhere in the middle, see your gendered language,
 and feel excluded.
 
-In addition not everyone identifies by male or female pronouns. Play it safe,
+In addition, not everyone identifies by male or female pronouns. Play it safe,
 just be gender neutral.
 
 Using the plural pronouns isn't grammatically correct!
