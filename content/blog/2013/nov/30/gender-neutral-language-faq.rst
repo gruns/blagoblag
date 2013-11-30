@@ -39,7 +39,7 @@ Using the plural pronouns isn't grammatically correct!
 ------------------------------------------------------
 
 I've been assured by `people far more knowlegable than I`_ that it's ok, even
-Shakespeare did it. Personally, I'm comforted the knowledge that even if I'm
+Shakespeare did it. Personally, I'm comforted by the knowledge that even if I'm
 wrong about the grammar, I won't have made anyone feel excluded.
 
 Someone sent a pull request to my project changing the languages!
