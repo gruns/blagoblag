@@ -2,6 +2,7 @@ About me
 ========
 
 .. image:: /images/alex_gaynor.jpg
+    :align: center
 
 Hi, you've reached my website. I'm Alex Gaynor. Here's some facts about me:
 
