@@ -42,7 +42,7 @@ fixed for them.
 
 Beyond all of this, it has a nasty pernicious effect on the development of
 Python itself: it means there's no feedback cycle. The fact that Python 3 is
-being exclusively by very early adopters means that what little feedback
+being used exclusively by very early adopters means that what little feedback
 happens on new features comes from users who may not be totally representative
 of the broader community. And as we get farther and farther in the 3.X series
 it gets worse and worse. Now we're building features on top of other features
