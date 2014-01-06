@@ -2,7 +2,7 @@ Why Travis CI is great for the Python community
 ===============================================
 
 In the unlikely event you're both reading my blog, and have not heard of Travis
-CI, it's a CI service which specifically targets open source projects. In
+CI, it's a CI service which specifically targets open source projects. It
 integrates nicely with Github, and is generally a pleasure to work with.
 
 I think it's particularly valuable for the Python community, because it makes
