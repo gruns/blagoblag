@@ -69,6 +69,7 @@ So we set out to design a better library, with the following principles:
 I'm very proud of our work so far. You can find `our documentation online`_.
 We're not done. We have many more types of cryptographic operations left to
 expose, and more recipes left to expose. But the work we've done so far has
-stayed true to our principles.
+stayed true to our principles. Please let us know if our documentation ever
+fails to make something accessible to you.
 
 .. _`our documentation online`: https://cryptography.io
