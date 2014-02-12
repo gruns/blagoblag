@@ -25,7 +25,7 @@ Since then I've been in something of a frenzy, reading and learning everything
 I can about cryptography. And while originally my motivation was "a thing that
 works on PyPy", I've now grown considerably more bold:
 
-Programmers are used to being able to pick of domain knowledge as we go. When I
+Programmers are used to being able to pick up domain knowledge as we go. When I
 worked on a golf website, I learned about how people organized golf outings,
 when I worked at rdio I learned about music licensing, etc. Programmers will
 apply their trade to many different domains, so we're used to learning about
