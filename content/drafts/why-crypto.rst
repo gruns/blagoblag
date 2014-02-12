@@ -69,6 +69,8 @@ So we set out to design a better library, with the following principles:
   thing.
 * You shouldn't need to be a cryptography expert to use it, our documentation
   should equip you to make the right decisions.
+* Thinks which are dangerous should be **obviously** dangerous, not subtly
+  dangerous.
 * Put our users' safety and security above all else.
 
 I'm very proud of our work so far. You can find `our documentation online`_.
