@@ -58,7 +58,7 @@ us all contacting cryptographers, it's resulted in us doing bad crypto:
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Usually when we design APIs, our goal is to make it easy to do *something*.
-Crypotographic APIs seem to have been designed on the same principle.
+Cryptographic APIs seem to have been designed on the same principle.
 Unfortunately that something is almost never secure, in fact, in many
 libraries, the path of least resistance leads you to doing something that is
 extremely wrong.
