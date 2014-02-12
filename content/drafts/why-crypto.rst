@@ -35,7 +35,7 @@ and looking at the result of our code and seeing if it looks right.
 Unfortunately, this methodology leads us astray: Google for many cryptographic
 problems leaves you with a pile of wrong answers, very few of us have friends
 who are cryptography experts to ask for help, and one can't just look at the
-result of a cryptographic operation and see if it's security. Security is a
+result of a cryptographic operation and see if it's secure. Security is a
 property much more subtle than we usually have to deal with:
 
 .. code-block:: pycon
