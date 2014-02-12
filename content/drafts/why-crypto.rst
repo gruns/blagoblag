@@ -16,6 +16,11 @@ several other people (some with much more cryptography experience than I)
 expressed interest in the idea of a new cryptography library for Python, so we
 got started on it.
 
+It's worth noting that at the same time this was happening, Edward Snowden's
+disclosures about the NSA's activities were also coming out. While this never
+directly motivated me to work on cryptography, I also don't think it's a
+coincidence.
+
 Since then I've been in something of a frenzy, reading and learning everything
 I can about cryptography. And while originally my motivation was "a thing that
 works on PyPy", I've now grown considerably more bold:
