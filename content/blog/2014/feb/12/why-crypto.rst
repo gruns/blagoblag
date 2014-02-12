@@ -59,7 +59,7 @@ us all contacting cryptographers, it's resulted in us doing bad crypto:
 
 Usually when we design APIs, our goal is to make it easy to do *something*.
 Cryptographic APIs seem to have been designed on the same principle.
-Unfortunately that something is almost never secure. In fact, with many
+Unfortunately that *something* is almost never secure. In fact, with many
 libraries, the path of least resistance leads you to doing something that is
 extremely wrong.
 
