@@ -4,7 +4,7 @@ Best of PyCon 2014
 This year was my 7th PyCon, I've been to every one since 2008. The most
 consistent trend in my attendance has been that over the years, I've gone to
 fewer and fewer talks, and spent more and more time volunteering. As a result,
-I can't tell you what the best talks to watch are (though I reccomend watching
+I can't tell you what the best talks to watch are (though I recommend watching
 absolutely anything that sounds interesting `online`_). Nonetheless, I wanted
 to write down the two defining events at PyCon for me.
 
@@ -28,4 +28,9 @@ and discussed refactoring strategies to improve code.
 These events are what make PyCon special for me: community, and technical
 excellence, in one place.
 
+PS: You should totally watch my two talks. One is about `pickle`_ and the
+other is about `performance`_.
+
 .. _`online`: http://pyvideo.org/category/50/pycon-us-2014
+.. _`pickle`: https://www.youtube.com/watch?v=7KnfGDajDQw
+.. _`performance`: https://www.youtube.com/watch?v=7eeEf_rAJds
