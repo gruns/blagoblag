@@ -27,3 +27,5 @@ strategies to improve code.
 
 These events are what make PyCon special for me: community, and technical
 excellence.
+
+.. _`online`: http://pyvideo.org/category/50/pycon-us-2014
