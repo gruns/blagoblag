@@ -49,15 +49,16 @@ they employ developers to work on these projects? Why don't they donate money?
 Why don't they donate other resources (e.g. build servers)?
 
 In truth, my salary is paid by every single user of Python and Django (though
-Rackspace graciously foots the bill). The software I write for these projects
-would be worth nothing if it weren't for the community around them, of which a
-large part is the companies which use them. This community enables me to have a
-job, to travel the world, and to meet so many people. So while companies, such
-as Google, don't pay a dime of my salary, I gain a lot from their usage of
-Python.
+`Rackspace`_ graciously foots the bill). The software I write for these
+projects would be worth nothing if it weren't for the community around them, of
+which a large part is the companies which use them. This community enables me
+to have a job, to travel the world, and to meet so many people. So while
+companies, such as Google, don't pay a dime of my salary, I gain a lot from
+their usage of Python.
 
 Without our users, we would be nothing, and it's time we started acknowledging
 a simple truth: we exist in service of our users, and not the other way around.
 
 .. _`cryptography`: https://cryptography.io/
 .. _`Open Source projects' security policies should look like`: http://alexgaynor.net/2013/oct/19/security-process-open-source-projects/
+.. _`Rackspace`: http://developer.rackspace.com/
