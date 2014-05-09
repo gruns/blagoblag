@@ -23,7 +23,7 @@ software.
 And yet, across a variety of policy areas, such as security and backwards
 compatibility we often fail to properly consider the effects of our actions on
 our users, particularly in a context of "they have bet their businesses on
-this". Instead we continue to treat these projects as our hobbies projects, as
+this". Instead we continue to treat these projects as our hobby projects, as
 things we casually do on the side for fun.
 
 Working on `cryptography`_, and security in general, has influenced my thinking
