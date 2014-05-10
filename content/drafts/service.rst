@@ -62,7 +62,8 @@ companies, such as Google, don't pay a dime of my salary, I gain a lot from
 their usage of Python.
 
 Without our users, we would be nothing, and it's time we started acknowledging
-a simple truth: we exist in service of our users, and not the other way around.
+a simple truth: these projects exist in service of our users, and not the other
+way around.
 
 .. _`software won't act unethically`: https://glyph.twistedmatrix.com/2005/11/ethics-for-programmers-primum-non.html
 .. _`cryptography`: https://cryptography.io/
