@@ -4,7 +4,7 @@ Service
 If you've been around an Open Source community for any length of time, you've
 probably heard someone say, "We're all volunteers here". Often this is given as
 an explanation for why some feature hasn't been implemented, why a release has
-been delayed, or more generally, why something hasn't been done.
+been delayed, and in general, why something hasn't happened.
 
 I think when we say these things (and I've said them as much as anyone), often
 we're being dishonest. Almost always it's not a question of an absolute
@@ -25,14 +25,14 @@ catastrophic bugs in a reasonable way, that it will be a stable base to build a
 platform or a business on, and that the `software won't act unethically`_ (such
 as by flagrantly violating expectations about privacy or integrity).
 
-And yet, across a variety of these policy areas, including as security and
-backwards compatibility we often fail to properly consider the effects of our
-actions on our users, particularly in a context of "they have bet their
-businesses on this". Instead we continue to treat these projects as our hobby
-projects, as things we casually do on the side for fun.
+And yet, across a variety of these policy areas, such as security and backwards
+compatibility we often fail to properly consider the effects of our actions on
+our users, particularly in a context of "they have bet their businesses on
+this". Instead we continue to treat these projects as our hobby projects, as
+things we casually do on the side for fun.
 
-Working on `cryptography`_, and security in general, has influenced my thinking
-on these issues greatly. The nature of ``cryptography`` means when we make
+Working on `PyCA Cryptography`_, and security in general, has grealy influenced
+my thinking on these issues. The nature of ``cryptography`` means when we make
 mistakes, we put our users' businesses, and potentially their customers'
 personal information at risk. This responsibility weighs heavily on me. It
 means we try to have policies that emphasize review, it means we utilize
@@ -58,14 +58,14 @@ In truth, my salary is paid by every single user of Python and Django (though
 projects would be worth nothing if it weren't for the community around them, of
 which a large part is the companies which use them. This community enables me
 to have a job, to travel the world, and to meet so many people. So while
-companies, such as Google, don't pay a dime of my salary, I gain a lot from
-their usage of Python.
+companies, such as Google, don't pay a dime of my salary, I still gain a lot
+from their usage of Python.
 
 Without our users, we would be nothing, and it's time we started acknowledging
-a simple truth: these projects exist in service of our users, and not the other
+a simple truth: our projects exist in service of our users, and not the other
 way around.
 
 .. _`software won't act unethically`: https://glyph.twistedmatrix.com/2005/11/ethics-for-programmers-primum-non.html
-.. _`cryptography`: https://cryptography.io/
+.. _`PyCA Cryptography`: https://cryptography.io/
 .. _`Open Source projects' security policies should look like`: http://alexgaynor.net/2013/oct/19/security-process-open-source-projects/
 .. _`Rackspace`: http://developer.rackspace.com/
