@@ -32,8 +32,8 @@ this". Instead we continue to treat these projects as our hobby projects, as
 things we casually do on the side for fun.
 
 Working on `PyCA Cryptography`_, and security in general, has grealy influenced
-my thinking on these issues. The nature of ``cryptography`` means when we make
-mistakes, we put our users' businesses, and potentially their customers'
+my thinking on these issues. The nature of ``cryptography`` means that when we
+make mistakes, we put our users' businesses, and potentially their customers'
 personal information at risk. This responsibility weighs heavily on me. It
 means we try to have policies that emphasize review, it means we utilize
 aggressive automated testing, it means we try to design APIs that prevent
