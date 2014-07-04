@@ -45,5 +45,5 @@ I changed by default Python, or OS X, using `pyenv`_::
 
 Tada.
 
-.. `PyPy`: http://pypy.org
-.. `pyenv`: https://github.com/yyuu/pyenv
+.. _`PyPy`: http://pypy.org
+.. _`pyenv`: https://github.com/yyuu/pyenv
