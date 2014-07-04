@@ -22,11 +22,11 @@ possible bug and annoyance a person might hit, and the best way to do that is
 to subject myself to them constantly. If startup performance is too slow, you
 know for damned sure I'll get pissed off and try to fix it.
 
-But this shouldn't be just me! I'm only one day into this, but thus far: I've
-found one bug in Mercurial's ``setup.py``, and lots of my random scripts run
-faster. In today's revolution spirit, I want to encourage you too to cast off
-the shackles of slow Python, and embrace the possibility of performance without
-compromises!
+I'm only one day into this, but thus far: I've found one bug in Mercurial's
+``setup.py``, and lots of my random scripts run faster. But this shouldn't be
+just me!  In today's revolutionary spirit, I want to encourage you too to cast
+off the shackles of slow Python, and embrace the possibility of performance
+without compromises!
 
 If you run into any issues at all: packages that won't install, things that are
 too slow, or take too much memory. You can email me personally. I'm committed
