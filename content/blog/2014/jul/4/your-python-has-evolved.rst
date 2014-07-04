@@ -44,3 +44,6 @@ I changed by default Python, or OS X, using `pyenv`_::
     $ pip install a nice list of utilities I use
 
 Tada.
+
+.. `PyPy`: http://pypy.org
+.. `pyenv`: https://github.com/yyuu/pyenv
