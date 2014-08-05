@@ -29,7 +29,17 @@ players::
 
 Then, on each side of the stacks in the middle, you deal a pile of 4 cards,
 face down. (Meaning each player has 4 stacks of 4 cards, each of which is
-associated with one of the cards in the middle).
+associated with one of the cards in the middle)::
+
+        Player one
+
+    4C    4C    4C    4C
+
+    C     C     C     C
+
+    4C    4C    4C    4C
+
+        Player two
 
 To start the game, each player flips two of the cards in the middle over,
 simultaneously.
