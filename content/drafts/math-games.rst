@@ -35,10 +35,10 @@ To start the game, each player flips two of the cards in the middle over,
 simultaneously.
 
 Then players look at each of their stacks, and for each one they must find a
-series of arithmetic operations which lead to the value of the card in the
-middle. For example, if my target was 7, and I was dealt 2, 4, 6, 8, I might
-find: ``(8 - 4) + (6 / 2)``. Each number must be used exactly once, and any
-binary operators are legal (at the time we only knew about addition,
+series of arithmetic operations which lead to the value of the corresponding
+card in the middle. For example, if my target was 7, and I was dealt 2, 4, 6,
+8, I might find: ``(8 - 4) + (6 / 2)``. Each number must be used exactly once,
+and any binary operators are legal (at the time we only knew about addition,
 subtraction, multiplication, and division, but if you can find a use for
 logarithms or exponentiation be my guest).
 
