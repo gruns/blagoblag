@@ -39,7 +39,7 @@ From behind the scenes the Barlet White House looks pretty great, how does it
 stand up to this challenge? I'll attempt to go through the entire seven
 seasons, probably at a pace of a few episodes a week.
 
-Without further ado... the pilot:
+Without further ado... the **Pilot**:
 
 The President is in a bicycle accident while on vacation. At the same time,
 Josh Lyman disparages the religious right on national television (on a program
