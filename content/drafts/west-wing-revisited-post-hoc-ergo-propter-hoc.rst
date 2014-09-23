@@ -25,4 +25,5 @@ And finally, an Air Force transport in shot down by the Syrian Army, more on
 this next episode.
 
 Overall this episode spends a lot of time establishing the characters' personal
-sides, but what the public sees seems to be entirely negative.
+sides, and we all grow to love the president because he speaks latin,
+nevertheless what the public sees seems to be entirely negative.

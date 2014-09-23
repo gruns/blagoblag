@@ -16,8 +16,8 @@ I'd like to add a few more reasons I care about these issues:
   because I merged a pull request.
 
 I'm very tired of being tired. And yet, I can't even begin to imagine how tired
-I would be if I was a recipient of the constant stream of harassment that many
-women who speak up receive.
+I would be if I was a recipient of the `constant stream of harassment`_ that
+many women who speak up receive.
 
 For all these reasons (and one more that I'll get to), I'm calling on members
 of the Python community to join me in showing their support for working to fix
@@ -37,8 +37,8 @@ I mentioned there was one additional reason this is important to me. A major
 theme, for myself, over the last year has been thinking about my ethical
 obligations as a programmer (and more broadly, the obligations all programmers
 have). I've been particularly influenced by `this blog post`_ by Glyph, and
-
-deeply impacted me.
+`this talk`_ by Mike Monteiro. If you haven't already, take a moment to
+read/watch them.
 
 Whoever came up with the term "User agent" to describe a browser uncovered a
 very powerful idea. Computer programs are expected to faithfully execute and
@@ -69,6 +69,7 @@ know we all want to see, and which we can be proud of.
 
 .. _`Last year I wrote`: http://alexgaynor.net/2013/aug/28/why-i-support-diversity/
 .. _`the Ada Initiative`: http://adainitiative.org/
+.. _`constant stream of harassment`: https://twitter.com/deanna/status/510925931217559552
 .. _`Jacob Kaplan-Moss`: http://jacobian.org/
 .. _`Carl Meyer`: http://oddbird.net/authors/carl/
 .. _`this blog post`: https://glyph.twistedmatrix.com/2005/11/ethics-for-programmers-primum-non.html
