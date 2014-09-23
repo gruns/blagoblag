@@ -24,7 +24,7 @@ of the Python community to join me in showing their support for working to fix
 these issues, and foster a diverse community, by donating to support the Ada
 Initiative.
 
-For the next 5 days, Jacob Kaplan-Moss, Carl Meyer, and myself will be matching
+For the next 5 days, `Jacob Kaplan-Moss`_, `Carl Meyer`_, and myself will be matching
 donations, up to $7,5000:
 
 .. raw:: html
@@ -69,5 +69,7 @@ know we all want to see, and which we can be proud of.
 
 .. _`Last year I wrote`: http://alexgaynor.net/2013/aug/28/why-i-support-diversity/
 .. _`the Ada Initiative`: http://adainitiative.org/
+.. _`Jacob Kaplan-Moss`: http://jacobian.org/
+.. _`Carl Meyer`: http://oddbird.net/authors/carl/
 .. _`this blog post`: https://glyph.twistedmatrix.com/2005/11/ethics-for-programmers-primum-non.html
 .. _`this talk`: http://vimeo.com/68470326
