@@ -10,14 +10,14 @@ shows. I don't fit particularly well into the political spectrum, but most
 folks would say I'm a liberal.
 
 As a result, I have a lot of conversations with liberal friends, and they say
-things like: "I wish Jed Barlet was our president" or "I wish the White House
+things like: "I wish Jed Bartlet was our president" or "I wish the White House
 was more like that".
 
 At first, I totally agreed. The staffers on The West Wing's White House seem so
 diligent, and care so much, and don't seem like completely amoral jerks, and
 that seemed like a solid upgrade.
 
-However, I've come to the hypothesis that probably Jed Barlet's White House
+However, I've come to the hypothesis that probably Jed Bartlet's White House
 looked like a shit show to those on the outside. That what makes The West
 Wing's White House seem at all appealing is the "behind the scenes".
 
@@ -26,7 +26,7 @@ events that are known to the general public. Anything that's a "behind the
 scenes" will go unnoted. What constitutes known to the general public?
 
 * Major world events
-* Anything explicitly scene or stated to be in a press briefing
+* Anything explicitly seen or stated to be in a press briefing
 * Any legislative procedural happenings
 
 To give a sense of things I'll consider not public:
@@ -35,7 +35,7 @@ To give a sense of things I'll consider not public:
 * Anything in any of the character's personal lives (except where explicitly
   shown to be in the media)
 
-From behind the scenes the Barlet White House looks pretty great, how does it
+From behind the scenes the Bartlet White House looks pretty great, how does it
 stand up to this challenge? I'll attempt to go through the entire seven
 seasons, probably at a pace of a few episodes a week.
 
@@ -52,7 +52,7 @@ Josh's conflict with the religious right appears to basically end here, for the
 general public this probably seems incongruous as he goes from being about to
 be fired to perfectly fine, with no events that are public.
 
-Mandy Hampton, a political consultant who worked on the Barlet campaign, is
+Mandy Hampton, a political consultant who worked on the Bartlet campaign, is
 hired by a Democratic senator; in real life I highly doubt this would be
 newsworthy or noted by the general population.
 
