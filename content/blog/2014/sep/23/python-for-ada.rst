@@ -25,7 +25,7 @@ these issues, and foster a diverse community, by donating to support the Ada
 Initiative.
 
 For the next 5 days, `Jacob Kaplan-Moss`_, `Carl Meyer`_, and myself will be matching
-donations, up to $7,5000:
+donations, up to $7,500:
 
 .. raw:: html
 
