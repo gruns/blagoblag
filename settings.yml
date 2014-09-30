@@ -6,7 +6,7 @@ config:
     source: content
     permalink: "{{date.year}}/{{month_name}}/{{date.day}}/{{filename}}/"
     relate_url: false
-    perpage: 5
+    perpage: 10
     feedcount: 20
 
 author:
