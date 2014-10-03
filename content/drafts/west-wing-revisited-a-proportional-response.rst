@@ -11,7 +11,7 @@ Most of this episode is behind the scenes on how the President is handling the
 situation, but there are a few public story lines.
 
 First, the President hires a new body man, this might make the news, every once
-and a while the press in real life wrote a story about Reggie Love (President
+in a while the press in real life wrote a story about Reggie Love (President
 Obama's body man).
 
 Second, a Democratic congressman implies that if the President visited his
