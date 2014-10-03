@@ -24,3 +24,8 @@ this, it's too ridiculous!
 Finally, the President publicly announces the US response to Syria's attack:
 several high value military targets in Syria are air-striked, with minimal
 civilian casualties. This probably plays well in the media.
+
+EDIT: It's been pointed out to me that the second plot point is actually `based
+on a real event`_. I'm not sure what to make of this.
+
+.. _`based on a real event`: http://www.nytimes.com/1994/11/23/us/helms-takes-new-swipe-at-clinton-then-calls-it-mistake.html
