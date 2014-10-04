@@ -11,7 +11,7 @@ a jerks sometimes.
 
 Earlier this week, kernel developer `Matthew Garrett posted on his blog`_ that
 he'd no longer be working on fixing Intel's bugs in the kernel, due to their
-handling of their add campaign on a gaming website that wrote about GamerGate.
+handling of their ad campaign on a gaming website that wrote about GamerGate.
 
 Here's what one commenter on Reddit's `/r/linux`_ wrote:
 
