@@ -21,6 +21,7 @@ The languages, and constructs, this post will be looking at are:
   * Exceptions
 * Rust
   * ``Option`` and ``Result`` types
+  * Task failures
 * Go
   * panic/defer
   * error
@@ -36,24 +37,21 @@ normative judgements.
 
 That said: let's dive into this:
 
-Propagation
------------
-
-This section is going to look at how errors propagate from one call frame to the
-next.
-
-C's segfaults automatically propagate, and cannot be stopped by an
-intermediary frame. Returning an error code in C doesn't automatically
-propogate up through the call stack, since it's just a normal return value.
+C's segfaults automatically propagate, and cannot be stopped by an intermediary
+frame. Returning an error code in C doesn't automatically propagate up through
+the call stack, since it's just a normal return value. A segfault kills the
+entire UNIX process, regardless of which thread it occurs in. Segfaults cannot
+be recovered from.
 
 In Erlang, a pattern matching failure gets turned into an exception, and
-exceptions which aren't explicitly handled propogate up through the call
+exceptions which aren't explicitly handled propagate up through the call
 stack, until they reach the top, at which point they kill the current
 process (n.b. this means an Erlang process, not a UNIX process). If an
 Erlang process is linked, it's possible for this to kill another process.
 
-Python's exceptions propagate up through call frames, and any intermediary
-can handle them.
+Python's exceptions propagate up through call frames, and any intermediary can
+handle them. If an exception reaches the topmost stack frame it kills the
+current thread, or if that thread is the main thread, the entire process.
 
 Java's exceptions also automatically propagate up through call frames,
 however, these must be marked in a function declaration (this is called
@@ -67,9 +65,15 @@ result without writing out the flow control::
 
 .. code-block:: rust
 
-    // This function returns a ``Result``, if it returns an ``Err``, that will
+    // ``x.read()`` returns a ``Result``, if it returns an ``Err``, that will
     // be propagated up the stack, if it returns an ``Ok``, ``data`` will be
     // assigned to that value.
-    let data = try!(x.read() )
+    let data = try!(x.read())
 
-Finally, Go's panics do propagate up the stack, but errors do not.
+Rust also has task failures, which are similar to Erlang's. They kill only the
+currently executing task.
+
+Finally, Go's panics do propagate up the stack automatically, but returning
+errors does not. Go's panics can be caught using the ``defer`` feature, if the
+reach the topmost frame they kill the entire UNIX process, regardless of which
+goroutine they came from.
