@@ -31,7 +31,7 @@ our users, particularly in a context of "they have bet their businesses on
 this". Instead we continue to treat these projects as our hobby projects, as
 things we casually do on the side for fun.
 
-Working on `PyCA Cryptography`_, and security in general, has grealy influenced
+Working on `PyCA Cryptography`_, and security in general, has greally influenced
 my thinking on these issues. The nature of ``cryptography`` means that when we
 make mistakes, we put our users' businesses, and potentially their customers'
 personal information at risk. This responsibility weighs heavily on me. It

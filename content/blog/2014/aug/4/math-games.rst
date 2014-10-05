@@ -70,7 +70,7 @@ an early age. It teaches a few skills:
   correctly in order to do well at this game.
 * Estimation: One of the tricks to quickly processing all the possible
   operations you could perform is to look at the scale of numbers, for example
-  if I'm targetting a 2, and in my hand I have a 7 and an 8, I would never
+  if I'm targeting a 2, and in my hand I have a 7 and an 8, I would never
   contemplate ``7 * 8``, because I know it will be difficult to get back down
   from 56.
 * Cooperation: While it is something of a competitive game, when a player is

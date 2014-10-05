@@ -12,7 +12,7 @@ Staff, Leo McGarry, breaks up with his wife. Unclear how public this would be.
 Second, the White House staff are doing financial disclosures. Only one of
 these is interesting: Toby Ziegler's. He bought some stock in an internet
 company, then arranged for a friend of his to testify before congress, which
-resulted in the value of the stock sky rocketing. In the show he deals with
+resulted in the value of the stock skyrocketing. In the show he deals with
 this by selling the shares and taking a $1 salary for the year. I think in
 reality he'd probably have to resign, there's just no way to contain something
 so obviously scanadlous looking. This is one of places where our behind-the-
