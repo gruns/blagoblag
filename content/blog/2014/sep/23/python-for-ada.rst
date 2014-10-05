@@ -29,7 +29,7 @@ donations, up to $7,500:
 
 .. raw:: html
 
-    <a href="https://supportada.org?campaign=python"><img src="https://adainitiative.org/counters/2014counter-python.svg" style="width: 400px; height: auto; margin: 0px auto 12px auto; display: block;" /></a><a href="https://supportada.org?campaign=python"><img alt="Donate now" src="http://adainitiative.org/wp-content/uploads/2013/08/donate_red_small.png" style="box-shadow: none; margin: 0px auto 18px auto; display: block;" /></a>
+    <a href="https://supportada.org?campaign=python"><img src="https://adainitiative.org/counters/2014counter-python.svg" style="width: 400px; height: auto; margin: 0px auto 12px auto; display: block;" /></a><a href="https://supportada.org?campaign=python"><img alt="Donate now" src="https://adainitiative.org/wp-content/uploads/2013/08/donate_red_small.png" style="box-shadow: none; margin: 0px auto 18px auto; display: block;" /></a>
 
 I encourage you to donate to show your support.
 
@@ -64,10 +64,10 @@ know we all want to see, and which we can be proud of.
 
 .. raw:: html
 
-    <a href="https://supportada.org?campaign=python"><img src="https://adainitiative.org/counters/2014counter-python.svg" style="width: 400px; height: auto; margin: 0px auto 12px auto; display: block;" /></a><a href="https://supportada.org?campaign=python"><img alt="Donate now" src="http://adainitiative.org/wp-content/uploads/2013/08/donate_red_small.png" style="box-shadow: none; margin: 0px auto 18px auto; display: block;" /></a>
+    <a href="https://supportada.org?campaign=python"><img src="https://adainitiative.org/counters/2014counter-python.svg" style="width: 400px; height: auto; margin: 0px auto 12px auto; display: block;" /></a><a href="https://supportada.org?campaign=python"><img alt="Donate now" src="https://adainitiative.org/wp-content/uploads/2013/08/donate_red_small.png" style="box-shadow: none; margin: 0px auto 18px auto; display: block;" /></a>
 
 
-.. _`Last year I wrote`: http://alexgaynor.net/2013/aug/28/why-i-support-diversity/
+.. _`Last year I wrote`: https://alexgaynor.net/2013/aug/28/why-i-support-diversity/
 .. _`the Ada Initiative`: http://adainitiative.org/
 .. _`constant stream of harassment`: https://twitter.com/deanna/status/510925931217559552
 .. _`Jacob Kaplan-Moss`: http://jacobian.org/
