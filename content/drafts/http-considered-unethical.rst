@@ -31,8 +31,9 @@ that's got to change. HTTP must cease to exist as we know it. Typing
 ``example.com`` *must* access it over HTTPS.
 
 If you operate a website, please add HTTPS, and redirect all traffic to it. If
-you're in a position to define web standards going forwards: require HTTPS for
-anything and everything.
+you're in a position to define web standards going forward, or browser UI:
+require HTTPS for anything and everything, and where you can't, penalize sites
+using HTTP.
 
 .. _`Kenneth Love`: http://gigantuan.net/
 .. _`attacker on the network`: http://arstechnica.com/tech-policy/2014/09/why-comcasts-javascript-ad-injections-threaten-security-net-neutrality/
