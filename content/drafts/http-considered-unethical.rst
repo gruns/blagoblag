@@ -18,7 +18,7 @@ and you'd know they're from me. Confidentiality is required because **I
 shouldn't get to have an opinion about what's important to my readers**.
 
 A student should be able to browse for information on depression without their
-principle knowing it, a dissident should be able to research how to avoid
+principal knowing it, a dissident should be able to research how to avoid
 national firewalls without their government knowing it, and anyone who damn
 well pleases should be able to read whatever they like without their ISP
 knowing it.
@@ -26,9 +26,9 @@ knowing it.
 As operators of websites, we should not be empowered to give away our users'
 privacy.
 
-Right now on the web, the default is unauthenticated and unecrypted, and that's
-got to change. HTTP must cease to exist as we know it. Typing ``example.com``
-*must* access it over HTTPS.
+Right now on the web, the default is unauthenticated and unencrypted, and
+that's got to change. HTTP must cease to exist as we know it. Typing
+``example.com`` *must* access it over HTTPS.
 
 If you operate a website, please add HTTPS, and redirect all traffic to it. If
 you're in a position to define web standards going forwards: require HTTPS for
