@@ -23,6 +23,13 @@ national firewalls without their government knowing it, and anyone who damn
 well pleases should be able to read whatever they like without their ISP
 knowing it.
 
+A key issue in designing API and user interfaces is making sure that actions
+reflect the intent and agency of their user. No users' mental model for how
+their browser works includes the possibility that attackers are reading or
+manipulating the contents of pages (if you don't believe, try explaining to
+someone that the ``From`` field of an email doesn't prove who it's really
+from).
+
 As operators of websites, we should not be empowered to give away our users'
 privacy.
 
@@ -30,10 +37,15 @@ Right now on the web, the default is unauthenticated and unencrypted, and
 that's got to change. HTTP must cease to exist as we know it. Typing
 ``example.com`` *must* access it over HTTPS.
 
-If you operate a website, please add HTTPS, and redirect all traffic to it. If
+If you operate a website, please add HTTPS [#]_, and redirect all traffic to it. If
 you're in a position to define web standards going forward, or browser UI:
 require HTTPS for anything and everything, and where you can't, penalize sites
 using HTTP.
 
+.. [#] Cost is no longer an excuse, both `StartSSL`_ and `CloudFlare`_ provide
+       free certicates.
+
 .. _`Kenneth Love`: http://gigantuan.net/
 .. _`attacker on the network`: http://arstechnica.com/tech-policy/2014/09/why-comcasts-javascript-ad-injections-threaten-security-net-neutrality/
+.. _`StartSSL`: https://www.startssl.com/
+.. _`CloudFlare`: https://www.cloudflare.com
