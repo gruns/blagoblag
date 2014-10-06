@@ -10,8 +10,8 @@ found::
 
     Yeah, this is pure crap. It doesn't even compile.
 
-    drivers/media/dvb-frontends/si2165.c:1063:17: error: expected ‘,’ or ‘;’ before ‘SI2165_FIRMWARE’
-    MODULE_FIRMWARE(SI2165_FIRMWARE);
+        drivers/media/dvb-frontends/si2165.c:1063:17: error: expected ‘,’ or ‘;’ before ‘SI2165_FIRMWARE’
+        MODULE_FIRMWARE(SI2165_FIRMWARE);
 
     because it should presumably say "SI2165_FIRMWARE_REV_D" now.
 
@@ -26,8 +26,8 @@ Here's how I would have given that code review::
     Right now the code doesn't compile with your patch applied. Here's the
     error message I'm getting:
 
-    drivers/media/dvb-frontends/si2165.c:1063:17: error: expected ‘,’ or ‘;’ before ‘SI2165_FIRMWARE’
-    MODULE_FIRMWARE(SI2165_FIRMWARE);
+        drivers/media/dvb-frontends/si2165.c:1063:17: error: expected ‘,’ or ‘;’ before ‘SI2165_FIRMWARE’
+        MODULE_FIRMWARE(SI2165_FIRMWARE);
 
     I think that should probably be "SI2165_FIRMWARE_REV_D" instead.
 
