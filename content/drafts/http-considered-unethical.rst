@@ -17,6 +17,9 @@ But we could work around those, I could include a PGP signature for every post,
 and you'd know they're from me. Confidentiality is required because **I
 shouldn't get to have an opinion about what's important to my readers**.
 
+Everything on my blog may be public, but that doesn't mean any given reader is
+ok with it being known by the prying eyes between them and me.
+
 A student should be able to browse for information on depression without their
 principal knowing it, a dissident should be able to research how to avoid
 national firewalls without their government knowing it, and anyone who damn
@@ -43,7 +46,7 @@ require HTTPS for anything and everything, and where you can't, penalize sites
 using HTTP.
 
 .. [#] Cost is no longer an excuse, both `StartSSL`_ and `CloudFlare`_ provide
-       free certicates.
+       free certificates.
 
 .. _`Kenneth Love`: http://gigantuan.net/
 .. _`attacker on the network`: http://arstechnica.com/tech-policy/2014/09/why-comcasts-javascript-ad-injections-threaten-security-net-neutrality/
