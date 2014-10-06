@@ -1,3 +1,4 @@
+import errno
 import datetime
 import os
 import shutil
@@ -19,7 +20,12 @@ def main(argv):
         today.strftime("%b").lower(),
         str(today.day),
     )
-    os.makedirs(destination_folder)
+    try:
+        os.makedirs(destination_folder)
+    except OSError as e:
+        if e.errno != errno.EEXIST:
+            raise
+
     destination_file = os.path.join(destination_folder, os.path.basename(post))
     shutil.move(post, destination_file)
     subprocess.check_call(["git", "rm", post])
