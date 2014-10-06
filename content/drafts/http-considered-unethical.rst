@@ -3,7 +3,7 @@ HTTP Considered Unethical
 
 Returning visitors: notice anything different? No, not the design (although
 thanks `Kenneth Love`_!). I'm talking about the lock icon! Accessing this
-website now requires TLS (and a fairly modern client to book).
+website now requires TLS (and a fairly modern client to boot).
 
 But Alex, it's just your blog! There's nothing confidential on here, why does
 it need TLS?
