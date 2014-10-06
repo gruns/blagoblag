@@ -6,7 +6,7 @@ jerk`_, but I didn't show you how. Linus and LKML, once again, find themselves i
 the spotlight, so I thought I would show how it can be done.
 
 On a whim today, I clicked on a `random message from Linus`_, here's what I
-found:
+found::
 
     Yeah, this is pure crap. It doesn't even compile.
 
@@ -20,7 +20,7 @@ found:
                      Linus
 
 
-Here's how I would have given that code review:
+Here's how I would have given that code review::
 
 
     Right now the code doesn't compile with your patch applied. Here's the
