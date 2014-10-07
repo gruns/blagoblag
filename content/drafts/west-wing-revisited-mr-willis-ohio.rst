@@ -16,4 +16,5 @@ explicitly prohibited, a legislative victory for the Democratic president.
 
 Finally, several senior White House staffers, as well as the President and
 Chief of Staff's daughters get into something of a scuffle in a George Town bar
-with a group of racist, homophobic, and generally assholish 20 somethings.
+with a group of racist, homophobic, and generally assholish 20 somethings. It's
+no obvious to me how much of the incident would be covered by the press.
