@@ -29,7 +29,7 @@ recognize that when the state acts to suppress speech, it almost always does so
 against minority interests, and to support already powerful ones.
 
 All this brings me to Andrew "weev" Auernheimer, a computer hacker best known
-for exposing ATT's insecure handling of iPad customers data, he was tried and
+for exposing AT&T's insecure handling of iPad customers data, he was tried and
 convicted under the Compute Fraud and Abuse Act (CFAA) and spent time in prison
 before his conviction was ultimately vacated.
 
