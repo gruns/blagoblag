@@ -5,12 +5,12 @@ There's a trend I've seen recently where folks will make ridiculous or
 offensive arguments, and then say "I'm just playing devil's advocate" as if
 that means something.
 
-Devil's advocacy is not license to make ridiculous, incoherent, and illogical
-arguments. Advocating for the devil means take a position opposite your usual
-one. You are still bound by all the same rules of debate and logic to make a
-coherent point. And if all the arguments you find yourself coming up with are
-racist or sexist, the lesson is perhaps the point has no merit and there's
-nothing we can learn from it.
+`Devil's advocacy`_ is not license to make ridiculous, incoherent, and
+illogical arguments. Advocating for the devil means take a position opposite
+your usual one. You are still bound by all the same rules of debate and logic
+to make a coherent point. And if all the arguments you find yourself coming up
+with are racist or sexist, the lesson is perhaps that the position has no merit
+and there's nothing we can learn from it.
 
 The best devil's advocacy needs no "I'm just playing devil's advocate"
 disclaimer, it's simply folks making honest and logical arguments to try to
@@ -52,3 +52,5 @@ to freely associate, or not, with whom I please. I want nothing to do with him,
 I want nothing to do with anyone who wants anything to do with him. He is an
 asshole who harasses nice people on the internet for fun, and I have no time
 for such people.
+
+.. _`Devil's advocacy`: https://en.wikipedia.org/wiki/Devil's_advocate
