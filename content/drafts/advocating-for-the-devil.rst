@@ -48,7 +48,7 @@ be the first one to defend his First Amendment rights to freedom of
 association. But again, he's not.
 
 Instead, he's just an asshole on the internet. And so I will exercise my rights
-to freely associate, or not with who I please. I want nothing to do with him,
+to freely associate, or not, with whom I please. I want nothing to do with him,
 I want nothing to do with anyone who wants anything to do with him. He is an
 asshole who harasses nice people on the internet for fun, and I have no time
 for such people.
