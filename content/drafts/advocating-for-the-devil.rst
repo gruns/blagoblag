@@ -15,7 +15,7 @@ and there's nothing we can learn from it.
 The best devil's advocacy needs no "I'm just playing devil's advocate"
 disclaimer, it's simply folks making honest and logical arguments to try to
 elucidate the truth. This is one of the most important tools we have at our
-disposal to analyze complex and divisive issues, it's actually hard for me to
+disposal to analyze complex and divisive issues. It's actually hard for me to
 imagine being able to advocate for the positions I *do* believe without
 understanding the opposite side.
 
@@ -33,7 +33,7 @@ for exposing AT&T's insecure handling of iPad customers data, he was tried and
 convicted under the Computer Fraud and Abuse Act (CFAA) and spent time in
 prison before his conviction was ultimately vacated.
 
-He's also now literally a Nazi.
+He's also now `literally a Nazi`_.
 
 A great many people in the hacking/security/technology community feel compelled
 to defend him for some reason, and I can't understand why. I draw a strong line
@@ -54,3 +54,4 @@ asshole who harasses nice people on the internet for fun, and I have no time
 for such people.
 
 .. _`Devil's advocacy`: https://en.wikipedia.org/wiki/Devil's_advocate
+.. _`literally a Nazi`: http://gawker.com/ipad-hacker-and-troll-weev-is-now-a-straight-up-white-1641763761
