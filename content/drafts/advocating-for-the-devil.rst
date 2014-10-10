@@ -5,7 +5,7 @@ There's a trend I've seen recently where folks will make ridiculous or
 offensive arguments, and then say "I'm just playing devil's advocate" as if
 that means something.
 
-`Devil's advocacy`_ is not license to make ridiculous, incoherent, and
+`Devil's advocacy`_ is not a license to make ridiculous, incoherent, or
 illogical arguments. Advocating for the devil means take a position opposite
 your usual one. You are still bound by all the same rules of debate and logic
 to make a coherent point. And if all the arguments you find yourself coming up
