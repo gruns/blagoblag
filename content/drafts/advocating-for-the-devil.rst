@@ -17,7 +17,9 @@ disclaimer, it's simply folks making honest and logical arguments to try to
 elucidate the truth. This is one of the most important tools we have at our
 disposal to analyze complex and divisive issues. It's actually hard for me to
 imagine being able to advocate for the positions I *do* believe without
-understanding the opposite side.
+understanding the opposite side; so it's disheartening to me that many folks
+seem to think it's a good excuse to practice poor argumentation and spout
+racist or sexist gibberish.
 
 Of course, sometimes we find ourselves not just metaphorically advocating for
 the devil, but literally advocating for the devils among us. For example, I
