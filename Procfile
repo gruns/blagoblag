@@ -1,1 +1,1 @@
-web: twistd -n web --path=deploy/ --port=$PORT
+web: PYTHONSTARTUP=startup.py twistd -n web --path=deploy/ --port=$PORT
