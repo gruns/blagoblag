@@ -1,6 +1,6 @@
 site:
     name: The Blagoblag
-    url: http://alexgaynor.net
+    url: https://alexgaynor.net
 
 config:
     source: content
