@@ -32,10 +32,10 @@ appointment you can imagine held up by the Senate, but never a director of the
 Corporation for Public Broadcasting, so this feels like a story that might get
 some attention.
 
-An editorial runs in the Washing Post by a leading Democrat saying that Leo
-McGarry should resign as Chief of Staff, because his presence is hurting the
-party. At the same time Congress chooses not to pursue hearings into Leo's
-alcohol and drug abuse (it's not clear if it would be announced they're not
-pursuing them, or if they simply wouldn't).
+An editorial runs in the Washington Post by a leading Democrat saying that Leo
+McGarry should resign as Chief of Staff, because his continued presence is
+hurting the party. At the same time Congress chooses not to pursue hearings
+into Leo's alcohol and drug abuse (it's not clear if it would be announced
+they're not pursuing them, or if they simply wouldn't happen).
 
 .. _`In Excelsis Deo`: https://alexgaynor.net/2014/oct/11/west-wing-revisited-in-excelsis-deo/
