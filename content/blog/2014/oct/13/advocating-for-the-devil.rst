@@ -35,7 +35,7 @@ for exposing AT&T's insecure handling of iPad customers data, he was tried and
 convicted under the Computer Fraud and Abuse Act (CFAA) and spent time in
 prison before his conviction was ultimately vacated.
 
-He's also now `literally a Nazi`_.
+He's also `literally a Nazi`_.
 
 A great many people in the hacking/security/technology community feel compelled
 to defend him for some reason, and I can't understand why. I draw a strong line
