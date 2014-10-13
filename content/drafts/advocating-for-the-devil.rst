@@ -6,11 +6,11 @@ offensive arguments, and then say "I'm just playing devil's advocate" as if
 that means something.
 
 `Devil's advocacy`_ is not a license to make ridiculous, incoherent, or
-illogical arguments. Advocating for the devil means take a position opposite
-your usual one. You are still bound by all the same rules of debate and logic
-to make a coherent point. And if all the arguments you find yourself coming up
-with are racist or sexist, the lesson is perhaps that the position has no merit
-and there's nothing we can learn from it.
+illogical arguments. Advocating for the devil means taking a position opposite
+your usual one. You are still bound by all the same rules of debate and logic,
+to make a coherent argument. And if all the arguments you find yourself coming
+up with are racist or sexist, the lesson is perhaps that the position has no
+merit and there's nothing we can learn from it.
 
 The best devil's advocacy needs no "I'm just playing devil's advocate"
 disclaimer, it's simply folks making honest and logical arguments to try to
@@ -22,10 +22,10 @@ seem to think it's a good excuse to practice poor argumentation and spout
 racist or sexist gibberish.
 
 Of course, sometimes we find ourselves not just metaphorically advocating for
-the devil, but literally advocating for the devils among us. For example, I
+the devil, but literally advocating for the devils amongst us. For example, I
 regularly find myself defending National Socialist Party of America v. Village
-of Skokie, a Supreme Court decision which supported the Nazis right to march in
-Skokie (a predominately Jewish Chicago suburb). Why? Because I take the
+of Skokie, a Supreme Court decision which supported the Nazis' right to march
+in Skokie (a predominately Jewish Chicago suburb). Why? Because I take the
 broadest interpretation of the First Amendment's free speech protections, I
 recognize that when the state acts to suppress speech, it almost always does so
 against minority interests, and to support already powerful ones.
@@ -39,7 +39,7 @@ He's also now `literally a Nazi`_.
 
 A great many people in the hacking/security/technology community feel compelled
 to defend him for some reason, and I can't understand why. I draw a strong line
-between government censorship, and individuals freely deciding they want
+between government censorship, and individuals freely deciding that they want
 nothing to do with him.
 
 weev is not on trial for violating the CFAA anymore. Were he, I would point out
@@ -47,7 +47,7 @@ that the CFAA is an absurd and overreaching law which ought to be struck down.
 
 He's not though, he's also not on trial for being a Nazi. If he were, I would
 be the first one to defend his First Amendment rights to freedom of
-association. But again, he's not.
+association and speech. But again, he's not.
 
 Instead, he's just an asshole on the internet. And so I will exercise my rights
 to freely associate, or not, with whom I please. I want nothing to do with him,
