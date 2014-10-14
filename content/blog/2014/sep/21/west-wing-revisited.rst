@@ -56,11 +56,11 @@ Mandy Hampton, a political consultant who worked on the Bartlet campaign, is
 hired by a Democratic senator; in real life I highly doubt this would be
 newsworthy or noted by the general population.
 
-Finally, 1200 Cubans on leave Havana on rafts headed for Florida. About half
-are turned back by weather, and of the remaining half, many perished, and about
-200 make it to Florida. This plot line isn't discussed any further, I suspect
-in real life the White House would receive flak from both sides: for not
-helping the refuges, and for allowing "illegal immigrants" entry to the US.
+Finally, 1200 Cubans leave Havana on rafts headed for Florida. About half are
+turned back by weather, and of the remaining half, many perished, and about 200
+make it to Florida. This plot line isn't discussed any further, I suspect in
+real life the White House would receive flak from both sides: for not helping
+the refuges, and for allowing "illegal immigrants" entry to the US.
 
 All in all, I suspect this episode captures what will be a regular theme:
 public conflicts are resolved with private meetings, and so the plot line, for
