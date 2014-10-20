@@ -43,6 +43,9 @@ Twitter is good for two things: engaging with #Brands, and broadcasting
 messages to whoever wants to read them -- and of course the most widely
 broadcast are always jokes.
 
+*TODO: Should I include a paragraph on why I think people like Twitter, despite
+all this?*
+
 It's for all these reasons that I hope Twitter genuinely ceases to be. I want a
 product that enables me to build and participate in communities, that
 encourages discussions and expressing meaningful ideas. Not one that
