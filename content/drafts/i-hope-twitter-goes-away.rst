@@ -27,11 +27,12 @@ Twitter (which takes quite a bit of effort! Far more than it does to get kicked
 from any of the IRC channels I moderate).
 
 It's because of this, that I think it's not a coincidence that harassment and
-abuse are epidemic on Twitter. It's not because Twitter mishandles these, it's
-because a core design tenant of Twitter's product enables harassment. It's
-fundamentally impossible to create a safe space with a public account, at any
-time anyone can jump in, and no one is empowered to help moderate it, in fact,
-in all likelihood they won't even see it.
+abuse are epidemic on Twitter. It's not because Twitter mishandles these
+(though they definitely do), it's because a core design tenant of Twitter's
+product enables harassment. It's fundamentally impossible to create a safe
+space with a public account, at any time anyone can jump in, and no one is
+empowered to help moderate it, in fact, in all likelihood they won't even see
+it.
 
 Twitter's also a phenomenally bad place to have a discussion, and again, not
 just because of the 140 character limit. Try following a multi-party
