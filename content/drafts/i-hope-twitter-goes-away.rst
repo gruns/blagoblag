@@ -1,5 +1,5 @@
-I hope Twitter Dies
-===================
+I hope Twitter Goes Away
+========================
 
 About seven months ago, I abruptly quit Twitter, though I'd been thinking about
 it for a while, ultimately leaving was a snap decision for me. Lately I've been
