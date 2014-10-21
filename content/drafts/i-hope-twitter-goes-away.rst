@@ -41,7 +41,7 @@ Depending on which message you treat as the root, an apparently randomly chosen
 of other possible messages will appear, in an inconsistent order.
 
 Twitter is good for two things: engaging with #Brands, and broadcasting
-messages to whoever wants to read them -- and of course the most widely
+messages to whoever wants to read them — and of course the most widely
 broadcast are always jokes.
 
 *TODO: Should I include a paragraph on why I think people like Twitter, despite
