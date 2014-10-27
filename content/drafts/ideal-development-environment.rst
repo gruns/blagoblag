@@ -57,9 +57,9 @@ production.
 The point that often gets the most push back is the continuous deployment. Many
 folks hear that and think, "Won't you be deploying tons of bugs to
 production?!?" The answer is: yes, we will deploy bugs to production. If you're
-deploying less frequently, you're still going to be deploying bugs. You don't
-spend nearly enough time or money to be bug free. Instead the focus is on, how
-do we minimize the impact of bugs.
+deploying less frequently, you're still going to be deploying bugs. `You don't
+spend nearly enough time or money to be bug free`_. Instead the focus is on,
+how do we minimize the impact of bugs.
 
 Deploying in smaller increments makes deployment safer because it the unit of
 deployment is easier to audit, and because it makes identifying the bad commit
@@ -111,3 +111,4 @@ into production is a joint effort of many people, and reflects a dedication to
 team work and a commitment to developing great software.
 
 .. _`previous written about why code review is important to me`: https://alexgaynor.net/2013/sep/26/effective-code-review/
+.. _`You don't spend nearly enough time or money to be bug free`: http://programmers.stackexchange.com/a/41249/9768
