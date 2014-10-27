@@ -65,7 +65,7 @@ Deploying in smaller increments makes deployment safer because it the unit of
 deployment is easier to audit, and because it makes identifying the bad commit
 easier. It also makes rollbacks easier. Moreover, it makes developers happier,
 first by reducing the stress that comes with unsafe deployments, and also by
-removing the wait to get your patch in production,. It also puts automation at
+removing the wait to get your patch in production. It also puts automation at
 the forefront, making it easier to maintain the system.
 
 Next is the issue tracker. The issue tracker is the source of truth for any
