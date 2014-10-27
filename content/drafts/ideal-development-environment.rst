@@ -109,3 +109,5 @@ worked. Underlying many of the idea here is an emphasis on regular
 communication and collaboration between team members. Every patch that makes it
 into production is a joint effort of many people, and reflects a dedication to
 team work and a commitment to developing great software.
+
+.. _`previous written about why code review is important to me`: https://alexgaynor.net/2013/sep/26/effective-code-review/
