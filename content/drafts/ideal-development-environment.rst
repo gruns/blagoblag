@@ -20,21 +20,22 @@ green.
 
 I get some feedback on the patch from a co-worker, maybe even more than one. I
 do some polish work on the patch, and then resubmit it. Tests run, and pass,
-and my coworker merges the patch, since it looks good to them now.
+and my coworker hits the merge button, since it looks good to them now.
 
 And now the magic starts. First, the CI runs again. This time, in addition to
 running tests, it also creates a build artifact. Once the CI is done, the
 deployment system takes the artifact and deploys to production.
 
 For a few minutes, either myself or the person who performed the merge keeps
-half our eye on the project's metrics and exception tracker; someone would be
-paged if anything bad actually happened, but we want to be on top of it.
+half our eye on the project's metrics and exception tracker; someone would
+automatically be paged if anything bad actually happened, but we want to be on
+top of it.
 
 Now I'm properly warmed up for the day. Next I'll see if there's any patches
-that need review, and do some code review. Once I've made sure none of my co-
-workers are blocked waiting for a review, I'll go through open issues that need
-design or architecture input, to contribute my 2 cents. Finally, I'll get back
-to the feature I'm working on and try to make some progress.
+that need review, and do some code review. Once I've made sure none of my
+co-workers are blocked waiting for a review, I'll go through open issues that
+need design or architecture input, to contribute my 2 cents. Finally, I'll get
+back to the feature I'm working on and try to make some progress.
 
 After lunch, we'll have a weekly team meeting. Everyone will share their goals
 for the week, we'll make sure everyone knows who is on-call for the week, and
@@ -72,7 +73,7 @@ Next is the issue tracker. The issue tracker is the source of truth for all
 tasks that need to be accomplished by the team. It's used to express
 dependencies, and folks can always look at it to find work they need to do.
 Tasks are decomposed as much as possible into units of work that can be
-executed. For example a task might look like:
+executed. For example a tree of tasks might look like:
 
 * Add the new feature
 
