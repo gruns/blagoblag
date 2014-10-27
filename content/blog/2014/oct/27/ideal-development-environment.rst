@@ -106,10 +106,11 @@ people, and as teams grow larger their areas of responsibility are split, often
 by refactoring code into disparate services.
 
 Elements of my ideal work environment are taken from many different places I've
-worked. Underlying many of the idea here is an emphasis on regular
-communication and collaboration between team members. Every patch that makes it
-into production is a joint effort of many people, and reflects a dedication to
-team work and a commitment to developing great software.
+worked, as well as Open Source communities I've participated in. Underlying
+many of the idea here is an emphasis on regular communication and collaboration
+between team members. Every patch that makes it into production is a joint
+effort of many people, and reflects a dedication to team work and a commitment
+to developing great software.
 
 .. _`previous written about why code review is important to me`: https://alexgaynor.net/2013/sep/26/effective-code-review/
 .. _`You don't spend nearly enough time or money to be bug free`: http://programmers.stackexchange.com/a/41249/9768
