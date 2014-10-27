@@ -68,7 +68,7 @@ first by reducing the stress that comes with unsafe deployments, and also by
 removing the wait to get your patch in production. It also puts automation at
 the forefront, making it easier to maintain the system.
 
-Next is the issue tracker. The issue tracker is the source of truth for any
+Next is the issue tracker. The issue tracker is the source of truth for all
 tasks that need to be accomplished by the team. It's used to express
 dependencies, and folks can always look at it to find work they need to do.
 Tasks are decomposed as much as possible into units of work that can be
@@ -83,7 +83,7 @@ executed. For example a task might look like:
 
     * Convert mockups to HTML/CSS
     * Develop JavaScript
-  * Back end end work
+  * Back end work
 
     * Design new models
     * Develop domain logic
