@@ -28,7 +28,7 @@ from any of the IRC channels I moderate).
 
 It's because of this, that I think it's not a coincidence that harassment and
 abuse are epidemic on Twitter. It's not because Twitter mishandles these
-(`though they definitely do`_), it's because a core design tenant of Twitter's
+(`though they definitely do`_), it's because a core design tenet of Twitter's
 product enables harassment. It's fundamentally impossible to create a safe
 space with a public account, at any time anyone can jump in, and no one is
 empowered to help moderate it, in fact, most of the time, a harassers Tweet
