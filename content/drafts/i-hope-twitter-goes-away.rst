@@ -1,4 +1,4 @@
-I hope Twitter Goes Away
+I Hope Twitter Goes Away
 ========================
 
 About seven months ago, I abruptly quit Twitter. Though I'd been thinking about
