@@ -1,6 +1,7 @@
 site:
     name: The Blagoblag
     url: https://alexgaynor.net
+    feed: /feed.xml
 
 config:
     source: content
