@@ -53,7 +53,7 @@ news outlets.
 
 If you, the reader, work for one of these websites, please, advocate internally
 for prioritizing the availability of TLS, and redirecting HTTP traffic to
-HTTPS.
+HTTPS (and deploying `HSTS`_).
 
 Everyone else, please reach out to the news websites you read to ask them for
 TLS, to predict you, the reader's, privacy and the integrity and authenticity
@@ -64,3 +64,4 @@ functioning democracy, is the ability of the people to access the press
 uninterrupted.
 
 .. _`previously written about the importance of TLS`: https://alexgaynor.net/2014/oct/06/http-considered-unethical/
+.. _`HSTS`: https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
