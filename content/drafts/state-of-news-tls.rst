@@ -17,7 +17,7 @@ top ten newspapers, by circulation in the US, did:
 * The New York Times: **No TLS**
 * USA Today: **No TLS**
 * Los Angeles Times: **No TLS**
-* Daily News: **TLS technically available, but badly mis-renders due to blocked content**
+* Daily News: **TLS technically available, but badly mis-renders due to blocked mixed content**
 * New York Post: **No TLS**
 * The Washington Post: **No TLS**
 * Chicago Sun-Times: **TLS available, but not required**
@@ -33,18 +33,18 @@ the Alexa Top 150, looking for news websites to see how they did, these are
 companies with major internet presences, surely they'll do better (I've
 excluded sites that were also present in the first list):
 
-* ESPN: **TLS technically available, but badly mis-renders due to blocked content**
+* ESPN: **TLS technically available, but badly mis-renders due to blocked mixed content**
 * CNN: **No TLS**
 * Fox News: **No TLS**
 * Forbes: **No TLS**
 * The Daily Mail UK: **No TLS**
-* CBS Sports: **TLS technically available, but badly mis-renders due to blocked content**
+* CBS Sports: **TLS technically available, but badly mis-renders due to blocked mixed content**
 * BBC: **No TLS**
 * NPR: **No TLS**
 * TMZ: **TLS available, HTTP redirects to HTTPS**
 * NBC News: **No TLS**
-* ABC News: **TLS technically available, but badly mis-renders due to blocked content**
-* Time: **TLS technically available, but page doesn't fully function due to blocked content**
+* ABC News: **TLS technically available, but badly mis-renders due to blocked mixed content**
+* Time: **TLS technically available, but page doesn't fully function due to blocked mixed content**
 
 There you have. The news website with the best TLS on the internet is TMZ.
 
