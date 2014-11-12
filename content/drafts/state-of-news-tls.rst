@@ -49,7 +49,10 @@ excluded sites that were also present in the first list):
 There you have. The news website with the best TLS on the internet is TMZ.
 
 We should be embarrassed by this pathetic state of TLS deployment for critical
-news outlets.
+news outlets. There is no reason for TLS not to be deployed by every single
+website, much less websites whose contents is this critical. It's not the 90's
+anymore, `TLS has exactly one performance problem: it is not used widely
+enough.`_
 
 If you, the reader, work for one of these websites, please, advocate internally
 for prioritizing the availability of TLS, and redirecting HTTP traffic to
@@ -64,4 +67,5 @@ functioning democracy, is the ability of the people to access the press
 uninterrupted.
 
 .. _`previously written about the importance of TLS`: https://alexgaynor.net/2014/oct/06/http-considered-unethical/
+.. _`TLS has exactly one performance problem: it is not used widely enough.`: https://istlsfastyet.com/
 .. _`HSTS`: https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
