@@ -44,12 +44,14 @@ excluded sites that were also present in the first list):
 * CBS Sports: **TLS technically available, but badly mis-renders due to blocked mixed content**
 * BBC: **No TLS**
 * NPR: **No TLS**
-* TMZ: **TLS available, HTTP redirects to HTTPS**
+* TMZ: **TLS available, but not required**
 * NBC News: **No TLS**
 * ABC News: **TLS technically available, but badly mis-renders due to blocked mixed content**
 * Time: **TLS technically available, but page doesn't fully function due to blocked mixed content**
 
-There you have. The news website with the best TLS on the internet is TMZ.
+There you have it. TMZ's TLS is better than almost any other top news website
+on the internet. *[Editor's note: an earlier version of this article
+incorrectly stated that TMZ redirected HTTP to HTTPS. This is incorrect.]*
 
 We should all be appalled, and the news sites embarrassed, by this pathetic
 state of TLS deployment for critical news outlets. There is no reason for TLS
