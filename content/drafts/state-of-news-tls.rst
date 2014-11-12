@@ -24,9 +24,12 @@ top ten newspapers, by circulation in the US, did:
 * The Denver Post: **No TLS**
 * Chicago Tribune: **No TLS**
 
-Not so hot. Of the top 10, only one has a functioning TLS deployment, and it
-doesn't require TLS. Almost all of the rest redirect HTTPS back to HTTP, or
-fail with a certificate error (many of them for Akamai).
+Not so hot. Mixed content is when sub-resources, such as JavaScript, are loaded
+over HTTP, even though the main page is loaded with HTTPS, most browsers will
+block this content, effectively breaking a site. Of the top 10, only one has a
+functioning TLS deployment, and it doesn't require TLS. Almost all of the rest
+redirect HTTPS back to HTTP, or fail with a certificate error (many of them for
+Akamai).
 
 Ok, maybe print newspapers aren't the best place to look. So I combed through
 the Alexa Top 150, looking for news websites to see how they did, these are
