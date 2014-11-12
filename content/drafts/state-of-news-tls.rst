@@ -58,12 +58,12 @@ anymore, `TLS has exactly one performance problem: it is not used widely
 enough.`_
 
 If you, the reader, work for one of these websites, please, advocate internally
-for prioritizing the availability of TLS, and redirecting HTTP traffic to
-HTTPS (and deploying `HSTS`_).
+for prioritizing the availability of TLS, redirecting HTTP traffic to
+HTTPS, and deploying `HSTS`_.
 
-Everyone else, please reach out to the news websites you read to ask them for
-TLS, to protect you, the reader's, privacy and the integrity and authenticity
-of your access to these websites.
+Everyone else, please reach out to the news websites you read and ask them for
+TLS, to protect your privacy and the integrity and authenticity of your access
+to these websites.
 
 Surely a fundamental component of a free press, ultimately necessary for a
 functioning democracy, is the ability of the people to access the press
