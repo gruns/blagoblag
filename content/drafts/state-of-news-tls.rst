@@ -9,8 +9,8 @@ from anyone else on the network with respect to which articles I'm reading is
 similarly disturbing.
 
 Given the *obvious* importance of privacy, authentication, and integrity for
-critical news, I wanted to see how the top news papers did, in terms of
-offering, and hopefully even requiring TLS, for their websites. Here's how the
+critical news, I wanted to see how the top newspapers did, in terms of
+offering, and hopefully even requiring, TLS for their websites. Here's how the
 top ten newspapers, by circulation in the US, did:
 
 * The Wall Street Journal: **No TLS**
