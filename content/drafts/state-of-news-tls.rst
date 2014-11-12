@@ -56,7 +56,7 @@ for prioritizing the availability of TLS, and redirecting HTTP traffic to
 HTTPS (and deploying `HSTS`_).
 
 Everyone else, please reach out to the news websites you read to ask them for
-TLS, to predict you, the reader's, privacy and the integrity and authenticity
+TLS, to protect you, the reader's, privacy and the integrity and authenticity
 of your access to these websites.
 
 Surely a fundamental component of a free press, ultimately necessary for a
