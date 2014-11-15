@@ -67,3 +67,12 @@ Computer Programs)*
     facts.
 
 *Daniel Patrick Moynihan*
+
+------
+
+    לא עליך כל המלאכה לגמור, ולא אתה בן חורין ליבטל
+
+    It is not incumbent on you to complete the task, but neither are you free
+    to desist from it.
+
+*Tarfon (Pirkei Avot)*
