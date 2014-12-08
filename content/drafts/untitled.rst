@@ -70,11 +70,11 @@ unto itself.
 
 Today we face a similar issue, but instead of impacting the ultimate outcome of
 our judicial process, it occurs at the front of our process, in the way
-officers interact with citizens and suspects.
+officers interact with citizens and suspects. [Conclusion goes here]
 
-.. [#]: https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution#Text
-.. [#]: https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution#Text
-.. [#]: http://www.imdb.com/character/ch0007464/quotes
-.. [#]: https://en.wikipedia.org/wiki/Sol_Wachtler#Career
-.. [#]: https://en.wikipedia.org/wiki/Shooting_of_Michael_Brown#Grand_jury_hearing
-.. [#]: http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/model_rules_of_professional_conduct_preamble_scope.html
+.. [#] https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution#Text
+.. [#] https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution#Text
+.. [#] http://www.imdb.com/character/ch0007464/quotes
+.. [#] https://en.wikipedia.org/wiki/Sol_Wachtler#Career
+.. [#] https://en.wikipedia.org/wiki/Shooting_of_Michael_Brown#Grand_jury_hearing
+.. [#] http://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/model_rules_of_professional_conduct_preamble_scope.html
