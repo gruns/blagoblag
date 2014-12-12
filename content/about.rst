@@ -11,6 +11,7 @@ Hi, you've reached my website. I'm Alex Gaynor. Here's some facts about me:
   Python Software Foundation.
 * I live in San Francisco, but I'm originally from Chicago.
 * I like delis and bagels.
+* I have not received a National Security Letter.
 
 
 My PGP key fingerprint is::
