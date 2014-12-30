@@ -2,7 +2,7 @@ The State of the News and TLS: Part II
 ======================================
 
 About six weeks ago I blogged about the `state of the news and TLS`_. Spoiler
-alert, it wasn't great. Happilly, there's been some good news on this front.
+alert, it wasn't great. Happily, there's been some good news on this front.
 
 First, the New York Times wrote `a piece calling for more news websites to
 expose their content over TLS`_. While the Times' is not yet available over
@@ -28,7 +28,7 @@ Given these pieces of news, let's see how major newspapers are doing:
 * Chicago Tribune: **No TLS**
 
 Net change over last month? The Chicago Sun-Time's actually *regressed*. Last
-month they a working deployment, now it's a certificate error.
+month they had a working deployment, now it's a certificate error.
 
 Let's see how other major news sites are doing:
 
