@@ -68,7 +68,7 @@ sites on HTTPS. If you are a news site who would like to offer HTTPS, but is
 unable to because of your advertisers: **talk about it**. You are a newspaper,
 and this is a story in the public interest.
 
-In the meantime, I'm hopeful that the proposed changes will help swing the
+In the meantime, I'm hopeful that Chrome's proposed changes will help swing the
 pendulum towards incentivizing TLS.
 
 
