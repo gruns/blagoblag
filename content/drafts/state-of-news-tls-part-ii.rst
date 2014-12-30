@@ -27,7 +27,7 @@ Given these pieces of news, let's see how major newspapers are doing:
 * The Denver Post: **No TLS**
 * Chicago Tribune: **No TLS**
 
-Net change over last month? The Chicago Sun-Time's actually *regressed*. Last
+Net change over last month? The Chicago Sun-Times actually *regressed*. Last
 month they had a working deployment, now it's a certificate error.
 
 Let's see how other major news sites are doing:
