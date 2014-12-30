@@ -58,9 +58,9 @@ and even have an HTTP server running, but all they do is redirect to HTTP on
 port 80. This is unfortunate. However, it makes clear that the issue is not
 obtaining certificates or anything like that.
 
-What I have heard identified as a major issue many many times, is advertising
-providers either not offering TLS, or having reduced inventory with HTTPS. This
-incentivizes websites to redirect over to HTTP.
+What I have heard identified as a major issue many many times is advertising
+providers either not offering TLS or having reduced inventory with HTTPS. This
+incentivizes websites to redirect over to HTTP, lest they lose revenue.
 
 I'm not unsympathetic to the difficulties this can cause for a news website
 interested in TLS. However, I don't think it excuses the silence from these
