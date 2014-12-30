@@ -9,7 +9,7 @@ expose their content over TLS`_. While the Times' is not yet available over
 TLS, based on this post I'm hopeful it will happen in 2015.
 
 The second major piece of news was the Chrome Security Team's `announcement of
-their plans` to move towards a negative security-indicator for plain-HTTP
+their plans`_ to move towards a negative security-indicator for plain-HTTP
 websites. Better informing users as to what the security implications are when
 websites don't respect user's privacy and readership will hopefully be a major
 step forward in pushing website operators to offer and require TLS.
