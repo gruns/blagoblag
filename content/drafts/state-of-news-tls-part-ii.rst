@@ -72,5 +72,6 @@ In the meantime, I'm hopeful that the proposed changes will help swing the
 pendulum towards incentivizing TLS.
 
 
+.. _`state of the news and TLS`: https://alexgaynor.net/2014/nov/12/state-of-news-tls/
 .. _`a piece calling for more news websites to expose their content over TLS`: http://open.blogs.nytimes.com/2014/11/13/embracing-https/
 .. _`announcement of their plans`: http://www.chromium.org/Home/chromium-security/marking-http-as-non-secure
