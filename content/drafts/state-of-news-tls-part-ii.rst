@@ -54,7 +54,7 @@ Team, on a technical level, it's been a crummy month for TLS.
 There are two things I'd like to draw attention to:
 
 First, many of these websites *technically* have TLS, they listen on port 443,
-and even have an HTTP server running. But all they do is redirect to HTTP on
+and even have an HTTP server running, but all they do is redirect to HTTP on
 port 80. This is unfortunate. However, it makes clear that the issue is not
 obtaining certificates or anything like that.
 
