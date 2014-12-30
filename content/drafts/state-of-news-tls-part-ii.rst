@@ -5,7 +5,7 @@ About six weeks ago I blogged about the `state of the news and TLS`_. Spoiler
 alert, it wasn't great. Happily, there's been some good news on this front.
 
 First, the New York Times wrote `a piece calling for more news websites to
-expose their content over TLS`_. While the Times' is not yet available over
+expose their content over TLS`_. While the Times is not yet available over
 TLS, based on this post I'm hopeful it will happen in 2015.
 
 The second major piece of news was the Chrome Security Team's `announcement of
