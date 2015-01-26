@@ -136,4 +136,4 @@ security, and making sure they have that information before the bad guys do.
 .. _`Django project`: https://djangoproject.com
 .. _`PostgreSQL project's`: http://www.postgresql.org/
 .. _`our documentation`: https://docs.djangoproject.com/en/dev/internals/security/#who-receives-advance-notification
-.. _`these instructions`: http://people.redhat.com/kseifrie/CVE-OpenSource-Request-HOWTO.html
+.. _`these instructions`: https://github.com/RedHatProductSecurity/CVE-HOWTO
