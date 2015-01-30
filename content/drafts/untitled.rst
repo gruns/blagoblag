@@ -15,10 +15,10 @@ the VA's staff, with the `United States Digital Service`_, with members of the
 
 I joined because nowhere else is there as much of an opportunity to translate
 the work I do into a positive impact on people's lifes, and at no other time
-has government been more receptive to contributions from folks like me. I
-joined because I was asked to serve my country, and the best reason I could
-come up with not to was, "it seems really hard", and `that wasn't going to
-fly`_.
+in history has government been more receptive to contributions from folks like
+me. I joined because I was asked to serve my country, and the best reason I
+could come up with not to was, "it seems really hard", and `that wasn't going
+to fly`_.
 
 The work *will* be hard, the challenges great, and the obstacles many. But
 that is nothing more than evidence that we need to start immediately; without
