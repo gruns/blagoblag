@@ -76,3 +76,10 @@ Computer Programs)*
     to desist from it.
 
 *Tarfon (Pirkei Avot)*
+
+------
+
+    Never doubt that a small group of thoughtful committed citizens can change
+    the world; indeed, it is the only thing that ever has.
+
+*Margaret Mead*
