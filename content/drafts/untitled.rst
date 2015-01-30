@@ -4,14 +4,14 @@ Untitled
 Today is the 18th day since I became a founding member of the new `Digital
 Service`_ team at the United States Department of Veterans Affairs. We're a
 group of developers, designers, and other folks who are passionate about using
-our technology skills to make a difference. We work closely with the rest of
-the VA's staff, with the `United States Digital Service`_, with members of the
-`Presidential Innovation Fellowship`_, and with `18F`_.
+our technology skills to make a difference.
 
 Our goal is to dramatically improve the ability of the VA to use technology to
 execute on its mission of serving veterans. More broadly, my hope is that our
 work will demonstrate that *all* of government is capable of delivering
-fantastic user-centric sites and services.
+fantastic user-centric sites and services. We work closely with the rest of
+the VA's staff, with the `United States Digital Service`_, with members of the
+`Presidential Innovation Fellowship`_, and with `18F`_.
 
 I joined because nowhere else is there as much of an opportunity to translate
 the work I do into a positive impact on people's lifes, and at no other time
