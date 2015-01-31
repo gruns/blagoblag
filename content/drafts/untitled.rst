@@ -14,7 +14,7 @@ the VA's staff, with the `United States Digital Service`_, with members of the
 `Presidential Innovation Fellowship`_, and with `18F`_.
 
 I joined because nowhere else is there as much of an opportunity to translate
-the work I do into a positive impact on people's lifes, and at no other time
+the work I do into a positive impact on people's lives, and at no other time
 in history has government been more receptive to contributions from folks like
 me. I joined because I was asked to serve my country, and the best reason I
 could come up with not to was, "it seems really hard", and `that wasn't going
