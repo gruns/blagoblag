@@ -24,10 +24,10 @@ The Federal Government has seen many challenges leveraging technology, none
 higher profile than `healthcare.gov`_. However, from that project's failures
 and `subsequent rebirth`_ came an awareness by the government of the ability
 of technologists with expertise in shipping to make a big difference. The VA,
-and the Federal Government in general, needs developers with expertise in
-operating production systems, we need designers with expertise in designing
-for the customers needs above all else, we need project managers with
-expertise in prioritizing conceptual integrity above checkboxes.
+and the Federal Government in general, needs developers who know how to
+develop and operate production systems, it needs designers who know how to
+design for the for the customers needs above all else, it needs project
+managers who know how to prioritize conceptual integrity above checkboxes.
 
 The work *will* be hard, the challenges great, and the obstacles many. But
 that is nothing more than evidence that we need to start immediately; without
