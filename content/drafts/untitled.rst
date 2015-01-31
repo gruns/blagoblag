@@ -20,7 +20,7 @@ me. I joined because I was asked to serve my country, and the best reason I
 could come up with not to was, "it seems really hard", and `that wasn't going
 to fly`_.
 
-The Federal Government has had many challenges leveraging technology, none
+The Federal Government has seen many challenges leveraging technology, none
 higher profile than `healthcare.gov`_. However, from that project's failures
 and `subsequent rebirth`_ came an increased awareness of the ability of
 technologists with expertise to make a big difference. The VA, and the Federal
