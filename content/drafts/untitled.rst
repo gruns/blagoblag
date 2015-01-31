@@ -1,7 +1,7 @@
 Untitled
 ========
 
-18 days ago I became a founding member of the new `Digital Service`_ team at the
+19 days ago I became a founding member of the new `Digital Service`_ team at the
 United States Department of Veterans Affairs. We're a group of developers,
 designers, and other folks who are passionate about using our technology skills
 to make a difference.
