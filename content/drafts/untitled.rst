@@ -1,10 +1,10 @@
 Untitled
 ========
 
-Today is the 18th day since I became a founding member of the new `Digital
-Service`_ team at the United States Department of Veterans Affairs. We're a
-group of developers, designers, and other folks who are passionate about using
-our technology skills to make a difference.
+18 days ago I became a founding member of the new `Digital Service`_ team at the
+United States Department of Veterans Affairs. We're a group of developers,
+designers, and other folks who are passionate about using our technology skills
+to make a difference.
 
 Our goal is to dramatically improve the ability of the VA to use technology to
 execute on its mission of serving veterans. More broadly, my hope is that our
