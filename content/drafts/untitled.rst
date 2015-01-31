@@ -20,6 +20,15 @@ me. I joined because I was asked to serve my country, and the best reason I
 could come up with not to was, "it seems really hard", and `that wasn't going
 to fly`_.
 
+The Federal Government has had many challenges leveraging technology, none
+higher profile than `healthcare.gov`_. However, from that project's failures
+and `subsequent rebirth`_ came an increased awareness of the ability of
+technologists with expertise to make a big difference. The VA, and the Federal
+Government in general, needs developers with expertise in operating production
+systems, we need designers with expertise in designing for the customers needs
+above all else, we need project managers with expertise in prioritizing
+conceptual integrity above checkboxes.
+
 The work *will* be hard, the challenges great, and the obstacles many. But
 that is nothing more than evidence that we need to start immediately; without
 immediate attention these problems will only grow larger.
@@ -47,6 +56,8 @@ us.
 .. _`Presidential Innovation Fellowship`: http://www.whitehouse.gov/innovationfellows
 .. _`18F`: https://18f.gsa.gov/
 .. _`that wasn't going to fly`: https://www.youtube.com/watch?v=_O0WB5H0Yu0#t=32m48s
+.. _`healthcare.gov`: https://www.healthcare.gov/
+.. _`subsequent rebirth`: http://content.time.com/time/magazine/article/0,9171,2166770-7,00.html
 .. _`President Lincoln's words`: https://en.wikisource.org/wiki/Abraham_Lincoln%27s_Second_Inaugural_Address
 .. _`Digital Service at the VA is hiring`: https://screendoor.dobt.co/usds-evaluation/become-a-founding-member-of-the-va-digital-service-a8bb9157-7412-4726-9123-11b84fd2c2da
 .. _`USDS is hiring`: http://www.whitehouse.gov/digital/united-states-digital-service/apply
