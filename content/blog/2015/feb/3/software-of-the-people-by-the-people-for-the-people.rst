@@ -43,8 +43,8 @@ the work of enabling the government to use technology to best serve the
 American people cannot be met with merely our tacit support, they must be met
 with our committment to contribute, to carry out the work ourselves, to stand
 up and say, "You want to dig a ditch? I've got a shovel." The `Digital Service
-at the VA is hiring`_, `USDS is hiring`_, `18F is hiring`_. I hope you'll join
-us.
+at the VA is hiring`_ [#]_, `USDS is hiring`_, `18F is hiring`_. I hope you'll
+join us.
 
     Never doubt that a small group of thoughtful committed citizens can change
     the world; indeed, it is the only thing that ever has.
@@ -62,3 +62,5 @@ us.
 .. _`Digital Service at the VA is hiring`: https://screendoor.dobt.co/usds-evaluation/become-a-founding-member-of-the-va-digital-service-a8bb9157-7412-4726-9123-11b84fd2c2da
 .. _`USDS is hiring`: http://www.whitehouse.gov/digital/united-states-digital-service/apply
 .. _`18F is hiring`: https://18f.gsa.gov/2015/01/21/join-us/
+
+.. [#] The VA has a monthly hiring cycle, so we only accept new resumes for part of the month. Check back in a week or two!
