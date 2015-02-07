@@ -1,5 +1,8 @@
 import datetime
+import logging
 import os
+
+from docutils.core import publish_parts
 
 from liquidluck.options import settings, g
 from liquidluck.readers.base import Post
@@ -40,6 +43,30 @@ class DateFromPathPost(Post):
 
 class DateFromPathRestructuredTextReader(RestructuredTextReader):
     post_class = DateFromPathPost
+
+    # The contents of this method are copied from the parent class, and
+    # modified to add "footnote_references" to extra_settings.
+    def render(self):
+        f = open(self.filepath)
+        logging.debug('read ' + self.relative_filepath)
+
+        content = f.read()
+        f.close()
+
+        extra_setting = {
+            'initial_header_level': '2',
+            'footnote_references': 'superscript',
+        }
+        parts = publish_parts(
+            content, writer_name='html',
+            settings_overrides=extra_setting,
+        )
+        title = parts['title']
+        body = parts['body']
+        meta = parts['docinfo']
+
+        meta = self._parse_meta(meta)
+        return self.post_class(self.filepath, body, title=title, meta=meta)
 
 
 def get_post_destination(post, slug_format):
