@@ -41,7 +41,7 @@ The challenge of fully living up to `President Lincoln's words`_, "to care for
 him who shall have borne the battle, and for his widow, and his orphan" and
 the work of enabling the government to use technology to best serve the
 American people cannot be met with merely our tacit support, they must be met
-with our committment to contribute, to carry out the work ourselves, to stand
+with our commitment to contribute, to carry out the work ourselves, to stand
 up and say, "You want to dig a ditch? I've got a shovel." The `Digital Service
 at the VA is hiring`_ [#]_, `USDS is hiring`_, `18F is hiring`_. I hope you'll
 join us.
