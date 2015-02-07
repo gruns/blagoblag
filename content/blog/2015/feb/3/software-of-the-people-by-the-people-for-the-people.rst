@@ -55,7 +55,7 @@ join us.
 .. _`United States Digital Service`: http://www.whitehouse.gov/digital/united-states-digital-service
 .. _`Presidential Innovation Fellowship`: http://www.whitehouse.gov/innovationfellows
 .. _`18F`: https://18f.gsa.gov/
-.. _`that wasn't going to fly`: https://www.youtube.com/watch?v=_O0WB5H0Yu0#t=32m48s
+.. _`that wasn't going to fly`: http://westwing.wikia.com/wiki/Two_Cathedrals#Quotes
 .. _`healthcare.gov`: https://www.healthcare.gov/
 .. _`subsequent rebirth`: http://content.time.com/time/magazine/article/0,9171,2166770-7,00.html
 .. _`President Lincoln's words`: https://en.wikisource.org/wiki/Abraham_Lincoln%27s_Second_Inaugural_Address
