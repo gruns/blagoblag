@@ -1,5 +1,5 @@
-The Math is Real
-================
+Math is Real
+============
 
 Right now there's a fierce debate going on. On one side we have technology
 companies and privacy advocates pushing for increased encryption, including
