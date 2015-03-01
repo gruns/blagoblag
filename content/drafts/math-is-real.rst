@@ -4,8 +4,8 @@ Math is Real
 Right now there's a fierce debate going on. On one side we have technology
 companies and privacy advocates pushing for increased encryption, including
 "end-to-end" encryption. On the other we have the Federal government,
-insisting that companies should introduce backdoors so that law enforcement
-can decrypt people's communications.
+insisting that companies should introduce backdoors into their products so
+that law enforcement can decrypt people's communications.
 
 This is a really stupid debate.
 
