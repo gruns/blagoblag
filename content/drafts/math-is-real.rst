@@ -26,6 +26,10 @@ The assertion that we need companies like Facebook, Yahoo, and Google to
 introduce backdoors into their encryption systems so we can stop terrorists is
 fundamentally founded on the idea that terrorists are going to just use
 commercial-off-the-shelf systems with known backdoors, when it is possible
-(and not difficult) to build a secure system. This is naive or disingenuous.
-What they do achieve is trample on the privacy of people who are not
-incentivized to seek out other systems.
+(and not difficult) to build a secure system (to say nothing of open source
+ones which already exist). This is either naive or disingenuous. What they do
+achieve is trample on the privacy of people who are not incentivized to seek
+out other systems (or to deal with the `incredibly complexity of tools like
+GPG`_).
+
+.. _`incredibly complexity of tools like GPG`: http://www.thoughtcrime.org/blog/gpg-and-me/
