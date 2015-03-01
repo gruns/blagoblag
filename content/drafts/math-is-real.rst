@@ -19,7 +19,7 @@ companies to introduce them into specific products.
 
 But the fact of the matter is **math is real**. It is **possible** to build
 systems which are secure, and people will. And attempting to criminalize the
-*existance* of secure systems is somewhere between pointless whack-a-mole and
+*existence* of secure systems is somewhere between pointless whack-a-mole and
 self-destructive (without even beginning to touch on whether or not it's legal).
 
 The assertion that we need companies like Facebook, Yahoo, and Google to
