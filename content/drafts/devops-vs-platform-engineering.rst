@@ -25,7 +25,7 @@ deployment", but they were a platform.
 -------
 
 When I originally read the `"The Twelve-Factor App"`_, my thought was "Hmm,
-these are some pretty good ideas about how to build a website". I re-read it a
+these are some pretty ok ideas about how to build a website". I re-read it a
 few months ago, and this time something clicked.
 
 Twelve factor isn't a set of ideas about how to build web apps. It's a
