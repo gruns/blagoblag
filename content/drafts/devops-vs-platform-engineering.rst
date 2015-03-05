@@ -46,7 +46,7 @@ or Google.
 
 -------
 
-This brings us back to DevOps? How does DevOps compare to a platform? DevOps
+This brings us back to DevOps. How does DevOps compare to a platform? DevOps
 is all about ad-hoc. And the way I know this is that no two organizations on
 the planet use the same Chef cookbook for deploying a Django application. Your
 deployment is encoded in software, and that's good, but it's ad hoc and varies
