@@ -20,7 +20,8 @@ clear that you're right.
 When Heroku launched, something interesting happened: they gave people a
 Platform as a Service before most people had a platform. That's not what they
 said they were selling of course, they said they were selling "easier Rails
-deployment", but they were a platform.
+deployment", but they were a platform. Which is pretty unusual, most of us used
+a database or a load balancer before using their as-a-service variants.
 
 -------
 
