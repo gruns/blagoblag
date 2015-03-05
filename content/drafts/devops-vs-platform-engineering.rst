@@ -60,15 +60,15 @@ hate each other.
 A platform is about having a strict contract, an API if you will, which it
 offers to applications, and which they then consume.
 
-This model scales far better.
+This model scales far better, because a platform means that deploying a new
+application does not require any new coordination between teams or
+responsibilities. It also means a clear division of responsibilities: the
+people who maintain the platform care about system load, availability, and
+resilliency. The people deploying something on top of it worry about bugs in
+their application or the performance of their application.
 
-I think the *central element* of a platform is a scheduler. This lets you
-address a group of computers instead of individual ones. Now you can express
-actions like "run this container", where "this container" is something that
-participates in the API of the platform. Now we can express "deploy a web
-application" in terms of "schedule this container to run, if it ever stops
-reschedule it, and expose these containers' locations to a reverse proxy".
+Giving each side clear responsibilities makes applications easier to write,
+and easier to deploy.
 
-A platform means APIs we can build on.
 
 .. _`"The Twelve-Factor App"`: http://12factor.net/
