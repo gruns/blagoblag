@@ -55,7 +55,7 @@ the planet use the same Chef cookbook for deploying a Django application. Your
 deployment is encoded in software, and that's good, but it's ad hoc and varies
 from project to project. You can't write the "web app" side, without knowing
 what the "Chef" side is as well. Chef does not provide a consistent contract to
-the application, what it provides is defined by the cookbook of the day -- the
+the application, what it provides is defined by the cookbook of the day — the
 only thing an application could assume is "Linux".
 
 DevOps was progress, now we have the same people writing the web app and the
