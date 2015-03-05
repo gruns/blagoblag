@@ -39,10 +39,10 @@ didn't like environment variables. Now I understand that it means: "The
 platform will make available any configuration values stored with it in the
 application's POSIX environment".
 
-This was a fundamentally different way of looking at it.
-
-The great tragedy of Twelve-Factor is that Heroku is the only organization
-that used it as a basis for building successful a PaaS.
+This was a fundamentally different way of looking at it, and I didn't
+recognize it at first, because almost no one deploying a web application has a
+platform today, unless you use Heroku's or work someplace large like Twitter
+or Google.
 
 -------
 
