@@ -4,7 +4,7 @@ DevOps vs. Platform Engineering
 If I put 10 people in a room and asked them what "DevOps" was all about, I
 think I'd get 17 different answers. As my colleague David Reid says though,
 "DevOps is something you do, not something you are." So what practices are
-assosciated with DevOps?
+associated with DevOps?
 
 * Using software to automate operations tasks
 * Using configuration management tools such as Chef and Puppet
