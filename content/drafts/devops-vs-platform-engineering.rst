@@ -74,7 +74,7 @@ it worry about bugs in their application or the performance of their
 application.
 
 Giving each side clear responsibilities makes applications easier to write,
-and easier to deploy.
+easier to deploy, and easier to maintain.
 
 
 .. _`"The Twelve-Factor App"`: http://12factor.net/
