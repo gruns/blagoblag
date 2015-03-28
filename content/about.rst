@@ -11,7 +11,8 @@ Hi, you've reached my website. I'm Alex Gaynor. Here's some facts about me:
   employer.
 * I write a lot of Python open source code and serve as a director of the
   Python Software Foundation.
-* I live in San Francisco, but I'm originally from Chicago.
+* I live in Washington D.C., but I'm originally from Chicago. I spent about two
+  and a half years living in San Francisco.
 * I like delis and bagels.
 * I have not received a National Security Letter.
 
