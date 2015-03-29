@@ -29,7 +29,7 @@ offering free labor to support them. Red Hat does not continue to support
 Python 2.6 by working with the Python core development team to extend its life
 cycle. This means if something like PyCA Cryptography were to support Python
 2.6, the entire stack would only be supported for Red Hat's customers, other
-individuals who had Python 2.6 would be on an unsupported.
+individuals who had Python 2.6 would be on an unsupported platform.
 
 This assumption of uncompensated labor to support Red Hat's business is
 inequitable. Open Source projects should not feel compelled to support older
