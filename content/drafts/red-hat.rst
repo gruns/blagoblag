@@ -35,4 +35,6 @@ This assumption of uncompensated labor to support Red Hat's business is
 inequitable. Open Source projects should not feel compelled to support older
 versions of software which are only supported commercially. Customers of Red
 Had need to reconsider whether they want to be using a platform that binds
-them to versions of software older than what they actually want to use.
+them to versions of software older than what they actually want to use. And
+Red Hat itself needs to consider ways it can continue to offer its support
+services, without them becoming burdensome to the open source community.
