@@ -33,8 +33,10 @@ individuals who had Python 2.6 would be on an unsupported.
 
 This assumption of uncompensated labor to support Red Hat's business is
 inequitable. Open Source projects should not feel compelled to support older
-versions of software which are only supported commercially. Customers of Red
-Had need to reconsider whether they want to be using a platform that binds
-them to versions of software older than what they actually want to use. And
-Red Hat itself needs to consider ways it can continue to offer its support
-services, without them becoming burdensome to the open source community.
+versions of software which are only supported commercially. Red Hat itself
+needs to consider ways it can continue to offer its support services, without
+them becoming burdensome to the open source community. Lastly, if you're a Red
+Hat customer who wishes they could use newer versions of software, consider
+either compiling it yourself, complaining to whoever procured RHEL for you, or
+complaining to Red Hat itself, but please don't demand support from overly
+overburdened volunteers.
