@@ -10,9 +10,9 @@ RHEL 5, which they will continue to support until at least 2020, offers Python
 2.6. Upstream (the Python core developers) have ceased providing *any* support
 for Python 2.6 as of October, 2013.
 
-Many Python projects (such as Django and PyCA Cryptography) are therefore
-looking to drop 2.6 support, to lighten their maintaince burden and because
-offering support for an unsupported platform is misleading to users.
+Many Python projects (such as Django, Twisted, and PyCA Cryptography) are
+therefore looking to drop 2.6 support, to lighten their maintaince burden and
+because offering support for an unsupported platform is misleading to users.
 
 This is where we hit an impasse, inevitably users of these projects ask for
 some level of support for a version that supports 2.6, because they are using
