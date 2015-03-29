@@ -35,8 +35,8 @@ This assumption of uncompensated labor to support Red Hat's business is
 inequitable. Open Source projects should not feel compelled to support older
 versions of software which are only supported commercially. Red Hat itself
 needs to consider ways it can continue to offer its support services, without
-them becoming burdensome to the open source community. Lastly, if you're a Red
-Hat customer who wishes they could use newer versions of software, consider
-either compiling it yourself, complaining to whoever procured RHEL for you, or
-complaining to Red Hat itself, but please don't demand support from already
+them becoming burdensome to the open source community. Lastly, Red Hat
+customers who wish they could use newer versions of software, should consider
+either compiling it themselves, complaining to whoever procured RHEL for them,
+or complaining to Red Hat itself, but please don't demand support from already
 overburdened volunteers.
