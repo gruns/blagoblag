@@ -14,7 +14,7 @@ Many Python projects (such as Django, Twisted, and PyCA Cryptography) are
 therefore looking to drop 2.6 support, to lighten their maintaince burden and
 because offering support for an unsupported platform is misleading to users.
 
-This is where we hit an impasse, inevitably users of these projects ask for
+This is where we hit an impasse; inevitably users of these projects ask for
 some level of support for a version of the library that supports 2.6, because
 they are using RHEL which has them pinned on Python 2.6. Red Hat supports their
 Python, but not the Python libraries they use.
