@@ -15,9 +15,9 @@ therefore looking to drop 2.6 support, to lighten their maintaince burden and
 because offering support for an unsupported platform is misleading to users.
 
 This is where we hit an impasse, inevitably users of these projects ask for
-some level of support for a version that supports 2.6, because they are using
-Red Hat which has them pinned on Python 2.6. Red Hat supports their Python,
-but not the Python libraries they use.
+some level of support for a version of the library that supports 2.6, because
+they are using RHEL which has them pinned on Python 2.6. Red Hat supports their
+Python, but not the Python libraries they use.
 
 While Python is a nice language, without the libraries of PyPI it is useless:
 no scientific computing, no machine learning, no websites, no access to your
