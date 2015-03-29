@@ -1,5 +1,5 @@
-Red Hat
-=======
+Red Hat and the Open Source Community
+=====================================
 
 Red Hat has a pretty interesting business model, which is offering support for
 software that is a decade old, and which its maintainers want nothing to do
