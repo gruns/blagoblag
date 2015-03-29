@@ -1,0 +1,38 @@
+Red Hat
+=======
+
+Red Hat has a pretty interesting business model, which is offering support for
+software that is a decade old, and which its maintainers want nothing to do
+with. This post isn't about whether maintaing old software is a good or a bad
+idea. It's about the effect it has on the community.
+
+RHEL 5, which they will continue to support until at least 2020, offers Python
+2.6. Upstream (the Python core developers) have ceased providing *any* support
+for Python 2.6 as of October, 2013.
+
+Many Python projects (such as Django and PyCA Cryptography) are therefore
+looking to drop 2.6 support, to lighten their maintaince burden and because
+offering support for an unsupported platform is misleading to users.
+
+This is where we hit an impasse, inevitably users of these projects ask for
+some level of support for a version that supports 2.6, because they are using
+Red Hat which has them pinned on Python 2.6. Red Hat supports their Python,
+but not the Python libraries they use.
+
+While Python is a nice language, without the libraries of PyPI it is useless:
+no scientific computing, no machine learning, no websites, no access to your
+production database, no AWS bindings, no timezone database, no SSH automation,
+the list goes on.
+
+Red Hat's business model fundamentally relies on the open source community
+offering free labor to support them. Red Hat does not continue to support
+Python 2.6 by working with the Python core development team to extend its life
+cycle. This means if something like PyCA Cryptography were to support Python
+2.6, the entire stack would only be supported for Red Hat's customers, other
+individuals who had Python 2.6 would be on an unsupported.
+
+This assumption of uncompensated labor to support Red Hat's business is
+inequitable. Open Source projects should not feel compelled to support older
+versions of software which are only supported commercially. Customers of Red
+Had need to reconsider whether they want to be using a platform that binds
+them to versions of software older than what they actually want to use.
