@@ -8,7 +8,7 @@ idea. It's about the effect it has on the community.
 
 The Python core developers have ceased providing *any* support for Python 2.6
 as of October 2013, but Red Hat will continue to support it in RHEL 5, until
-2020. _[#]
+2020. [#]_
 
 Many Python projects (such as Django, Twisted, and PyCA Cryptography) are
 therefore looking to drop 2.6 support, to lighten their maintenance burden and
@@ -41,8 +41,8 @@ either compiling it themselves, complaining to whoever procured RHEL for them,
 or complaining to Red Hat itself, but please don't demand support from already
 overburdened volunteers.
 
-.. _[#]: Technically, RHEL 5 actually comes with Python 2.4, which was last
-         updated in 2008. However, Python 2.6 can be installed via EPEL, which
-         isn't officially supported by Red Hat, but is usually maintained by
-         Fedora developers who work for Red Hat. RHEL 6 officially supports
-         Python 2.6, and Python 2.7 can be obtained via EPEL for it.
+.. [#]: Technically, RHEL 5 actually comes with Python 2.4, which was last
+        updated in 2008. However, Python 2.6 can be installed via EPEL, which
+        isn't officially supported by Red Hat, but is usually maintained by
+        Fedora developers who work for Red Hat. RHEL 6 officially supports
+        Python 2.6, and Python 2.7 can be obtained via EPEL for it.
