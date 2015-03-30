@@ -6,9 +6,8 @@ software that is a decade old, and which its maintainers want nothing to do
 with. This post isn't about whether maintaining old software is a good or a bad
 idea. It's about the effect it has on the community.
 
-RHEL 5, which they will continue to support until at least 2020, offers Python
-2.6. Upstream, the Python core developers, have ceased providing *any* support
-for Python 2.6 as of October, 2013.
+The Python core developers have ceased providing *any* support for Python 2.6 as
+of October 2013, but Red Hat will continue to support it in RHEL 5, until 2020.
 
 Many Python projects (such as Django, Twisted, and PyCA Cryptography) are
 therefore looking to drop 2.6 support, to lighten their maintenance burden and
