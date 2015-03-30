@@ -7,7 +7,7 @@ with. This post isn't about whether maintaining old software is a good or a bad
 idea. It's about the effect it has on the community.
 
 RHEL 5, which they will continue to support until at least 2020, offers Python
-2.6. Upstream (the Python core developers) have ceased providing *any* support
+2.6. Upstream, the Python core developers, have ceased providing *any* support
 for Python 2.6 as of October, 2013.
 
 Many Python projects (such as Django, Twisted, and PyCA Cryptography) are
