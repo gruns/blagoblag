@@ -1,2 +1,2 @@
-Twisted==15.0.0
+Twisted==15.1.0
 liquidluck
