@@ -12,10 +12,10 @@ contract violations.
 
 This blog post is going to walk you through getting started with `afl`_
 (American Fuzzy Lop), a new, but extremely powerful fuzzer which can be used
-on Python code. afl is very good at finding bugs, because in addition to
-clever techniques for generating random inputs, it also instruments your
-program, and uses coverage data about what paths are being taken to find
-interesting new bugs.
+on Python code. afl is very good at finding bugs. In addition to clever
+techniques for generating random inputs, it also instruments your program, and
+uses coverage data about what paths are being taken to find interesting new
+bugs.
 
 To get started, you'll first need to install afl, if you're on OS X and using
 Homebrew:
