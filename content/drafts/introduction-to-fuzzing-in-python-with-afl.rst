@@ -40,7 +40,9 @@ Now you'll want to write a small script which takes some input from ``sys.stdin`
 
     import afl
 
-    from cryptography.hazmat.primitives.asymmetric.utils import decode_rfc6979_signature
+    from cryptography.hazmat.primitives.asymmetric.utils import (
+        decode_rfc6979_signature
+    )
 
     afl.start()
 
