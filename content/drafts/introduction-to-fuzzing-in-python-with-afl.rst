@@ -4,7 +4,7 @@ Introduction to Fuzzing in Python with AFL
 Fuzzing is a technique in computer testing and security where you generate a
 bunch of random inputs, and see how some program handles it. For example, if
 you had a JPG parser, you might create a bunch of valid images and broken
-images, and make sure it either parsers them or errors out cleanly. In C (and
+images, and make sure it either parses them or errors out cleanly. In C (and
 other memory unsafe languages) fuzzing can often be used to discover
 segfaults, invalid reads, and other potential security issues. Fuzzing can
 also be useful in Python, where it can be used to discover uncaught
