@@ -1,9 +1,9 @@
 Introduction to Fuzzing in Python with AFL
 ==========================================
 
-Fuzzing is a technique in computer testing and security where you generate a
+`Fuzzing`_ is a technique in computer testing and security where you generate a
 bunch of random inputs, and see how some program handles it. For example, if
-you had a JPG parser, you might create a bunch of valid images and broken
+you had a JPEG parser, you might create a bunch of valid images and broken
 images, and make sure it either parses them or errors out cleanly. In C (and
 other memory unsafe languages) fuzzing can often be used to discover
 segfaults, invalid reads, and other potential security issues. Fuzzing can
@@ -77,5 +77,6 @@ find them in ``results-path/crashes/``.
 
 And that's all there is to it! Happy Fuzzing!
 
+.. _`Fuzzing`: https://en.wikipedia.org/wiki/Fuzz_testing
 .. _`afl`: http://lcamtuf.coredump.cx/afl/
 .. _`consult the documentation`: http://lcamtuf.coredump.cx/afl/status_screen.txt
