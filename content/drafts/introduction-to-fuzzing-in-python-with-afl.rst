@@ -60,9 +60,8 @@ is an error.
 
 Next you'll need to create a corpus of "example" inputs. It doesn't have to be
 big, just a few small examples of what a valid input to your function looks
-like (I've used as little as one input, and had success). Once you've got
-them, put them all in a directory, one per file (the files' names don't
-matter).
+like. I've used as little as one input with success. Once you've got them, put
+them all in a directory, one per file (the files' names don't matter).
 
 Now you can invoke afl:
 
