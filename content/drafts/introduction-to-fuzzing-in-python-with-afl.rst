@@ -1,14 +1,14 @@
 Introduction to Fuzzing in Python with AFL
 ==========================================
 
-`Fuzzing`_ is a technique in computer testing and security where you generate a
-bunch of random inputs, and see how some program handles it. For example, if
+`Fuzzing`_ is a technique in computer testing and security where you generate
+a bunch of random inputs, and see how some program handles it. For example, if
 you had a JPEG parser, you might create a bunch of valid images and broken
 images, and make sure it either parses them or errors out cleanly. In C (and
 other memory unsafe languages) fuzzing can often be used to discover
-segfaults, invalid reads, and other potential security issues. Fuzzing can
-also be useful in Python, where it can be used to discover uncaught
-exceptions, and other API contract violations.
+segfaults, invalid reads, and other potential security issues. Fuzzing is also
+useful in Python, where it can discover uncaught exceptions, and other API
+contract violations.
 
 This blog post is going to walk you through getting started with `afl`_
 (American Fuzzy Lop), a new, but extremely powerful fuzzer which can be used
