@@ -17,15 +17,15 @@ techniques for generating random inputs, it also instruments your program, and
 uses coverage data about what paths are being taken to find interesting new
 bugs.
 
-To get started, you'll first need to install afl, if you're on OS X and using
+To get started, you'll first need to install afl. If you're on OS X and using
 Homebrew:
 
 .. code-block:: console
 
     $ brew install afl-fuzz
 
-Next you'll probably want to create a virtualenv, and inside of it you'll want
-to grab a copy of the Python afl tooling and install it into your virtualenv:
+Next you'll probably want to create a virtualenv. Inside of it you'll want to
+grab a copy of the Python afl tooling and install it into the virtualenv:
 
 .. code-block:: console
 
