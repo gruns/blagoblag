@@ -74,6 +74,10 @@ the traces. Some of the display is self-explanatory, for the rest you can
 `consult the documentation`_. When afl discovers crashers, you'll be able to
 find them in ``results-path/crashes/``.
 
+Fuzzing can be very CPU intensive, so doing it on your laptop isn't the most
+efficient way to do it, a large cloud server can be a good choice for serious
+fuzzing.
+
 And that's all there is to it! Happy Fuzzing!
 
 .. _`Fuzzing`: https://en.wikipedia.org/wiki/Fuzz_testing
