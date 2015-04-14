@@ -30,6 +30,7 @@ grab a copy of the Python afl tooling and install it into the virtualenv:
 .. code-block:: console
 
     $ hg clone https://bitbucket.org/jwilk/python-afl
+    $ pip install cython
     $ pip install -e ./python-afl
 
 Now you'll want to write a small script which takes some input from ``sys.stdin``, and tries to parse it (or do whatever your program does):
