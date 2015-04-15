@@ -33,7 +33,8 @@ grab a copy of the Python afl tooling and install it into the virtualenv:
     $ pip install cython
     $ pip install -e ./python-afl
 
-Now you'll want to write a small script which takes some input from ``sys.stdin``, and tries to parse it (or do whatever your program does):
+Now you'll want to write a small script which takes some input from
+``sys.stdin``, and tries to parse it (or do whatever your program does):
 
 .. code-block:: python
 
@@ -57,7 +58,9 @@ put that line after all your imports and setup, before before you do anything
 with ``sys.stdin``. You need to make sure that you catch any exception which
 your code could throw, in ``decode_rfc6979_signature`` the only exception that
 it's documented as raising is ``ValueError``, so anything else that's raised
-is an error.
+is an error. Please note that this will only be effective if your code is
+pure-python, if the majority of your code is a C extension (e.g. ``cPickle``)
+you need to take a slightly different approach, which isn't described here.
 
 Next you'll need to create a corpus of "example" inputs. It doesn't have to be
 big, just a few small examples of what a valid input to your function looks
