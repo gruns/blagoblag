@@ -17,8 +17,8 @@ Rules
 -----
 
 This isn't a channel for 101-work on feminism. We're more than happy to
-provide links to resources, but this channel isn't the right place for an
-extended discussion. If you find yourself on the `Ally Bingo card`_ you've
+provide links to resources, but this channel isn't the right place for
+extended 101-education. If you find yourself on the `Ally Bingo card`_ you've
 gone in the wrong direction.
 
 The channel *will* feature discussions on issues of toxic culture in software,
