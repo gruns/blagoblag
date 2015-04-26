@@ -30,5 +30,8 @@ In general, the `Computer Anonymous`_ rules are a good starting point.
 Thus far, this has been the most difficult issue, so others will remain
 undocumented for now.
 
+If you find yourself running astray of these rules, you'll be asked once to
+stop. If you persist, you'll be kicked.
+
 .. _`Ally Bingo card`: https://twitter.com/concernedfems/status/520023816769388547
 .. _`Computer Anonymous`: http://computeranonymous.org/
