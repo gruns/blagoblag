@@ -13,6 +13,10 @@ or otherwise makes you uncomfortable, please message me (``Alex_Gaynor``). If
 you're not comfortable messaging me, please message someone else (TODO: make a
 list of other folks), they'll whack me over the head.
 
+If you have any feedback on these rules, please bring it up in
+``##alex_gaynor``, note however, that I might ask you to move the discussion
+to private message if I think it's likely to be disruptive.
+
 Rules
 -----
 
