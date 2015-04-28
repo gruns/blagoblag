@@ -29,7 +29,7 @@ The channel *will* feature discussions on issues of toxic culture in software,
 and how to improve things. Do not confuse this with an opportunity to defend
 the status quo.
 
-Sexism, racism, homophobia, or other forms of discrimanatory language are not
+Sexism, racism, homophobia, or other forms of discriminatory language are not
 tolerated.
 
 In general, the `Computer Anonymous`_ rules are a good starting point.
