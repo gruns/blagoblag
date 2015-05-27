@@ -107,16 +107,22 @@ Any maintenance task you perform should be encoded in software.
 Actually *practice* your automation. Delete and replace servers all the time,
 this is the only way to make it easy and safe.
 
-Practical load testing can be extremely difficult. Leverage "dark reads" to
-practically measure the capacity of your site. Dark reads are where you have
-visitors to your site make requests to an endpoint in the background (e.g.
-with an AJAX request), but don't actually do anything with the responses. This
-lets you measure the performance of a new feature based on more realistic load
+Dark reads can be a powerful technique for testing and load testing new
+features or infrastructure. Dark reads are where you have visitors to your
+site make requests to an endpoint in the background (e.g. with an AJAX
+request), but don't actually do anything with the responses. This lets you
+measure the performance of a new feature based on more realistic load
 patterns.
 
 In a similar vein, rather than meticulous branch maintenance and testing
 environments, use feature flags to deploy new changes instantly, but only make
 them available to certain subsets of users.
+
+Dark reads and feature flags work particularly nicely together. Deploy dark
+reads for a new feature behind a flag, gradually increase the amount of
+traffic that goes through that path, watching your metrics and optimizing as
+necessary. When you're confident that it will all work, move from dark reads
+to actually launching the feature.
 
 Your team
 ---------
