@@ -88,7 +88,7 @@ them. Analytics workloads tend to "look" different from regular transactional
 queries, and mixing them on a single server can degrade performance due to
 excessive trashing of caches.
 
-Don't rely on database migrations being fast, your application code should be
+Don't rely on database migrations being fast. Your application code should be
 able to handle the database in the "pre-migration", "post-migration", and
 "during-migration" states. For example, to add a new column you'd have the
 following steps:
