@@ -110,7 +110,7 @@ with an AJAX request), but don't actually do anything with the responses. This
 lets you measure the performance of a new feature based on more realistic load
 patterns.
 
-In a similar vein, rather than meticulous branch maintaince and testing
+In a similar vein, rather than meticulous branch maintenance and testing
 environments, use feature flags to deploy new changes instantly, but only make
 them available to certain subsets of users.
 
