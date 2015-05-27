@@ -10,7 +10,7 @@ solved problems.
 
 All of these assume you have monitoring to track your availability, and
 metrics to track various aspects of your site's performance. You want to be
-looking at 98th percentile numbers, not 50th percentile. A 50th percentile
+looking at 99th percentile numbers, not 50th percentile. A 50th percentile
 page load time means **half** of your users are experiencing something slower,
 so this can be very misleading.
 
@@ -28,7 +28,9 @@ Assets should all have unique names for content. That means when you change
 the contents of a Javascript file your asset pipeline should give the final
 file your webservers serve a unique name. This lets you set HTTP caching
 headers for the far future, which lets web browsers actually cache the data on
-users' computers, saving you entire HTTP requests.
+users' computers, saving you entire HTTP requests. A simple trick to get a
+unique name is to make the filename that your asset pipeline emits simply be
+the ``sha256`` of the file's contents.
 
 Sessions
 --------
