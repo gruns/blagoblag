@@ -38,7 +38,9 @@ Sessions
 If you can get away with it, storing your session as a signed (and optionally
 encrypted) cookie is great, this saves you from needing to do any database
 lookups on your server. You should be using TLS for all connections, and
-setting the secure flag on the cookie.
+setting the secure flag on the cookie. And for the love of god, do not
+implement the crypto signing/encrypting/verifying/decrypting bits yourself.
+Use an `existing library`_.
 
 If signed cookies are insufficient for some reason (e.g. large payload size),
 your best bet is to use a simple K/V store. For most applications, best-effort
@@ -122,3 +124,5 @@ Your team
 It's quite likely that scaling up your team will be the hardest thing you do.
 Use tests, documentation, linters, and code review as tools for ensuring the
 quality of your code and sharing knowledge amongst team members.
+
+.. _`existing library`: https://pythonhosted.org/itsdangerous/
