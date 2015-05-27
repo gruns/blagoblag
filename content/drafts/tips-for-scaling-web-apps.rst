@@ -46,12 +46,10 @@ great.
 Load balancing
 --------------
 
-Your web nodes should be stateless.
-
-Put your web nodes behind a load balancer from the beginning, and practice
-(read: develop automation for) adding and removing nodes. It should be
-completely trivial and safe for you to add nodes whenever you need to, and
-delete old nodes for any reason.
+Your web nodes should be stateless. Put them behind a load balancer from the
+beginning, and practice (read: develop automation for) adding and removing
+them. It should be completely trivial and safe for you to add web nodes whenever
+you need to, and delete old nodes for any reason.
 
 If your load balancer lets you pick a distribution strategy, minimum number of
 connections is a safe bet.
