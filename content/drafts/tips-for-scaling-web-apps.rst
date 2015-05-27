@@ -122,7 +122,7 @@ Your team
 ---------
 
 It's quite likely that scaling up your team will be the hardest thing you do.
-Use tests, documentation, linters, and code review as tools for ensuring the
-quality of your code and sharing knowledge amongst team members.
+Write tests and documentation, and use linters and code review to ensure the
+quality of your code and knowledge sharing amongst team members.
 
 .. _`existing library`: https://pythonhosted.org/itsdangerous/
