@@ -11,7 +11,7 @@ solved problems.
 All of these assume you have monitoring to track your availability, and
 metrics to track various aspects of your site's performance. You want to be
 looking at 98th percentile numbers, not 50th percentile. A 50th percentile
-page load time means **half** of your users are experiencing somethign slower,
+page load time means **half** of your users are experiencing something slower,
 so this can be very misleading.
 
 Many of these are things you can do right from the start, not lessons you need
@@ -84,8 +84,10 @@ them. Analytics workloads tend to "look" different from regular transactional
 queries, and mixing them on a single server can degrade performance due to
 excessive trashing of caches.
 
-Don't rely on database migrations being fast, your application should be able
-to handle it. For example, to add a new column you'd have the following steps:
+Don't rely on database migrations being fast, your application code should be
+able to handle the database in the "pre-migration", "post-migration", and
+"during-migration" states. For example, to add a new column you'd have the
+following steps:
 
 #. Add a new nullable column to your database.
 #. Deploy application code to write to that column.
@@ -96,7 +98,7 @@ to handle it. For example, to add a new column you'd have the following steps:
 Deployment and Automation
 -------------------------
 
-Any maintaince task you perform should be encoded in software.
+Any maintenance task you perform should be encoded in software.
 
 Actually *practice* your automation. Delete and replace servers all the time,
 this is the only way to make it easy and safe.
@@ -117,4 +119,4 @@ Your team
 
 It's quite likely that scaling up your team will be the hardest thing you do.
 Use tests, documentation, linters, and code review as tools for ensuring the
-quality of your code and sharing knowledge amonst team members.
+quality of your code and sharing knowledge amongst team members.
