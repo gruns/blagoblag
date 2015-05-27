@@ -124,11 +124,4 @@ traffic that goes through that path, watching your metrics and optimizing as
 necessary. When you're confident that it will all work, move from dark reads
 to actually launching the feature.
 
-Your team
----------
-
-It's quite likely that scaling up your team will be the hardest thing you do.
-Write tests and documentation, and use linters and code review to ensure the
-quality of your code and knowledge sharing amongst team members.
-
 .. _`existing library`: https://pythonhosted.org/itsdangerous/
