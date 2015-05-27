@@ -78,7 +78,7 @@ on writes.
 
 It should be easy for you to set up additional read replicas as needed, and to
 get application servers performing queries against them. Monitor the
-replicaion lag from the primary to the replicas.
+replication lag from the primary to the replicas.
 
 Develop automation for failing over your primary to a secondary.
 
