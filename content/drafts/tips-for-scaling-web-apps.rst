@@ -46,6 +46,8 @@ great.
 Load balancing
 --------------
 
+Your web nodes should be stateless.
+
 Put your web nodes behind a load balancer from the beginning, and practice
 (read: develop automation for) adding and removing nodes. It should be
 completely trivial and safe for you to add nodes whenever you need to, and
