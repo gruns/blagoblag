@@ -23,7 +23,8 @@ encourages them to use weaker passwords.
 SSH
 ---
 
-Require two factor authentication for *all* SSH access to your servers.
+Require two factor authentication for *all* SSH access to your servers. Products
+such as `Duo`_ make this straightforward.
 
 Avoid people needing to SSH into things at all: for example, have a centralized
 logging system which aggregates logs from multiple systems.
@@ -46,3 +47,12 @@ failures which combined, like a toxic drug interaction.
 
 Maintain your systems in such a way that it's easy for you to patch things and
 do rolling restarts. Applying a patch **must** not be a disruptive activity.
+
+Education
+---------
+
+Developers should be familiar with basic security vulnerabilities for whatever
+space you're working in. For example, developers working on web applications
+should be familiar with SQL injection and cross-site scripting.
+
+.. _`Duo`: https://www.duosecurity.com/product/applications/unix-ssh
