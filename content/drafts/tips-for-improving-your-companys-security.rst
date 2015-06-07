@@ -18,7 +18,7 @@ make it easy for administrators to check if their team members have two factor
 enabled, and require it.
 
 **Do not** require your users to rotate their passwords. This practice just
-**encourages them to use weaker passwords.
+encourages them to use weaker passwords.
 
 SSH
 ---
