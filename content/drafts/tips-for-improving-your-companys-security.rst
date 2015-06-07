@@ -38,11 +38,11 @@ use an authenticated and encrypted channel (e.g. TLS).
 Patching
 --------
 
-Aggresively stay up to date on applying patches, even if the bugs they fix don't
-seem relevant.
+Aggressively stay up to date on applying patches, even if the bugs they fix
+don't seem relevant.
 
 Remember, complex systems failures do not occur because one thing is broken in a
-realy subtle way, they occur because multiple components had independent
+really subtle way, they occur because multiple components had independent
 failures which combined, like a toxic drug interaction.
 
 Maintain your systems in such a way that it's easy for you to patch things and
