@@ -43,3 +43,6 @@ seem relevant.
 Remember, complex systems failures do not occur because one thing is broken in a
 realy subtle way, they occur because multiple components had independent
 failures which combined, like a toxic drug interaction.
+
+Maintain your systems in such a way that it's easy for you to patch things and
+do rolling restarts. Applying a patch **must** not be a disruptive activity.
