@@ -10,9 +10,9 @@ was not the language itself, but how refreshing the tooling around Rust was.
 Rust comes with a build and packaging system named `Cargo`_. I wish every
 programming language had something like Cargo:
 
-Cargo presents a consistent interface to building libraries and binaries, any
+Cargo presents a consistent interface to building libraries and binaries. Any
 Rust project's source can be built with just ``cargo build``. It also provides
-seemless integration with the package management system, to add a new dependency
+seamless integration with the package management system, to add a new dependency
 all you need to do is add ``library = "version"`` to your build configuration
 (``Cargo.toml``) and the next time you ``cargo build`` the library is installed
 for you.
@@ -25,7 +25,7 @@ is trivial. Just slap ``language: rust`` in your ``.travis.yml`` and you're
 done.
 
 Finally, Rust/Cargo make deployment easy by emitting statically linked
-binraries. Simply ``cargo build --release`` and do what you want with the
+binaries. Simply ``cargo build --release`` and do what you want with the
 binary, e.g. ``scp`` to your server and run.
 
 Coming from the worlds of Python, Ruby, Java, or Go there's so much to love
