@@ -42,5 +42,8 @@ here:
 Working in Rust is refreshingly modern. Out of the box all the pieces you need
 for a real software development environment are just there.
 
+PS: Here's the `thing I made`_.
+
 .. _`Rust`: http://www.rust-lang.org/
 .. _`Cargo`: http://doc.crates.io/
+.. _`thing I made`: https://github.com/alex/rust-asn1
