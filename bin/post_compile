@@ -11,4 +11,4 @@ function puts-step (){
 
 puts-step "Running liquidluck"
 liquidluck build -v | indent
-cp content/resume.pdf deploy/
+rst2pdf resume.rst -o deploy/resume.pdf

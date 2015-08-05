@@ -1,3 +1,4 @@
 liquidluck==3.8.1
 Twisted==15.3.0
 zope.interface==4.1.2
+rst2pdf
