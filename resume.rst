@@ -10,6 +10,8 @@ Alex Gaynor
 Stuff I've done
 ---------------
 
+* Comfortable programming in Python, Ruby, Java, C, C++, Javascript, SQL, Rust,
+  Go.
 * Migrated billions of files and database rows without any user visible impact
 * Debugged a memory leak by staring at a core dump
 * Discovered a security vulnerability in Glibc
