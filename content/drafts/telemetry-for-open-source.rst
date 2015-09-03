@@ -74,3 +74,5 @@ deferring to a loud minority at the expense of the overwhelming majority.
 If a culture emerged of users being ok with open source projects phoning home
 with using statistics, and with open source projects using these to inform
 decisions projects would be able to deliver better results.
+
+.. _`pyca/cryptography`: https://cryptography.io
