@@ -3,7 +3,7 @@ Telemetry for Open Source
 
 What's the biggest difference between offering some functionality as an open
 source library, and in offering it as an HTTP API? To me the single biggest
-difference is that running a web service lets you instrument what's users and
+difference is that running a web service lets you instrument whats users are
 using, and collect telemetry, while shipping an open source library doesn't.
 
 For a combination of social and technical reasons, the open source community has
