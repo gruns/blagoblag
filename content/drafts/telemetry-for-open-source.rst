@@ -33,7 +33,7 @@ deprecated functionality be removed.
 
 This would provide a considerably better experience both for maintainers, who
 could use actual data to make decisions, as well as for users who would be less
-likely to inadvertantly find themselves in the middle of a highly disruptive
+likely to inadvertently find themselves in the middle of a highly disruptive
 breakage.
 
 Other library version
@@ -46,8 +46,8 @@ of a system library? For `pyca/cryptography`_ we are constantly faced with the
 issue of supporting a wide variety of OpenSSL versions.
 
 Unfortunately we have no data on what versions most of our users are on. As a
-result we hear exclusively from users who experience compability problems, most
-of whom are using outrageously out of date versions of OpenSSL.
+result we hear exclusively from users who experience compatibility problems,
+most of whom are using outrageously out of date versions of OpenSSL.
 
 If we had actual data on what real users used, we could craft a much better
 compatibility policy that ensured large swaths of our were supported, without
@@ -56,7 +56,7 @@ burdening the project by supporting tiny minorities.
 Feature usage
 -------------
 
-Lots of open source projects claim to be targetting "80/20" use cases. Write 20%
+Lots of open source projects claim to be targeting "80/20" use cases. Write 20%
 of the code, serve 80% of the users. However, once again, there's basically
 never any data to support their ideas about which features users actually need.
 
