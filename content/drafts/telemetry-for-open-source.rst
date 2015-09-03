@@ -40,10 +40,10 @@ Other library version
 ---------------------
 
 An extremely common question that faces open source maintainers is "What
-versions of other *other* software are my users using?" This is everything from
-what version of Python, what version of another Python library, or what version
-of a system library? For `pyca/cryptography`_ we are constantly faced with the
-issue of supporting a wide variety of OpenSSL versions.
+versions of *other* software are my users using?" This is everything from what
+version of Python, what version of another Python library, or what version of a
+system library? For `pyca/cryptography`_ we are constantly faced with the issue
+of supporting a wide variety of OpenSSL versions.
 
 Unfortunately we have no data on what versions most of our users are on. As a
 result we hear exclusively from users who experience compatibility problems,
