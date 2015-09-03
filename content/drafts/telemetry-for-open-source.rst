@@ -64,6 +64,30 @@ Armed with better data about which features are used, and which features aren't,
 projects would have the opportunitty to craft better APIs, which address the
 actual problems users have.
 
+How we got here
+---------------
+
+I mentioned that there are technical and social reasons we got here.
+
+The social reasons are complex. While some open source projects do report
+telemetry, they are universally end-user facing and supported by large companies
+(e.g. Firefox). Community developed open source projects come out of an ethos
+that, by and large, does not approve of software phoning home for any reason.
+
+The technical reasons are simplistic. There's a lack of tooling, meaning that
+for any one project to instrument itself, they need to invest considerable up
+front effort. Further, a lot of the value that could be derived here would be in
+dynamic languages. They do not have a compile time phase where many of these
+statistics could be reported. Instead, statistics need to be collected and
+reported at runtime which increases the chances that the metrics collection
+would disrupt normal functionality.
+
+Both of these can be addressed largely by building common tooling that is used
+by many projects. This would give many advantages such as being able to
+aggregate reporting across many libraries to minimize network traffic, and
+sufficient scale that would justify `investment in privacy preserving
+algorithms`_.
+
 Conclusion
 ----------
 
@@ -76,3 +100,4 @@ with using statistics, and with open source projects using these to inform
 decisions projects would be able to deliver better results.
 
 .. _`pyca/cryptography`: https://cryptography.io
+.. _`investment in privacy preserving algorithms`: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42852.pdf
