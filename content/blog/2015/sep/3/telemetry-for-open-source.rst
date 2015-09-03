@@ -27,7 +27,7 @@ deprecation.
 In a world where open source libraries were highly instrumented, maintainers
 could start by adding metrics on how often a feature they wanted to deprecate
 was used. This would give a baseline on current usage. Maintainers could then
-introduce deprecration warnings in the program and try to publicize the
+introduce deprecation warnings in the program and try to publicize the
 deprecation. Finally, only when usage dropped below a threshold would the
 deprecated functionality be removed.
 
@@ -61,7 +61,7 @@ of the code, serve 80% of the users. However, once again, there's basically
 never any data to support their ideas about which features users actually need.
 
 Armed with better data about which features are used, and which features aren't,
-projects would have the opportunitty to craft better APIs, which address the
+projects would have the opportunity to craft better APIs, which address the
 actual problems users have.
 
 How we got here
@@ -95,7 +95,7 @@ Right now, open source maintainers have almost no data about how their libraries
 are used with which to make decisions. The result is a lot of guess-work, and
 deferring to a loud minority at the expense of the overwhelming majority.
 
-If a culture emerged of users being ok with open source projects phoning home
+If a culture emerged of users being okay with open source projects phoning home
 with using statistics, and with open source projects using these to inform
 decisions projects would be able to deliver better results.
 
