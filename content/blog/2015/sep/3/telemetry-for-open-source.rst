@@ -50,8 +50,8 @@ result we hear exclusively from users who experience compatibility problems,
 most of whom are using outrageously out of date versions of OpenSSL.
 
 If we had actual data on what real users used, we could craft a much better
-compatibility policy that ensured large swaths of our were supported, without
-burdening the project by supporting tiny minorities.
+compatibility policy that ensured large swaths of our users were supported,
+without burdening the project by supporting tiny minorities.
 
 Feature usage
 -------------
