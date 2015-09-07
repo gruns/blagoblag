@@ -18,7 +18,7 @@ developers and sysadmins to keep track of vulnerabilities in the myriad of
 software packages they use would be enormous, no one would ever manage to ship
 any software (or secure it)!
 
-The distro's appear to use a definition of security issues that is:
+The distros appear to use a definition of security issues that is:
 
     A specific bug in a specific piece of software that results in a specific
     vulnerability (that someone, under some threat model, could exploit)
