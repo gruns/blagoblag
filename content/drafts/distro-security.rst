@@ -1,5 +1,5 @@
-Your Distro's Definition of a Security Issue is Problematic
-===========================================================
+Your Distro's Definition of a Security Issue is Wrong
+=====================================================
 
 Outline:
 
