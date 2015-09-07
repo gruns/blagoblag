@@ -63,7 +63,7 @@ community has done with `PEP 466`_.
 In order to enable this, library authors need to be more rigorous in maintaing
 backwards compatibility, including ABI compatibility. Distributors should not
 be forced to choose between shipping something insecure and breaking the world
-to secure it. The commmunity at lrge should be more acceptable of `tooling
+to secure it. The commmunity at large should be more acceptable of `tooling
 which will enable better adherence to backwards compatibility`_.
 
 Finally, Linux distributions should move towards deploying individual packages
