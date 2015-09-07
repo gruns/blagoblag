@@ -50,9 +50,37 @@ pip RCE
 Conclusion
 ----------
 
+Because of the narrow way in which distros define security issues, users of
+their "stable" releases are generally running very old versions of things.
+These versions do not have any specific vulnerabilities, nevertheless have
+non-security bugs and missing features which block eco-system wide efforts to
+improve security.
 
-* Distros need to be more aggressive in upgrading to the latest versions of software
-* Packages need to be better about packages compatibility so that distros can ship newer versions. It's not like "every 6-18 months everything breaks" was acceptable anyways.
+Linux distributors need to more aggressively upgrade packages, particularly
+security sensitive ones, to newer versions; similarly to what the Python
+community has done with `PEP 466`_.
 
+In order to enable this, library authors need to be more rigorous in maintaing
+backwards compatibility, including ABI compatibility. Distributors should not
+be forced to choose between shipping something insecure and breaking the world
+to secure it. The commmunity at lrge should be more acceptable of `tooling
+which will enable better adherence to backwards compatibility`_.
+
+Finally, Linux distributions should move towards deploying individual packages
+as isolated containers, with their own copy of dependencies. It should be
+possible for Debian developers to push out new versions of OpenSSL for Nginx
+specifically, rather than for the entire OS. Debian developers are able to test
+Nginx with a new version of OpenSSL, while they are not able to test it with
+arbitrary software, this lets them be less conservative and defensive in
+upgrades.
+
+Most internet security standards and key open source security software was
+developed in a time where security was less prioritized than it is today, and
+with different threat models. As the software engineering community attempts to
+roll out security improvements, it's important that we not burden these
+migrations by continuing to use antiquated software.
 
 .. [#] Though many companies which produce Linux distributions *also* pay people to work on the kernel and various components of one of the Linux userspace stacks.
+
+.. _`PEP 466`: https://www.python.org/dev/peps/pep-0466/
+.. _`tooling which will enable better adherence to backwards compatibility`: https://alexgaynor.net/2015/sep/03/telemetry-for-open-source/
