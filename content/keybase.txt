@@ -1,0 +1,77 @@
+==================================================================
+https://keybase.io/alex_gaynor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alexgaynor.net
+  * I am alex_gaynor (https://keybase.io/alex_gaynor) on keybase.
+  * I have a public key with fingerprint E27D 4AA0 1651 72CB C5D2  AF2B 125F 5C67 DFE9 4084
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.22"
+        },
+        "key": {
+            "eldest_kid": "0101dbd7fdf5f2c3e60c3c524f0f0891a98194565c499567aaaa04afbce6054c6b8e0a",
+            "fingerprint": "e27d4aa0165172cbc5d2af2b125f5c67dfe94084",
+            "host": "keybase.io",
+            "key_id": "125f5c67dfe94084",
+            "kid": "0101dbd7fdf5f2c3e60c3c524f0f0891a98194565c499567aaaa04afbce6054c6b8e0a",
+            "uid": "1ca057c2a6fa556866b4b7543f21cd00",
+            "username": "alex_gaynor"
+        },
+        "service": {
+            "hostname": "alexgaynor.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1444657997,
+    "expire_in": 157680000,
+    "prev": "63e031196fb50ca8e71234296505faa72fc87d1575ee0eea29c40412ad33151f",
+    "seqno": 34,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtkm1QFWUUxy+YhJSiYIIgwmxDMEa4u3dfcXzhpQEZuxBDORLTbffZZy8L193L
+3svLDYFEJsCCmFJKq+s0EmlgNVJMCdIU1E1SECQcMBCdQcTAtDHAMaBdpRmb6WPn
+0zNzfv9z/uecp3b5EoO3h58503J5Ylu5x88TvOHF4Na0IoRXBCcSU4QAqwRlh/6S
+ud0QiUFyoJPn7DBaUsJkRYDR2fawRSYKyYeqXVJkjUKjmWgcR4qjdF5XQ6sA7Q5z
+jiToWQzFBF6gRUEkRRwYIYUCIyBxQkRFlGExjmUwliApEhAsS1I0pwVKcCIPNJIk
+AMUzEOW0hqIkW6BqUyXdIgJxWiA0EqNIjMYBD0gB50Scx3BSJAFFCyJkCZQhNGGW
+Ynf8axjkvlPzfXv/wf/PvvMe9AEcStIA5yiRI0mKoSie4GmSMIo4BgQU1UE7VBcX
+z1lhodnCOWVF1feqJfIlAPXd6sM8BD1gomWon8SmKg4FKFYtl+Vw2OwxutbhtOlw
+AeTNi2XMvCQL2jIR10NXxDQUOCS9MEYQBEXSLEtHIbDQJqnQLOkESVMMqoXeCOZr
+NSkjRI0YxlIiT6KAYyCN4UYCZykSJUWOo3ERMLSg6UgIUQg5nAUESmA4JxiNGImJ
+iD5ZrqwgMUZCM8pZtJp2ySJzjjwVIsVVnuseMXh4G7yWeur/1OCzbOU/n9fV47vw
+8s0rX1tqgyZemREOl2FfTM1/MJnpL6YkpG89PRbOHtzVuVmO9f8+57GRA8MeV32n
+mfSy1fFR18JWBgw++R6IMOfc/aavxT13obHhz8HM14d2w+aPTb6/3szrm961MD/X
+eed6rqnDhm1abs38qb9t/NYzrX03hiuE0FXOVHdEdnvYVcv7j39Z8vQPfnvJpUXZ
+3c2pCQN/rPC8FrojfRqMtrZteaM5vdVQb4WnuSDT+dH8DLS6bq5mWVXmpTjL+RXB
+hj0d5vKsgtS3y6oqv3uqcIPPVz2pRw937SjdN19b81dz3cU516XIK2WDC/ZJJ1HY
+NXUi9lC3O67N751QS8ALIZWv7c1yd5lGOpLEX0aOn8k1PJEkB66uOaCuzcuY3OPB
+VJugZ8Y9tHvTlogBz9Z7gTOW3pnfEwdGD82mrKpT3XfHK7z912zMLTB4nV146Qbs
+bypBfPaZXYm3n40/1jL06nXBGjGzfzhrvas/8vj4xbgT4adSz/mGuG4NjA3kfx5Q
+8MnO0qmTZx4NXPLbhoaDkdbNXhk/9qZVX8Avt2y9bVK2g8adFQXF9SeV9du/NYbF
+qw2VZz/qCw4KrW0bQ56bDUyorUys6XRj69rfRD/soE2NQ28lP5+U67+GC5k615DW
+3jR7NLQ3OXzjkYnYbSa0vjR4uK68pEdtanu36Zi4Nv3TU0c+S0nuvVMB/gY=
+=cEzf
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alex_gaynor
+
+==================================================================
