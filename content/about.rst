@@ -18,6 +18,10 @@ Hi, you've reached my website. I'm Alex Gaynor. Here's some facts about me:
 
 My PGP key fingerprint is::
 
+    F7FC 698F AAE2 D2EF BECD  E98E D1B3 ADC0 E023 8CA6
+
+my old PGP key finger is::
+
     E27D 4AA0 1651 72CB C5D2  AF2B 125F 5C67 DFE9 4084
 
 My `resume is available`_, though I'm not looking for work at present.
