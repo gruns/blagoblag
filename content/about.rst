@@ -20,7 +20,7 @@ My PGP key fingerprint is::
 
     F7FC 698F AAE2 D2EF BECD  E98E D1B3 ADC0 E023 8CA6
 
-my old PGP key finger is::
+my old PGP key fingerprint is::
 
     E27D 4AA0 1651 72CB C5D2  AF2B 125F 5C67 DFE9 4084
 
