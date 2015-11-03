@@ -8,7 +8,7 @@ security vulnerabilities. This process is largely inspired by my involvement
 in the `Django project`_, whose process is in turn largely drawn from the
 `PostgreSQL project's`_ process. For every recommendation I make I'll try
 to explain why I've made it, and how it serves to protect you and your users.
-This is largely tailored at large, high impact, projects, but you should
+This is largely tailored at large, high impact, projects, but you should be
 able to apply it to any of your projects.
 
 Why do you care?
