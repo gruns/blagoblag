@@ -27,7 +27,7 @@ work:
   as an API and tooling for *automatic* certificate provisioning. The price
   point and the automation will be a huge help to getting more websites
   deployed with HTTPS, bringing us to a world where MITM-free is the default
-  for web browsing, not the special privilege of banks. It's targetting a
+  for web browsing, not the special privilege of banks. It's targeting a
   launch on December 3rd, and is `accepting donations`_.
 * **Rust**: Rust is a new programming language, whose development is being
   funded by Mozilla. Rust is important because it combines the low-levelness
