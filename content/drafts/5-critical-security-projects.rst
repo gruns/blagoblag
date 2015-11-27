@@ -40,7 +40,7 @@ work:
   are easier to implement correctly and provide increased resistance against
   all manner of side channel attacks. Uptake of elliptic curve cryptography is
   important because algorithms such as RSA are proving weaker than we expected,
-  due to advances in "index calculus". They are currently working their way
+  due to advances in `"index calculus"`_. They are currently working their way
   through IETF standardization and will hopefully find their way into a TLS
   stack near you shortly.
 * **Chromebook**: It's the holiday season, which means I just spent an hour
@@ -49,3 +49,5 @@ work:
   your bank's website. Chromebooks achieve this by moving everything to run
   under the web's security model, whereas *iOS* achieved similar ends using
   native sandboxing. Chromebooks are available for sale now.
+
+.. _`"index calculus"`: https://en.wikipedia.org/wiki/Index_calculus_algorithm
