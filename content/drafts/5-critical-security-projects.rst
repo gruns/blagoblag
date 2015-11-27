@@ -27,7 +27,7 @@ work:
   as an API and tooling for *automatic* certificate provisioning. The price
   point and the automation will be a huge help to getting more websites
   deployed with HTTPS, bringing us to a world where MITM-free is the default
-  for web browsing, not the special privledge of banks.
+  for web browsing, not the special privilege of banks.
 * **Rust**: Rust is a new programming language, whose development is being
   funded by Mozilla. Rust is important because it combines the low-levelness
   and performance of *C* with the safety of a higher-level language. A ton of
@@ -46,6 +46,6 @@ work:
 * **Chromebook**: It's the holiday season, which means I just spent an hour
   de-malwaring my family's computers. Chromebooks bring to the desktop much
   needed sandboxing, preventing malicious content for taking over things like
-  your bank's website. Chromebook's acheive this by moving everything to run
-  under the web's security model, whereas *iOS* acheived similar ends using
+  your bank's website. Chromebooks achieve this by moving everything to run
+  under the web's security model, whereas *iOS* achieved similar ends using
   native sandboxing. Chromebooks are available for sale now.
