@@ -35,14 +35,14 @@ work:
   long way to obliterating those. Rust's 1.0 release was earlier this year.
 * **X25519/Ed25519**: *X25519* is an elliptic curve key exchange algorithm, and
   *Ed25519* is an elliptic curve signature algorithm. They are important for
-  two reasons: a) they remove concerns that some have about the current crop of
-  elliptic curves (notably P-256) having some sort of NSA backdoor, and b)
-  they are easier to implement correctly and provide increased resistance
-  against all manner of side channel attacks. Uptake of elliptic curve
-  cryptography is important because algorithms such as RSA are proving weaker
-  than we expected, due to advances in "index calculus". They are currently
-  working their way through IETF standardization and will hopefully find their
-  way into a TLS stack near you shortly.
+  two reasons: a) they remove concerns that some have about a theoretical NSA
+  backdoor in the current crop of elliptic curves (notably P-256), and b) they
+  are easier to implement correctly and provide increased resistance against
+  all manner of side channel attacks. Uptake of elliptic curve cryptography is
+  important because algorithms such as RSA are proving weaker than we expected,
+  due to advances in "index calculus". They are currently working their way
+  through IETF standardization and will hopefully find their way into a TLS
+  stack near you shortly.
 * **Chromebook**: It's the holiday season, which means I just spent an hour
   de-malwaring my family's computers. Chromebooks bring to the desktop much
   needed sandboxing, preventing malicious content for taking over things like
