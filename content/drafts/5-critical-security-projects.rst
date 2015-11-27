@@ -27,7 +27,8 @@ work:
   as an API and tooling for *automatic* certificate provisioning. The price
   point and the automation will be a huge help to getting more websites
   deployed with HTTPS, bringing us to a world where MITM-free is the default
-  for web browsing, not the special privilege of banks.
+  for web browsing, not the special privilege of banks. It's targetting a
+  launch on December 3rd, and is `accepting donations`_.
 * **Rust**: Rust is a new programming language, whose development is being
   funded by Mozilla. Rust is important because it combines the low-levelness
   and performance of *C* with the safety of a higher-level language. A ton of
@@ -50,4 +51,5 @@ work:
   under the web's security model, whereas *iOS* achieved similar ends using
   native sandboxing. Chromebooks are available for sale now.
 
+.. _`accepting donations`: https://letsencrypt.org/become-a-sponsor/
 .. _`"index calculus"`: https://en.wikipedia.org/wiki/Index_calculus_algorithm
