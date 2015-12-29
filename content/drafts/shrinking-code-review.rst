@@ -43,9 +43,11 @@ writing less code, a great much about has been written about this topic.
 Instead I'm going to focus on how to split up your changes.
 
 I want to start with a meta point: don't try to prematurely split up your
-patch. Write your feature or bugfix as you normally would, file a pull request
-with everything in one patch, and then work with your reviewers to split the
-patch up.
+patch. If in the process of writing your feature or bugfix you notice something
+that belongs in it's own patch, it makes sense to split it out into it's own
+branch immediately, but it's not worth obsessing about. There's nothing wrong
+with submitting a large PR because you weren't sure how to best split it up and
+working through that with your reviewers.
 
 With that out of the way, here's a few tactics for splitting up a large patch:
 
