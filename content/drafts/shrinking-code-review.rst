@@ -38,7 +38,7 @@ lot going on. Or as one developer succinctly put it:
 How do we solve this? Smart ass answer: smaller code reviews! Ok but *how*?
 
 Fundamentally there's only two ways to get smaller reviews: write less code or
-split your changes up across multiple reviews. I'm not going to focus much on
+split your changes up across multiple reviews. I'm not going to focus on
 writing less code, a great much about has been written about this topic.
 Instead I'm going to focus on how to split up your changes.
 
