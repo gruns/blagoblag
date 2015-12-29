@@ -14,7 +14,7 @@ There's a few reasons for this:
   everything is in the correct place. It's hard to focus on the little details
   (like: does the business logic even do the right thing) when you're looking
   at the big picture.
-* It encourages bikeshedding. Ironically, in addition to making it harder to to
+* It encourages bikeshedding. Ironically, in addition to making it harder to
   focus on details, the large scope of a large patch means that fewer people
   feel capable of providing substantive feedback, this encourages low quality
   feedback on unimportant minutia.
@@ -51,9 +51,9 @@ With that out of the way, here's a few tactics for splitting up a large patch:
 
 **Dependencies**: If your patch upgrades a dependency, split that out. Often
 you'll bump a dependency and then go to resolve a deprecation warning or add a
-new feature using it. Do the bump in a seperate PR. This is particularly
+new feature using it. Do the bump in a separate PR. This is particularly
 important if you vendor your dependencies, where changes to the vendoered files
-will "polute" review space, making it easy to miss the changes to your
+will "pollute" review space, making it easy to miss the changes to your
 software.
 
 **Utilities**: If your patch adds stand-alone utility functions, split them
@@ -83,7 +83,7 @@ particularly code path *isn't* implemented yet). Each pull request that's
 merged should stand alone, tests that assert that the intermediate state is
 correct are just as important as ones that assert about the final state.
 
-One final note: to do this in pratice, it's important you know your VCS well.
+One final note: to do this in practice, it's important you know your VCS well.
 ``git`` in particular has many features which make this type of workflow
 pleasant if you know them well.
 
