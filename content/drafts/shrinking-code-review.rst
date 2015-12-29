@@ -77,6 +77,15 @@ realize the code is a bit messy and to end up with both some cleanups or
 refactors and the feature you originally set out to write. Split that refactor
 out.
 
+In the process of splitting a patch out, you may have to write small amounts of
+code that are specific to the intermediate state (for example, a test that a
+particularly code path *isn't* implemented yet). Each pull request that's
+merged should stand alone, tests that assert that the intermediate state is
+correct are just as important as ones that assert about the final state.
+
+One final note: to do this in pratice, it's important you know your VCS well.
+``git`` in particular has many features which make this type of workflow
+pleasant if you know them well.
 
 .. [#] http://smartbear.com/SmartBear/media/pdfs/11_Best_Practices_for_Peer_Code_Review.pdf
 
