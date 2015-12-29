@@ -87,6 +87,6 @@ One final note: to do this in practice, it's important you know your VCS well.
 ``git`` in particular has many features which make this type of workflow
 pleasant if you know them well.
 
-.. [#] http://smartbear.com/SmartBear/media/pdfs/11_Best_Practices_for_Peer_Code_Review.pdf
+.. [#] https://smartbear.com/SmartBear/media/pdfs/11_Best_Practices_for_Peer_Code_Review.pdf
 
 .. _`feature flags`: https://blog.travis-ci.com/2014-03-04-use-feature-flags-to-ship-changes-with-confidence/
