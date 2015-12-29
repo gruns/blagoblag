@@ -52,7 +52,7 @@ With that out of the way, here's a few tactics for splitting up a large patch:
 **Dependencies**: If your patch upgrades a dependency, split that out. Often
 you'll bump a dependency and then go to resolve a deprecation warning or add a
 new feature using it. Do the bump in a separate PR. This is particularly
-important if you vendor your dependencies, where changes to the vendoered files
+important if you vendor your dependencies, where changes to the vendored files
 will "pollute" review space, making it easy to miss the changes to your
 software.
 
