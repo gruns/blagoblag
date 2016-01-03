@@ -30,7 +30,7 @@ Stuff I've done
 Work
 ----
 
-* **Digital Services Expert**, United States Department of Veterans Affairs
+* **Digital Services Expert**, United States Digital Service
   *January 2015 -*
 * **Director**, Python Software Foundation
   *April 2013 -*
