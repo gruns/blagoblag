@@ -1,7 +1,8 @@
 Don't have environments
 =======================
 
-*Almost every good idea this blog post comes from `David Reid`_, the bad ones are mostly mine*.
+    Almost every good idea this blog post comes from `David Reid`_, the bad
+    ones are mostly mine*
 
 Let's say you're making a website. Your customers (and randos who maybe you'd
 like to be your customers) need to access it, so you create a **production**
