@@ -78,9 +78,9 @@ production".
 
 How do you address the desire of people to see what not-yet-deployed work looks
 like in this context? Instead of having a fixed number environments, have ∞
-environments. Specifically, give every single pull request its own
-environment, and have the tooling to spin up and tear down any other
-environments you want (e.g. for benchmarking) on demand.
+environments. Specifically, give every single pull request its own environment,
+and have the tooling to spin up and tear down any other environments you want
+(e.g. for benchmarking) on demand.
 
 In short, every project should have what Heroku calls `"Review Apps"`_. Every
 pull request gets its own deployed environment on demand, allowing it to be
