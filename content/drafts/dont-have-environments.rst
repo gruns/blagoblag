@@ -96,6 +96,7 @@ staging, and pre-production environments. Instead maintain only *one* standing
 environment, production. Manage everything else through short lived
 per-pull-request deployments.
 
+.. _`David Reid`: https://dreid.org/
 .. _`Sentry`: https://getsentry.com/welcome/
 .. _`"Review Apps"`: https://devcenter.heroku.com/articles/github-integration-review-apps
 .. _`feature flags`: https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
