@@ -36,11 +36,11 @@ is somewhere else.
 
 Fuck it, this is too much of a mess, let's just deploy ``master``, the staging
 environment looks fine anyways. You do that, and stuff looks like it's ok,
-except shit `Sentry`_ is going bananas which exceptions, it looks like you
-totally broke one of the workflow. Damn, I remember leaving that review, "Let's
-land this as is but make sure we fix this bug before the next deploy". I guess
-we need to rollback and fix the issue, hopefully no one exploits the security
-issue we were trying to fix in the first place.
+except shit `Sentry`_ is going bananas with exceptions, it looks like you
+totally broke one of the workflows. Damn, I remember leaving that review,
+"Let's land this as is, but make sure we fix this bug before the next deploy".
+I guess we need to rollback and fix the breakage, hopefully no one exploits the
+security issue we were trying to fix in the first place.
 
 Eventually you get it fixed and decide you need a new environment, so it's
 easier to deploy critical fixes. Now you've got **production**, **staging**,
