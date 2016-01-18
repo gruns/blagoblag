@@ -100,7 +100,7 @@ resources, at a minimum this means the ability to provision new VMs (e.g.
 `EC2`_) and to make it as painless and fast as possible you probably want a
 cluster scheduler (e.g. `ECS`_). And if that sounds like too much work, I'm
 told Heroku accepts cash in exchange for goods and services, but it's way less
-work than trying to disentagle ``staging`` from ``testing`` from ``master``
+work than trying to disentangle ``staging`` from ``testing`` from ``master``
 from ``production`` from ``joe-temporary-production``.
 
 To summarize, don't create fixed deployment pipelines composed of testing, and
