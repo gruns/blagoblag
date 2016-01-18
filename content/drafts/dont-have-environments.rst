@@ -92,6 +92,17 @@ When features are large, and require many separate pull requests to form the
 full user-facing functionality, `feature flags`_ should be used, rather than
 creating massive branches with everything in them.
 
+Doing this in the real world requires investing in automation. You cannot jump
+directly from "standing up a new environment requires me to get my boss to sign
+a purchase order" to "every branch is deployed as soon as a pull request is
+created". You'll want the ability to automatically provision and schedule
+resources, at a minimum this means the ability to provision new VMs (e.g.
+`EC2`_) and to make it as painless and fast as possible you probably want a
+cluster scheduler (e.g. `ECS`_). And if that sounds like too much work, I'm
+told Heroku accepts cash in exchange for goods and services, but it's way less
+work than trying to disentagle ``staging`` from ``testing`` from ``master``
+from ``production`` from ``joe-temporary-production``.
+
 In short, don't create fixed deployment pipelines composed of testing, and
 staging, and pre-production environments. Instead maintain only *one* standing
 environment, production. Manage everything else through short lived
@@ -101,3 +112,5 @@ per-pull-request deployments.
 .. _`Sentry`: https://getsentry.com/welcome/
 .. _`"Review Apps"`: https://devcenter.heroku.com/articles/github-integration-review-apps
 .. _`feature flags`: https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
+.. _`EC2`: https://aws.amazon.com/ec2/
+.. _`ECS`: https://aws.amazon.com/ecs/
