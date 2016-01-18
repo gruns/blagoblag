@@ -103,7 +103,7 @@ told Heroku accepts cash in exchange for goods and services, but it's way less
 work than trying to disentagle ``staging`` from ``testing`` from ``master``
 from ``production`` from ``joe-temporary-production``.
 
-In short, don't create fixed deployment pipelines composed of testing, and
+To summarize, don't create fixed deployment pipelines composed of testing, and
 staging, and pre-production environments. Instead maintain only *one* standing
 environment, production. Manage everything else through short lived
 per-pull-request deployments.
