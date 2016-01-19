@@ -65,7 +65,7 @@ between them are.
 
 No matter how many environments you create, and force changes to flow through,
 you can't escape the fact that if you merge things that aren't ready to be
-deployed to **production** into one of these environements, the process of
+deployed to **production** into one of these environments, the process of
 flowing an unrelated patch through it will be harder and more ad-hoc. Pull
 requests which are not ready should not be merged into the production track,
 and ones which are only later discovered to not have been ready should be
