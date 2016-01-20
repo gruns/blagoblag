@@ -12,14 +12,18 @@ automatically issued and kept up to date.
 
 You can grab a copy on `Github`_.
 
-To get started with Let's Encrypt, first you create your account key:
+To get started with Let's Encrypt, first you create your account key, and place
+the private key in ``account-key.pem``:
 
 .. code-block:: console
 
-    $ python letsencrypt-aws.py register <email-address> --out=account-key.pem
-    [acme-register.generate-key]
-    [acme-register.register] email=<email-address>
-    [acme-register.agree-to-tos]
+    $ python letsencrypt-aws.py register email@host.com
+    2016-01-09 19:56:19 [acme-register.generate-key]
+    2016-01-09 19:56:20 [acme-register.register] email=u'email@host.com'
+    2016-01-09 19:56:21 [acme-register.agree-to-tos]
+    -----BEGIN RSA PRIVATE KEY-----
+    [...]
+    -----END RSA PRIVATE KEY-----
 
 Now tell it about your ELBs:
 
