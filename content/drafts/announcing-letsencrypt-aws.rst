@@ -25,7 +25,7 @@ Now tell it about your ELBs:
 
 .. code-block:: bash
 
-    $ export LETSENCRYPT_AWS_CONFIG='{
+    export LETSENCRYPT_AWS_CONFIG='{
         "domains": [
             {
                 "hosts": ["host.com", "www.host.com"],
@@ -36,7 +36,7 @@ Now tell it about your ELBs:
         ],
         "acme_account_key": "file:///path/to/account-key.pem"
     }'
-    $ python letsencrypt-aws.py update-certificates
+    python letsencrypt-aws.py update-certificates
 
 You'll need to have your machine set up for your AWS account (using either the
 standard configuration file, environment variables, or IAM instance role).
