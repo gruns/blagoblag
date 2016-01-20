@@ -44,7 +44,7 @@ standard configuration file, environment variables, or IAM instance role).
 And then it should just work!
 
 Installing and updating certificates should be a 0-downtime operation.
-``letsenctypt-aws`` is designed to be usable in production.
+``letsencrypt-aws`` is designed to be usable in production.
 
 For full details, checkout the `README`_. Try it out, and don't hesitate to
 `file issues`_ with bugs or feature requests.
