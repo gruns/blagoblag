@@ -43,8 +43,8 @@ standard configuration file, environment variables, or IAM instance role).
 
 And then it should just work!
 
-Installing and updating certificates should be a 0-downtime operation.
-``letsencrypt-aws`` is designed to be usable in production.
+Installing and updating certificates should be a 0-downtime operation,
+``letsencrypt-aws`` does not require taking over port 80 or 443.
 
 For full details, checkout the `README`_. Try it out, and don't hesitate to
 `file issues`_ with bugs or feature requests.
