@@ -50,5 +50,5 @@ For full details, checkout the `README`_. Try it out, and don't hesitate to
 `file issues`_ with bugs or feature requests.
 
 .. _`Github`: https://github.com/alex/letsencrypt-aws/
-.. _`README`: https://github.com/alex/letsencrypt-aws/
+.. _`README`: https://github.com/alex/letsencrypt-aws/#readme
 .. _`file issues`: https://github.com/alex/letsencrypt-aws/
