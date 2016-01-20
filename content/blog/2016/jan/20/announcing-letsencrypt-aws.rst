@@ -1,5 +1,5 @@
-Announcing ``letsencrypt-aws``
-==============================
+Announcing letsencrypt-aws
+==========================
 
 If you haven't heard, Let's Encrypt is a brand new certificate authority
 offering free, automated, and trusted HTTPS certificates. It's extremely
