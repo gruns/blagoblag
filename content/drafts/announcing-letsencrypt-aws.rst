@@ -23,7 +23,7 @@ To get started with Let's Encrypt, first you create your account key:
 
 Now tell it about your ELBs:
 
-.. code-block:: console
+.. code-block:: bash
 
     $ export LETSENCRYPT_AWS_CONFIG='{
         "domains": [
