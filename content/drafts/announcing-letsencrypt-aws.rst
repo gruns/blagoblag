@@ -46,7 +46,7 @@ And then it should just work!
 Installing and updating certificates should be a 0-downtime operation.
 ``letsenctypt-aws`` is designed to be usable in production.
 
-For full details, checkout the `README._ Try it out, and don't hesitate to
+For full details, checkout the `README`_. Try it out, and don't hesitate to
 `file issues`_ with bugs or feature requests.
 
 .. _`Github`: https://github.com/alex/letsencrypt-aws/
