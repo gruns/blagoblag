@@ -6,8 +6,8 @@ About me
 
 Hi, you've reached my website. I'm Alex Gaynor. Here's some facts about me:
 
-* I work for the United States Digital Service at the Department of Veterans
-  Affairs. Content on this blog does not represent the views of my employer.
+* I work for the United States Digital Service. Content on this blog does not
+  represent the views of my employer.
 * I write a lot of Python open source code and serve as a director of the
   Python Software Foundation.
 * I live in Washington D.C., but I'm originally from Chicago. I spent about two
