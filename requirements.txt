@@ -1,5 +1,5 @@
 cffi
 liquidluck==3.8.1
-Twisted==16.1.1
+Twisted==16.2.0
 zope.interface==4.1.3
 rst2pdf
