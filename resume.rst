@@ -33,7 +33,7 @@ Work
 * **Digital Services Expert**, United States Digital Service
   *January 2015 -*
 * **Director**, Python Software Foundation
-  *April 2013 -*
+  *April 2013 - June 2016*
 * **Software Engineer**, Rackspace
   *May 2013 - January 2015*
 * **Director**, Django Software Foundation
