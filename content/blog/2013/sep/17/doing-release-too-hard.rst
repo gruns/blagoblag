@@ -33,4 +33,4 @@ Version numbers are always automatically handled correctly.
 This is how it should be. We need to bring this level of automation to all
 projects.
 
-.. _`alchimia`: http://alchimia.readthedocs.org/en/latest/
+.. _`alchimia`: https://alchimia.readthedocs.io/en/latest/

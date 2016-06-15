@@ -13,6 +13,6 @@ It's been a long time coming, since taggit 0.8 was released in June, however 0.9
    but was necessary to support lookups on all fields.
 
 
-You can checkout `the docs <http://django-taggit.readthedocs.org/>`_ for complete details.  The goals for the 1.0 release are going to be adding some useful widgets for use in the admin and forms, hopefully adding a class based generic view to replace the current one, and adding a migration command to move data from django-tagging into the django-taggit models.
+You can checkout `the docs <https://django-taggit.readthedocs.io/>`_ for complete details.  The goals for the 1.0 release are going to be adding some useful widgets for use in the admin and forms, hopefully adding a class based generic view to replace the current one, and adding a migration command to move data from django-tagging into the django-taggit models.
 
 You can get the `latest release on PyPi <http://pypi.python.org/pypi/django-taggit>`_.  Enjoy.
