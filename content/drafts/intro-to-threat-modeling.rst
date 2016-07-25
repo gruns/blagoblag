@@ -7,7 +7,7 @@ the process of building better defenses.
 
 Core to the idea of a threat model is the idea that the things you need to
 protect yourself vary depending on what you're defending against. Therefore
-threat modeling forces is the process of being explicit about who you're going
+threat modeling forces the process of being explicit about who you're going
 to defend *against*. This may sound obvious, however it's an extremely common
 trap to fall into trying to defend against everything, or to try defend against
 `"sexy" attackers`_, and ignore your most `immediate concerns`_. This is
