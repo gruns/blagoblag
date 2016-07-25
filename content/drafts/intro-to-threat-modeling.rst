@@ -62,7 +62,7 @@ the CDN and the origin could compromise the integrity of the contents.
 **Attackers:**
 
 (It's not clear that *any* attacker is interested in my site specifically, but
-let's roll with it.)
+let's pretend.)
 
 * Script kiddies, motivated by "looking cool" and defacing my site.
   Capabilities include metasploit-style attacks.
