@@ -22,6 +22,10 @@ assets. For example, SQLi in our application code could compromise our
 database. Our private key could be comprised via RCE vulnabilities in a process
 or arbitrary file disclosure.
 
+Your list of vectors will probably be long, really long. That's ok. You are
+*not* making a list of everything you're going to need to fix, you're making of
+list of potential ways your assets could be compromised.
+
 Finally, and most importantly, we want to enumerate who are attackers are. We
 want to do this in terms of two things, their capabilities and their
 motivations. For example, if an attacker might be a hacktivists whose
@@ -68,22 +72,24 @@ let's pretend.)
 * Hacktivists, motivated by defacing my site for political purposes.
   Capabilities include phishing and metasploit-style attack.
 
-Now that I have a clear model of what I need to defend against, I can tailor
-the way I invest my time in improving my site's security to the specific
-challenges I will *actually* have to deal with, instead of imaginary worse-case
-scenarios [#]_.
+So you've made some lists? Now what? Now you ruthlessly prioritize your
+investments in your security, based on what your threat model says about your
+attackers. Every minute or dime you spend on security should be addressing
+something *in your threat model*. Use your model of attackers and assets to
+cull things from the vectors list that cannot be attacked within those.
+
+An extremely common experience I've had trying to secure services is working
+with people who do not think through what they're trying to defend against, and
+end up trying to craft defenses against attackers who can already execute
+arbitrary code on a server, or who can break best-in-class cryptography,
+instead of for their real problem, which is that none of the developers on
+their team know what XSS is. A threat model is a crucial tool in avoiding this
+type of mistake.
 
 Threat modeling can be as high-level or as detailed as you want it to be. It is
 an invaluable tool in securing yourself, your company, and your code, and
-there's no time like the present to start being explicit about what your trying
-to protect, and who you're trying to protect it against.
-
-.. [#] An extremely common experience I've had trying to secure services is
-       working with people who do not think through what they're trying to
-       defend against, and end up trying to craft defenses against attackers
-       who can already execute arbitrary code on a server, or who can break
-       best-in-class cryptography, instead of for their real problem, which is
-       that none of the developers on their team know what XSS is.
+there's no time like the present to start being explicit about what you're
+trying to protect, and who you're trying to protect it against.
 
 .. _`"sexy" attackers`: https://en.wikipedia.org/wiki/Advanced_persistent_threat
 .. _`immediate concerns`: https://en.wikipedia.org/wiki/Script_kiddie
