@@ -71,7 +71,7 @@ let's roll with it.)
 
 Now that I have a clear model of what I need to defend against, I can tailor
 the way I invest my time in improving my site's security to the specific
-challenges I will *actually* have to deal, instead of imaginary worse-case
+challenges I will *actually* have to deal with, instead of imaginary worse-case
 scenarios [#]_.
 
 Threat modeling can be as high-level or as detailed as you want it to be. It is
