@@ -6,7 +6,7 @@ help defenders (that's you, I assume) understand their own systems and drive
 the process of building better defenses.
 
 Core to the idea of a threat model is the idea that the things you need to
-protect yourself vary depending on what you're defending against. Therefore
+protect yourself vary depending on what you're defending against. Therefore,
 threat modeling forces you to be explicit about who you're going to defend
 *against*. This may sound obvious, however it's an extremely common trap to
 fall into trying to defend against everything, or to try defend against `"sexy"
