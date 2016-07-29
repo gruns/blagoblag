@@ -93,7 +93,7 @@ already implemented) might look like:
 
 * Phishing my credentials to Github, CloudFlare, or Heroku
 * Attacking a vulnerability in a software component of the blog
-* Owning my laptop (breaking this down into constituent vectors is an excersise
+* Owning my laptop (breaking this down into constituent vectors is an exercise
   for the reader)
 
 Attacks such as compromising Github, CloudFlare, or Heroku are not included
