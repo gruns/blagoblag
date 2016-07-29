@@ -68,7 +68,7 @@ the CDN and the origin could compromise the integrity of the contents.
 **Attackers:**
 
 (It's not clear that *any* attacker is interested in my site specifically, but
-let's pretend.)
+we're listing the attackers I would want to be able to resist.)
 
 * Script kiddies, motivated by "looking cool" and defacing my site.
   Capabilities include metasploit-style attacks.
@@ -80,6 +80,26 @@ investments in your security, based on what your threat model says about your
 attackers. Every minute or dime you spend on security should be addressing
 something *in your threat model*. Use your model of attackers and assets to
 cull things from the vectors list that cannot be attacked within those.
+
+Prioritize your vectors by "cost to exploit", where cost is function of effort,
+raw dollars, and necessary capabilities, and opportunity cost. For example,
+using a 0-day you personally researched might be medium effort, and "free", but
+it would still be a very high cost because the it requires advanced capability
+to acheive and the opportunity cost of using an nginx 0-day on my site is high
+because there are more valuable targets.
+
+A prioritized list of vectors for my blog (ignoring some mitigations I've
+already implemented) might look like:
+
+* Phishing my credentials to Github, CloudFlare, or Heroku
+* Attacking a vulnerability in a software component of the blog
+* Owning my laptop (breaking this down into constituent vectors is an excersise
+  for the reader)
+
+Attacks such as compromising Github, CloudFlare, or Heroku are not included
+because the capabilities required to do so are outside my threat model. Now
+that I have a prioritized list of vectors within my threat model, I can start
+planning further mitigation activities.
 
 An extremely common experience I've had trying to secure services is working
 with people who do not think through what they're trying to defend against, and
