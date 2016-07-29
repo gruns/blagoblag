@@ -24,7 +24,7 @@ database. Our private key could be comprised via RCE vulnabilities in a process
 or arbitrary file disclosure.
 
 Vectors will also be recurisve; "compromise my laptop" is both a vector to
-getting my credentials, and also somethign which needs specific technical
+getting my credentials, and also something which needs specific technical
 vectors to accomplish. Your list of vectors will probably be long, really long.
 That's ok.. You are *not* making a list of everything you're going to need to
 fix, you're making of list of potential ways your assets could be compromised.
@@ -85,7 +85,7 @@ Prioritize your vectors by "cost to exploit", where cost is function of effort,
 raw dollars, and necessary capabilities, and opportunity cost. For example,
 using a 0-day you personally researched might be medium effort, and "free", but
 it would still be a very high cost because the it requires advanced capability
-to acheive and the opportunity cost of using an nginx 0-day on my site is high
+to achieve and the opportunity cost of using an nginx 0-day on my site is high
 because there are more valuable targets.
 
 A prioritized list of vectors for my blog (ignoring some mitigations I've
