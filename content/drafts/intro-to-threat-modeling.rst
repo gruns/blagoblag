@@ -23,9 +23,11 @@ assets. For example, SQLi in our application code could compromise our
 database. Our private key could be comprised via RCE vulnabilities in a process
 or arbitrary file disclosure.
 
-Your list of vectors will probably be long, really long. That's ok. You are
-*not* making a list of everything you're going to need to fix, you're making of
-list of potential ways your assets could be compromised.
+Vectors will also be recurisve; "compromise my laptop" is both a vector to
+getting my credentials, and also somethign which needs specific technical
+vectors to accomplish. Your list of vectors will probably be long, really long.
+That's ok.. You are *not* making a list of everything you're going to need to
+fix, you're making of list of potential ways your assets could be compromised.
 
 Finally, and most importantly, we want to enumerate who are attackers are. We
 want to do this in terms of two things, their capabilities and their
