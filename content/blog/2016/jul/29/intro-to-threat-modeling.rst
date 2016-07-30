@@ -16,7 +16,7 @@ because it will lead you astray of solving real problems to protect yourself.
 To begin, you want to start with enumerating what assets you're trying to
 protect. This is something like "all the personal information in our database"
 or "our user's ability to visit our website and get the right content" (i.e.
-availability and integirty).
+availability and integrity).
 
 Next, we want to enumerate vectors by which someone could compromise one of
 assets. For example, SQLi in our application code could compromise our
