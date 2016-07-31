@@ -23,7 +23,7 @@ assets. For example, SQLi in our application code could compromise our
 database. Our private key could be comprised via RCE vulnabilities in a process
 or arbitrary file disclosure.
 
-Vectors will also be recurisve; "compromise my laptop" is both a vector to
+Vectors will also be recursive; "compromise my laptop" is both a vector to
 getting my credentials, and also something which needs specific technical
 vectors to accomplish. Your list of vectors will probably be long, really long.
 That's ok. You are *not* making a list of everything you're going to need to
