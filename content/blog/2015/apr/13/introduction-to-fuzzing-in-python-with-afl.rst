@@ -29,9 +29,7 @@ grab a copy of the Python afl tooling and install it into the virtualenv:
 
 .. code-block:: console
 
-    $ hg clone https://bitbucket.org/jwilk/python-afl
-    $ pip install cython
-    $ pip install -e ./python-afl
+    $ pip install python-afl
 
 Now you'll want to write a small script which takes some input from
 ``sys.stdin``, and tries to parse it (or do whatever your program does):
@@ -71,7 +69,7 @@ Now you can invoke afl:
 
 .. code-block:: console
 
-    $ ./python-afl/py-afl-fuzz -o results-path/ -i /path/to/examples -- /path/to/python /path/to/your/test/script.py
+    $ py-afl-fuzz -o results-path/ -i /path/to/examples -- /path/to/python /path/to/your/test/script.py
 
 It'll pop up a curses display to let you know the progress, and you're off to
 the traces. Some of the display is self-explanatory, for the rest you can
