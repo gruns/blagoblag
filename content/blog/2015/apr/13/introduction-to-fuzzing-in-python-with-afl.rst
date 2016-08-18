@@ -54,7 +54,7 @@ Now you'll want to write a small script which takes some input from
         pass
 
 Pretty simple. The ``afl.init()`` line is a thing for performance, you should
-put that line after all your imports and setup, before before you do anything
+put that line after all your imports and setup, before you do anything
 with ``sys.stdin``. You need to make sure that you catch any exception which
 your code could throw, in ``decode_rfc6979_signature`` the only exception that
 it's documented as raising is ``ValueError``, so anything else that's raised
