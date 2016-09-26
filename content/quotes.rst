@@ -38,7 +38,7 @@ Quotes
     I disapprove of what you say, but I will defend to the death your right to
     say it.
 
-*Voltaire (attributed)*
+*Evelyn Beatrice Hall (summarizing Voltaire)*
 
 -------
 
