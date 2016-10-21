@@ -4,7 +4,7 @@
 #
 #    pip-compile --output-file requirements.txt requirements.in
 #
-cffi==1.8.3
+cffi==1.8.3               # via misaka
 docopt==0.6.2             # via liquidluck
 docutils==0.12            # via liquidluck, rst2pdf
 Jinja2==2.8               # via liquidluck
